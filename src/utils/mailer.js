@@ -53,4 +53,37 @@ const getVerifyEmail = (toEmail, url, verifyToken) => {
   };
 };
 
-export { createTransport, getVerifyEmail };
+const getOTPEmail = (toEmail, otp) => {
+  return {
+    from: config.GMAIL_USERNAME,
+    to: toEmail,
+    subject: "[EatWell] Password Change",
+    html: `
+        <div style="
+            text-align: center; 
+            height: 256px;
+            width: 512px;
+            background-color: hsl(125, 29%, 75%); 
+            padding: 2em; 
+            justify-content: center;"
+        >
+            <h1>EatWell - Your Health Assistant</h1>
+            <h3>This is your recovery code, please do not share it with anyone</h3>
+            <div>
+                    <button style="
+                        font-weight: bold; 
+                        padding: 2em; 
+                        background-color: #18aeac; 
+                        color: #fff; 
+                        width: 512px; 
+                        border: none;"
+                    >
+                        ${otp}
+                    </button>
+            </div>
+            <div>Sent at ${new Date().toUTCString()}</div>
+        </div>`,
+  };
+};
+
+export { createTransport, getVerifyEmail, getOTPEmail };

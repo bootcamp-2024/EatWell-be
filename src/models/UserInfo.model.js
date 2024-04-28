@@ -12,6 +12,7 @@ const UserInfoSchema = new mongoose.Schema(
     height: { type: Number, default: null },
     weight: { type: Number, default: null },
     token: { type: String, default: null },
+    otp: { type: String, default: null },
     isVerified: { type: Boolean, default: false },
     createdDate: { type: Date, default: new Date() },
   },

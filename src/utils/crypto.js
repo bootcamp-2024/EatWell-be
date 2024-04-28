@@ -36,6 +36,10 @@ const generateToken = (nByte) => {
   return token;
 };
 
+const generateOTP = () => {
+  return Math.floor(100000 + Math.random() * 900000).toString();
+};
+
 /**
  * Encrypt the input password with salt
  *
@@ -67,6 +71,7 @@ const verifyPassword = (input, signature) => {
 
 export {
   generateToken,
+  generateOTP,
   encryptPassword,
   verifyPassword,
   encryptBase64,
