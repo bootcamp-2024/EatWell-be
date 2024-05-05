@@ -4,18 +4,12 @@ import jwt from "jsonwebtoken";
 import config from "#src/config/config";
 import { CustomError } from "#src/middlewares/errorHandler.mdw";
 import userInfoModel from "#src/models/UserInfo.model";
-import {
-  encryptPassword,
-  generateToken,
-  verifyPassword,
-  generateOTP,
-} from "#src/utils/crypto";
-import {
-  createTransport,
-  getVerifyEmail,
-  getOTPEmail,
-} from "#src/utils/mailer";
+import { encryptPassword, generateToken } from "#src/utils/crypto";
+import { createTransport, getVerifyEmail } from "#src/utils/mailer";
+import { verifyPassword } from "#src/utils/crypto";
 import oauth2Client from "#src/utils/oauth2";
+import { generateOTP } from "../utils/crypto";
+import { getOTPEmail } from "../utils/mailer";
 
 export default {
   async signUp(req, res, next) {
@@ -29,6 +23,7 @@ export default {
 
       // Encrypt password by salting and hashing
       const encryptedPassword = encryptPassword(password);
+      console.log(encryptedPassword);
 
       // Check if email already exists
       const isEmailExists = await userInfoModel.findOne({ email }).lean();
@@ -81,16 +76,13 @@ export default {
   async logIn(req, res, next) {
     try {
       const { email, password } = req.body;
+
       // Check if email already exists
       const user = await userInfoModel.findOne({ email }).lean();
       if (!user) {
         return res.status(200).send({
           exitcode: 101,
           message: "Email or password is not correct!",
-          data: {
-            email: email,
-            password: password,
-          },
         });
       }
 
@@ -102,10 +94,6 @@ export default {
         return res.status(200).send({
           exitcode: 101,
           message: "Email or password is not correct",
-          data: {
-            email: email,
-            password: password,
-          },
         });
       }
 
@@ -152,11 +140,11 @@ export default {
     try {
       const { token } = req.body;
 
-      const result = await userInfoModel.findOneAndUpdate(
+      const result = await userInfoModel.updateOne(
         { token: token },
-        { isVerified: true }
+        { $set: { verified: true } }
       );
-      if (result) {
+      if (result.nModified === 1) {
         res.status(200).send({
           exitcode: 0,
           message: "Verification successfully",
