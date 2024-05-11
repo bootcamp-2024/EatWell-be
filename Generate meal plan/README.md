@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 - Mở "http://127.0.0.1:8000/docs" để truyền tham số
 - Chọn trong GET /calculate_meals_for_days, và truyền tham số tương ứng (nhấp "Try it out").
-  ![Ảnh minh họa](fastapi_docs.jpg)
+  ![Ảnh minh họa](Generate meal plan/fastapi_docs.jpg)
 - Chú thích các tham số:
   - **days**: số ngày cần gen (mặc định là 7)
   - **low_salt**: có chọn ít muối (mặc định là False)
