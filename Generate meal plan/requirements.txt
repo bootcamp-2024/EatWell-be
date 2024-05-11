@@ -1,0 +1,3 @@
+scipy
+fastapi
+uvicorn

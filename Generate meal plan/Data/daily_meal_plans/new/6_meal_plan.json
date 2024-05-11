@@ -1,0 +1,361 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f671"
+        },
+        "url": "https://www.allrecipes.com/recipe/285907/palak-rassa/",
+        "name": "Palak Rassa",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a Maharashtrian side dish with spinach and chana dal (split chickpeas). It is served with rice or chapatis.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING821",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 6.25
+            },
+            {
+                "quantity": 6,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1472",
+                "grams": 150.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1506",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING576",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "side-dishes",
+        "tags": "",
+        "total_calo": 297.63,
+        "total_sugar": 2.43,
+        "total_fat": 13.24,
+        "total_fiber": 6.12,
+        "total_protein": 13.47,
+        "total_carbohydrat": 29.06,
+        "total_cholesterol": 0.0109087275,
+        "total_sodium": 0.104171925,
+        "total_cost": 81618.39,
+        "total_error": 3,
+        "grams": 300
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f643"
+        },
+        "url": "https://www.allrecipes.com/recipe/210541/easy-malai-kulfi/",
+        "name": "Easy Malai Kulfi",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Kulfi is best described as Indian-style ice cream. However, unlike ice cream, kulfi is not churned. This is a fantastic summer dessert. This is a quick and easy version of kulfi. I almost never make kulfi the old way any more.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1410",
+                "grams": 50.0
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING12",
+                "grams": 12.5
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING800",
+                "grams": 6.25
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "or to taste (Optional)",
+                "ingredient_id": "ING1718",
+                "grams": 2.845
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1670",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "desserts",
+        "tags": "",
+        "total_calo": 284.82,
+        "total_sugar": 1.0,
+        "total_fat": 21.18,
+        "total_fiber": 3.56,
+        "total_protein": 14.22,
+        "total_carbohydrat": 8.48,
+        "total_cholesterol": 0.0630798575,
+        "total_sodium": 0.25487770000000004,
+        "total_cost": 28441.76,
+        "total_error": 2,
+        "grams": 220
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f60d"
+        },
+        "url": "https://www.allrecipes.com/recipe/223156/shrimp-with-broccoli-in-garlic-sauce/",
+        "name": "Shrimp with Broccoli in Garlic Sauce",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "I wanted to recreate my favorite Chinese shrimp and broccoli takeout dish. After several attempts, here is the result! Serve over hot cooked rice.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1277",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 4,
+                "unit": "large",
+                "prepare_type": "minced",
+                "ingredient_id": "ING2164",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1316",
+                "grams": 25.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING380",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING832",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "peeled and deveined",
+                "ingredient_id": "ING31",
+                "grams": 88.5
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "drained",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING542",
+                "grams": 7.0875
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 1206.64,
+        "total_sugar": 7.56,
+        "total_fat": 42.27,
+        "total_fiber": 14.34,
+        "total_protein": 32.92,
+        "total_carbohydrat": 166.12,
+        "total_cholesterol": 0.0045000000000000005,
+        "total_sodium": 0.7393003875000002,
+        "total_cost": 138042.24,
+        "total_error": 2,
+        "grams": 180
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f747"
+        },
+        "url": "https://www.allrecipes.com/recipe/19511/smoked-salmon-sushi-roll/",
+        "name": "Smoked Salmon Sushi Roll",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Homemade salmon roll made with sushi rice, nori, and smoked salmon. This is a very basic and easy recipe for making sushi. It might take a while to learn how to make a perfect roll, but you'll have fun trying! Add wasabi (Japanese horseradish) for a good kick!",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING833",
+                "grams": 50.0
+            },
+            {
+                "quantity": 6,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING914",
+                "grams": 21.262500000000003
+            },
+            {
+                "quantity": 6,
+                "unit": "sheets",
+                "prepare_type": "",
+                "ingredient_id": "ING472",
+                "grams": 7.5
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1898",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 8,
+                "unit": "ounces",
+                "prepare_type": "cut into long strips",
+                "ingredient_id": "ING105",
+                "grams": 56.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "peeled and sliced",
+                "ingredient_id": "ING733",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "pitted and sliced",
+                "ingredient_id": "ING1980",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Japanese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 206.12,
+        "total_sugar": 0.02,
+        "total_fat": 3.97,
+        "total_fiber": 0.9,
+        "total_protein": 11.77,
+        "total_carbohydrat": 30.24,
+        "total_cholesterol": 0.014000000000000002,
+        "total_sodium": 1.0316846875,
+        "total_cost": 25003.54,
+        "total_error": 2,
+        "grams": 50
+    }
+]

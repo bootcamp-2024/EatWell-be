@@ -1,0 +1,517 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f60d"
+        },
+        "url": "https://www.allrecipes.com/recipe/223156/shrimp-with-broccoli-in-garlic-sauce/",
+        "name": "Shrimp with Broccoli in Garlic Sauce",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "I wanted to recreate my favorite Chinese shrimp and broccoli takeout dish. After several attempts, here is the result! Serve over hot cooked rice.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1277",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 4,
+                "unit": "large",
+                "prepare_type": "minced",
+                "ingredient_id": "ING2164",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1316",
+                "grams": 25.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING380",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING832",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "peeled and deveined",
+                "ingredient_id": "ING31",
+                "grams": 88.5
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "drained",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING542",
+                "grams": 7.0875
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 1608.85,
+        "total_sugar": 10.08,
+        "total_fat": 56.36,
+        "total_fiber": 19.12,
+        "total_protein": 43.89,
+        "total_carbohydrat": 221.49,
+        "total_cholesterol": 0.006,
+        "total_sodium": 0.9857338500000001,
+        "total_cost": 184056.31,
+        "total_error": 2,
+        "grams": 240
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f671"
+        },
+        "url": "https://www.allrecipes.com/recipe/285907/palak-rassa/",
+        "name": "Palak Rassa",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a Maharashtrian side dish with spinach and chana dal (split chickpeas). It is served with rice or chapatis.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING821",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 6.25
+            },
+            {
+                "quantity": 6,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1472",
+                "grams": 150.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1506",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING576",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "side-dishes",
+        "tags": "",
+        "total_calo": 188.5,
+        "total_sugar": 1.54,
+        "total_fat": 8.38,
+        "total_fiber": 3.88,
+        "total_protein": 8.53,
+        "total_carbohydrat": 18.4,
+        "total_cholesterol": 0.00690886075,
+        "total_sodium": 0.06597555249999999,
+        "total_cost": 51691.65,
+        "total_error": 3,
+        "grams": 190
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f6cf"
+        },
+        "url": "https://www.allrecipes.com/recipe/16102/chicken-biryani/",
+        "name": "Chicken Biryani",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Chicken biryani is a delicious Pakistani/Indian rice dish that's typically reserved for special occasions such as weddings, parties, or holidays such as Ramadan. It has a lengthy preparation, but the work is definitely worth it. For biryani, basmati rice is the ideal variety to use.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "tablespoons",
+                "prepare_type": "divided",
+                "ingredient_id": "ING1851",
+                "grams": 14.175
+            },
+            {
+                "quantity": 4,
+                "unit": "small",
+                "prepare_type": "peeled and halved",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "finely chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "minced",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1593",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "peeled and chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1974",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1449",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1532",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1670",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "(2 inch)",
+                "prepare_type": "",
+                "ingredient_id": "ING1797",
+                "grams": 7.7
+            },
+            {
+                "quantity": 3,
+                "unit": "pounds",
+                "prepare_type": "skinless chicken pieces cut into chunks",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": "ING1193",
+                "grams": 88.5
+            },
+            {
+                "quantity": 2.5,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 8.859375
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "diced",
+                "ingredient_id": "ING369",
+                "grams": 12.5
+            },
+            {
+                "quantity": 5,
+                "unit": "pods",
+                "prepare_type": "",
+                "ingredient_id": "ING1244",
+                "grams": 7.625
+            },
+            {
+                "quantity": 3,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "(1 inch)",
+                "prepare_type": "",
+                "ingredient_id": "ING1797",
+                "grams": 3.85
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1833",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": "ING743",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING268",
+                "grams": 100.0
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 2.13375
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 255.63,
+        "total_sugar": 1.06,
+        "total_fat": 11.16,
+        "total_fiber": 1.8,
+        "total_protein": 5.27,
+        "total_carbohydrat": 32.8,
+        "total_cholesterol": 0.008649076,
+        "total_sodium": 0.27473372500000004,
+        "total_cost": 61201.47,
+        "total_error": 6,
+        "grams": 40
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f658"
+        },
+        "url": "https://www.allrecipes.com/recipe/278215/indian-kale-with-chickpeas/",
+        "name": "Indian Kale with Chickpeas",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a delicious way to cook kale if you are running out of ideas, and it goes great with Indian dishes like dal. Make sure not to overcook the greens!",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING2085",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "finely chopped",
+                "ingredient_id": "ING369",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "seeded and sliced",
+                "ingredient_id": "ING1101",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "drained",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1225",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": "ING846",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": "ING1269",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "zested and juiced",
+                "ingredient_id": "ING245",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING631",
+                "grams": 25.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "side-dishes",
+        "tags": "",
+        "total_calo": 37.49,
+        "total_sugar": 0.01,
+        "total_fat": 3.26,
+        "total_fiber": 0.04,
+        "total_protein": 2.12,
+        "total_carbohydrat": 0.02,
+        "total_cholesterol": 0.007591274906250001,
+        "total_sodium": 0.0017389312500000003,
+        "total_cost": 4725.29,
+        "total_error": 4,
+        "grams": 30
+    }
+]

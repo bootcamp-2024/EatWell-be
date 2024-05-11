@@ -1,0 +1,591 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f89e"
+        },
+        "url": "https://www.allrecipes.com/recipe/14681/vietnamese-beef-pho/",
+        "name": "Vietnamese Beef Pho",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This lemongrass pho is served with a plate full of fresh garnishes and various sauces, allowing each person to customize the soup to their taste. The soup is somewhat unusual because the thinly sliced beef is cooked directly in the serving bowl when the boiling broth is poured over top. By the time you garnish your soup, it will be cooked.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "quarts",
+                "prepare_type": "",
+                "ingredient_id": "ING1985",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "sliced into rings",
+                "ingredient_id": "ING369",
+                "grams": 12.5
+            },
+            {
+                "quantity": 6,
+                "unit": "slices",
+                "prepare_type": "",
+                "ingredient_id": "ING181",
+                "grams": 42.0
+            },
+            {
+                "quantity": 1,
+                "unit": "stalk",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING85",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "(8 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 3,
+                "unit": "fresh",
+                "prepare_type": "sliced into rings",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "cut into wedges",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "(8 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "cut into thin slices",
+                "ingredient_id": "ING1150",
+                "grams": 88.5
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING922",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 0.5,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1419",
+                "grams": 1.771875
+            },
+            {
+                "quantity": 1,
+                "unit": "dash",
+                "prepare_type": "",
+                "ingredient_id": "ING1561",
+                "grams": 0.1775
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 815.43,
+        "total_sugar": 0.0,
+        "total_fat": 42.03,
+        "total_fiber": 1.51,
+        "total_protein": 89.62,
+        "total_carbohydrat": 19.11,
+        "total_cholesterol": 0.25432987500000004,
+        "total_sodium": 0.6622884375,
+        "total_cost": 96344.45,
+        "total_error": 10,
+        "grams": 300
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f6fd"
+        },
+        "url": "https://www.allrecipes.com/recipe/93597/authentic-and-easy-shrimp-curry/",
+        "name": "Authentic and Easy Shrimp Curry",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a home-style South Indian shrimp curry recipe from my husband's family. It is simple and quick to make. It contains no coconut so is not sweet, just mostly juicy and as hot as you like it. Serve with basmati rice or an Indian flatbread.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 6.25
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING369",
+                "grams": 12.5
+            },
+            {
+                "quantity": 10,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING609",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING459",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1225",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.66,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 0.9388500000000001
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "finely chopped",
+                "ingredient_id": "ING1284",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING482",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 2,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": "ING238",
+                "grams": 177.0
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 6.25
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1688",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING131",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 649.19,
+        "total_sugar": 1.67,
+        "total_fat": 43.77,
+        "total_fiber": 0.6,
+        "total_protein": 61.68,
+        "total_carbohydrat": 2.99,
+        "total_cholesterol": 0.21354028849999998,
+        "total_sodium": 0.1712288375,
+        "total_cost": 116511.61,
+        "total_error": 3,
+        "grams": 140
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f5a4"
+        },
+        "url": "https://www.allrecipes.com/recipe/8539106/yaki-udon/",
+        "name": "Yaki Udon",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Yaki Udon is a classic Japanese stir-fry dish with udon noodles and lots of vegetables in a soy-based sauce. Feel free to add meat or tofu.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING380",
+                "grams": 6.25
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1724",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1197",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING339",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING921",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2168",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING704",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "grated",
+                "ingredient_id": "ING1457",
+                "grams": 7.5
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING838",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 12,
+                "unit": "ounces",
+                "prepare_type": "oyster, and shiitake) (about 6 cups)",
+                "ingredient_id": "ING2012",
+                "grams": 84.0
+            },
+            {
+                "quantity": 2,
+                "unit": "medium",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1544",
+                "grams": 15.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(10 ounce)",
+                "prepare_type": "cut into match-stick size pieces",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING462",
+                "grams": 12.5
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": "ING930",
+                "grams": 25.0
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "cilantro, lime wedges, furikake seasoning",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "stir-fry",
+        "tags": "",
+        "total_calo": 248.58,
+        "total_sugar": 5.96,
+        "total_fat": 12.14,
+        "total_fiber": 22.6,
+        "total_protein": 11.59,
+        "total_carbohydrat": 23.03,
+        "total_cholesterol": 0.0237119625,
+        "total_sodium": 0.5166291900000001,
+        "total_cost": 57285.18,
+        "total_error": 3,
+        "grams": 60
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f699"
+        },
+        "url": "https://www.allrecipes.com/recipe/14122/green-chutney/",
+        "name": "Green Chutney",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Chutney is excellent served as a condiment with any number of dishes, it adds a flavor that can't be beat.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "bunch",
+                "prepare_type": "",
+                "ingredient_id": "ING1835",
+                "grams": 85.0
+            },
+            {
+                "quantity": 1,
+                "unit": "clove",
+                "prepare_type": "",
+                "ingredient_id": "ING1457",
+                "grams": 0.9
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1593",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING370",
+                "grams": 7.0875
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 148.21,
+        "total_sugar": 0.19,
+        "total_fat": 0.87,
+        "total_fiber": 0.03,
+        "total_protein": 34.05,
+        "total_carbohydrat": 0.61,
+        "total_cholesterol": 0.0,
+        "total_sodium": 0.21267746875,
+        "total_cost": 11953.17,
+        "total_error": 3,
+        "grams": 50
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f83f"
+        },
+        "url": "https://www.allrecipes.com/recipe/263803/authentic-thai-green-curry/",
+        "name": "Authentic Thai Green Curry",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a classic Thai green curry (kaeng kiau wan) and my favorite curry of all time! You can substitute chicken or tofu for the pork, but make sure you serve it with lots of jasmine rice.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "(8 ounce)",
+                "prepare_type": "drained and thinly sliced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1299",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING1140",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "cut into 1/2-inch cubes",
+                "ingredient_id": "ING1504",
+                "grams": 88.5
+            },
+            {
+                "quantity": 2,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": "ING1480",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "small",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING683",
+                "grams": 7.5
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 8,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING922",
+                "grams": 2.845
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING865",
+                "grams": 12.5
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Thai",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 245.8,
+        "total_sugar": 0.71,
+        "total_fat": 21.99,
+        "total_fiber": 0.29,
+        "total_protein": 9.39,
+        "total_carbohydrat": 3.12,
+        "total_cholesterol": 0.027747,
+        "total_sodium": 0.59134196875,
+        "total_cost": 19195.97,
+        "total_error": 2,
+        "grams": 50
+    }
+]

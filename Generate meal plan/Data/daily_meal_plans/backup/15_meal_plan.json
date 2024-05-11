@@ -1,0 +1,634 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f643"
+        },
+        "url": "https://www.allrecipes.com/recipe/210541/easy-malai-kulfi/",
+        "name": "Easy Malai Kulfi",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Kulfi is best described as Indian-style ice cream. However, unlike ice cream, kulfi is not churned. This is a fantastic summer dessert. This is a quick and easy version of kulfi. I almost never make kulfi the old way any more.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1410",
+                "grams": 50.0
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING12",
+                "grams": 12.5
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING800",
+                "grams": 6.25
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "or to taste (Optional)",
+                "ingredient_id": "ING1718",
+                "grams": 2.845
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1670",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "desserts",
+        "tags": "",
+        "total_calo": 388.4,
+        "total_sugar": 1.37,
+        "total_fat": 28.88,
+        "total_fiber": 4.86,
+        "total_protein": 19.39,
+        "total_carbohydrat": 11.57,
+        "total_cholesterol": 0.0860179875,
+        "total_sodium": 0.34756050000000005,
+        "total_cost": 38784.22,
+        "total_error": 2,
+        "grams": 300
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f69e"
+        },
+        "url": "https://www.allrecipes.com/recipe/75320/spicy-peach-chutney/",
+        "name": "Peach Chutney",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This peach chutney closely resembles imported Indian chutneys and is good with all curry dishes. It is also great with cream cheese and crackers.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING21",
+                "grams": 100.0
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1964",
+                "grams": 100.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 5,
+                "unit": "ounces",
+                "prepare_type": "",
+                "ingredient_id": "ING2018",
+                "grams": 35.0
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING165",
+                "grams": 12.5
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "minced",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1974",
+                "grams": 5.315625000000001
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING348",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1800",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING357",
+                "grams": 6.25
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 685.35,
+        "total_sugar": 7.2,
+        "total_fat": 13.71,
+        "total_fiber": 7.81,
+        "total_protein": 29.27,
+        "total_carbohydrat": 106.24,
+        "total_cholesterol": 0.0537875,
+        "total_sodium": 0.2540681,
+        "total_cost": 54799.45,
+        "total_error": 2,
+        "grams": 130
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f6ed"
+        },
+        "url": "https://www.allrecipes.com/recipe/34689/chickpea-curry/",
+        "name": "Chickpea Curry",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This easy chickpea curry is made with canned chickpeas for a fast, convenient vegan meal. Fresh ginger, garlic, and Indian spices add lots of flavor.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "minced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "minced",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "finely chopped",
+                "ingredient_id": "ING181",
+                "grams": 2.845
+            },
+            {
+                "quantity": 6,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "(2-inch)",
+                "prepare_type": "crushed",
+                "ingredient_id": "ING2048",
+                "grams": 10.4
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1225",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1278",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING555",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 2,
+                "unit": "(15 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING2174",
+                "grams": 25.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 160.93,
+        "total_sugar": 4.39,
+        "total_fat": 10.37,
+        "total_fiber": 4.85,
+        "total_protein": 1.84,
+        "total_carbohydrat": 13.04,
+        "total_cholesterol": 0.0030290715,
+        "total_sodium": 0.007111162500000001,
+        "total_cost": 12000.33,
+        "total_error": 4,
+        "grams": 130
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f6cf"
+        },
+        "url": "https://www.allrecipes.com/recipe/16102/chicken-biryani/",
+        "name": "Chicken Biryani",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Chicken biryani is a delicious Pakistani/Indian rice dish that's typically reserved for special occasions such as weddings, parties, or holidays such as Ramadan. It has a lengthy preparation, but the work is definitely worth it. For biryani, basmati rice is the ideal variety to use.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "tablespoons",
+                "prepare_type": "divided",
+                "ingredient_id": "ING1851",
+                "grams": 14.175
+            },
+            {
+                "quantity": 4,
+                "unit": "small",
+                "prepare_type": "peeled and halved",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "finely chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "minced",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1593",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "peeled and chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1974",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1449",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1532",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1670",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "(2 inch)",
+                "prepare_type": "",
+                "ingredient_id": "ING1797",
+                "grams": 7.7
+            },
+            {
+                "quantity": 3,
+                "unit": "pounds",
+                "prepare_type": "skinless chicken pieces cut into chunks",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": "ING1193",
+                "grams": 88.5
+            },
+            {
+                "quantity": 2.5,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 8.859375
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "diced",
+                "ingredient_id": "ING369",
+                "grams": 12.5
+            },
+            {
+                "quantity": 5,
+                "unit": "pods",
+                "prepare_type": "",
+                "ingredient_id": "ING1244",
+                "grams": 7.625
+            },
+            {
+                "quantity": 3,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "(1 inch)",
+                "prepare_type": "",
+                "ingredient_id": "ING1797",
+                "grams": 3.85
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1833",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": "ING743",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING268",
+                "grams": 100.0
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 2.13375
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 766.9,
+        "total_sugar": 3.18,
+        "total_fat": 33.49,
+        "total_fiber": 5.41,
+        "total_protein": 15.82,
+        "total_carbohydrat": 98.4,
+        "total_cholesterol": 0.025947228,
+        "total_sodium": 0.824201175,
+        "total_cost": 183604.4,
+        "total_error": 6,
+        "grams": 120
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f65a"
+        },
+        "url": "https://www.allrecipes.com/recipe/247103/brinjal-eggplant-in-coconut-milk/",
+        "name": "Brinjal (Eggplant) in Coconut Milk",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "I learned This dish from my mother and I am eternally grateful for everything she taught me..actually I am a brinjal hater before and I never wanted to taste this ever in my life. Years passed and after my marriage I wanted to try this for my darling and I made it as per my umma's instructions. It was a hit dish and everyone loved it in my family. When I tasted it, I really loved the flavor and taste and wanted to share it here. The main highlight of this dish is mainly sour taste of tamarind. If you are looking for quick south Indian meal ideas, this could be one of the choices.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "sliced",
+                "ingredient_id": "ING1252",
+                "grams": 25.0
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING937",
+                "grams": 0.355625
+            },
+            {
+                "quantity": 0.375,
+                "unit": "teaspoon",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING2016",
+                "grams": 0.5334375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "or more as needed",
+                "ingredient_id": "ING1851",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING70",
+                "grams": 25.0
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "juice squeezed and reserved",
+                "ingredient_id": "ING518",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING937",
+                "grams": 5.315625000000001
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1339",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2016",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING348",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "sprig",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "side-dishes",
+        "tags": "",
+        "total_calo": 99.81,
+        "total_sugar": 1.67,
+        "total_fat": 8.36,
+        "total_fiber": 2.08,
+        "total_protein": 1.6,
+        "total_carbohydrat": 3.88,
+        "total_cholesterol": 0.0,
+        "total_sodium": 0.34012461875000005,
+        "total_cost": 12556.75,
+        "total_error": 3,
+        "grams": 70
+    }
+]

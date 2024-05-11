@@ -1,0 +1,509 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f880"
+        },
+        "url": "https://www.allrecipes.com/recipe/245343/authentic-vietnamese-spring-rolls-nem-ran-hay-cha-gio/",
+        "name": "Authentic Vietnamese Spring Rolls (Nem Ran Hay Cha Gio)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "These Vietnamese fried spring rolls are a recipe I learned while traveling through Vietnam. The ingredients are relatively simple and easy to find in any grocery store. I've cooked this several times since returning, and it's always been a hit. They taste great with dipping sauce.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "ounces",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING808",
+                "grams": 18.75
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "peeled, and cut into small pieces",
+                "ingredient_id": "ING1146",
+                "grams": 6.25
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "beaten",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "grated",
+                "ingredient_id": "ING1769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 4,
+                "unit": "",
+                "prepare_type": "chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1449",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 24,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING185",
+                "grams": 50.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 1390.24,
+        "total_sugar": 1.41,
+        "total_fat": 151.45,
+        "total_fiber": 0.16,
+        "total_protein": 8.65,
+        "total_carbohydrat": 4.17,
+        "total_cholesterol": 0.045,
+        "total_sodium": 3.0455115,
+        "total_cost": 81862.43,
+        "total_error": 6,
+        "grams": 300
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f89e"
+        },
+        "url": "https://www.allrecipes.com/recipe/14681/vietnamese-beef-pho/",
+        "name": "Vietnamese Beef Pho",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This lemongrass pho is served with a plate full of fresh garnishes and various sauces, allowing each person to customize the soup to their taste. The soup is somewhat unusual because the thinly sliced beef is cooked directly in the serving bowl when the boiling broth is poured over top. By the time you garnish your soup, it will be cooked.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "quarts",
+                "prepare_type": "",
+                "ingredient_id": "ING1985",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "sliced into rings",
+                "ingredient_id": "ING369",
+                "grams": 12.5
+            },
+            {
+                "quantity": 6,
+                "unit": "slices",
+                "prepare_type": "",
+                "ingredient_id": "ING181",
+                "grams": 42.0
+            },
+            {
+                "quantity": 1,
+                "unit": "stalk",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING85",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "(8 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 3,
+                "unit": "fresh",
+                "prepare_type": "sliced into rings",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "cut into wedges",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "(8 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "cut into thin slices",
+                "ingredient_id": "ING1150",
+                "grams": 88.5
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING922",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 0.5,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1419",
+                "grams": 1.771875
+            },
+            {
+                "quantity": 1,
+                "unit": "dash",
+                "prepare_type": "",
+                "ingredient_id": "ING1561",
+                "grams": 0.1775
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 353.35,
+        "total_sugar": 0.0,
+        "total_fat": 18.21,
+        "total_fiber": 0.66,
+        "total_protein": 38.84,
+        "total_carbohydrat": 8.28,
+        "total_cholesterol": 0.11020961250000001,
+        "total_sodium": 0.28699165625,
+        "total_cost": 41749.26,
+        "total_error": 10,
+        "grams": 130
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f745"
+        },
+        "url": "https://www.allrecipes.com/recipe/8539106/yaki-udon/",
+        "name": "Yaki Udon",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Yaki Udon is a classic Japanese stir-fry dish with udon noodles and lots of vegetables in a soy-based sauce. Feel free to add meat or tofu.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING380",
+                "grams": 6.25
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1724",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1197",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING339",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING921",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2168",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING704",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "grated",
+                "ingredient_id": "ING1457",
+                "grams": 7.5
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING838",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 12,
+                "unit": "ounces",
+                "prepare_type": "oyster, and shiitake) (about 6 cups)",
+                "ingredient_id": "ING2012",
+                "grams": 84.0
+            },
+            {
+                "quantity": 2,
+                "unit": "medium",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1544",
+                "grams": 15.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(10 ounce)",
+                "prepare_type": "cut into match-stick size pieces",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING462",
+                "grams": 12.5
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": "ING930",
+                "grams": 25.0
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "cilantro, lime wedges, furikake seasoning",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Japanese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 248.58,
+        "total_sugar": 5.96,
+        "total_fat": 12.14,
+        "total_fiber": 22.6,
+        "total_protein": 11.59,
+        "total_carbohydrat": 23.03,
+        "total_cholesterol": 0.0237119625,
+        "total_sodium": 0.5166291900000001,
+        "total_cost": 57285.18,
+        "total_error": 3,
+        "grams": 60
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7c0"
+        },
+        "url": "https://www.allrecipes.com/recipe/238844/korean-fried-chicken/",
+        "name": "Korean Fried Chicken",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This Korean fried chicken recipe is officially my favorite. I've had every style of fried chicken known to man, so I've always considered myself an expert. No other method I've come across has the same combination of tender, juicy, flavorful chicken and plate-scratching crispiness as this recipe does. It's simply a must-try!",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "boneless chicken thighs, quartered",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "",
+                "prepare_type": "grated",
+                "ingredient_id": "ING145",
+                "grams": 0.0
+            },
+            {
+                "quantity": 4,
+                "unit": "cloves",
+                "prepare_type": "minced",
+                "ingredient_id": "ING1457",
+                "grams": 3.6
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING637",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1558",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING1609",
+                "grams": 100.0
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING542",
+                "grams": 18.75
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1449",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 0.355625
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING478",
+                "grams": 25.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Korean",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 99.44,
+        "total_sugar": 0.22,
+        "total_fat": 10.04,
+        "total_fiber": 0.02,
+        "total_protein": 0.73,
+        "total_carbohydrat": 1.91,
+        "total_cholesterol": 0.0014703777500000002,
+        "total_sodium": 0.018674050000000005,
+        "total_cost": 3529.37,
+        "total_error": 3,
+        "grams": 10
+    }
+]
