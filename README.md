@@ -1,4 +1,4 @@
-##Back-end server for EatWell - A smart menu recommendation web application
+# Back-end server for EatWell - A smart menu recommendation web application
 ## Please install the following
 
 - [Node Package Manager (NPM)](https://www.npmjs.com)
