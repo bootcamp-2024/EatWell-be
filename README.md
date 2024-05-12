@@ -1,6 +1,4 @@
 ##Back-end server for EatWell - A smart menu recommendation web application
-# A simple web application to view, add invoices, and monthly revenue statistics
-
 ## Please install the following
 
 - [Node Package Manager (NPM)](https://www.npmjs.com)
