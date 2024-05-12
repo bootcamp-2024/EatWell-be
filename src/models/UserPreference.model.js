@@ -1,0 +1,25 @@
+import mongoose from "mongoose";
+
+const UserPreferenceSchema = new mongoose.Schema(
+  {
+    userId: { type: mongoose.Types.ObjectId, required: true, ref: "UserInfo" },
+    height: { type: Number, default: null },
+    weight: { type: Number, default: null },
+    cuisine: { type: String, default: null },
+    allergy: [{ type: String }],
+    minPrice: { type: Number, default: null },
+    maxPrice: { type: Number, default: null },
+    bodyGoal: { type: String, default: null },
+    activityLevel: { type: String, default: null },
+    suggestedCalories: { type: String, default: null },
+    createdDate: { type: Date, default: new Date() },
+  },
+  { collection: "UserPreference", versionKey: false }
+);
+
+const UserPreferenceModel = mongoose.model(
+  "UserPreference",
+  UserPreferenceSchema
+);
+
+export default UserPreferenceModel;

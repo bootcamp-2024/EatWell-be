@@ -2,6 +2,7 @@ import express from "express";
 import cors from "cors";
 import mongoose from "mongoose";
 import morganBody from "morgan-body";
+import bodyParser from "body-parser";
 import anonymousEndpoint from "#src/middlewares/anonymousEndpoint.mdw";
 import { handleError } from "#src/middlewares/errorHandler.mdw";
 import routes from "#src/routes/index.routes";
@@ -12,9 +13,18 @@ const app = express();
 
 //#region middleware
 app.use(cors());
-app.use(express.json());
+// app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 morganBody(app);
+app.use(bodyParser.json({ limit: "20mb", type: "application/json" }));
+app.use(
+  bodyParser.urlencoded({
+    limit: "20mb",
+    extended: true,
+    parameterLimit: 50000,
+    type: "application/x-www-form-urlencoded",
+  })
+);
 app.use(routes);
 app.use(anonymousEndpoint);
 app.use(handleError);
