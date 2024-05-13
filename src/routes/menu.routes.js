@@ -5,4 +5,6 @@ import menu from "#src/controllers/menu.controllers";
 const router = express.Router();
 
 router.route("/").get(menu.getAllMenus);
+router.put('/:id', menu.updateMenu);
+router.delete('/:id', menu.deleteMenu);
 export default router;
