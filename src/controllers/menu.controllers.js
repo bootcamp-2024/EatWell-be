@@ -1,7 +1,5 @@
 // menu.controllers.js
 import MenuModel from "#src/models/Menu.model";
-import UserModel from "#src/models/UserInfo.model";
-
 export default {
   async getAllMenus(req, res, next) {
     try {
@@ -15,22 +13,45 @@ export default {
 
   async createMenu(req, res, next) {
     try {
-      const menu = await MenuModel.create(req.body);
-      res.status(201).json(menu);
+      // Extract meal data from request body
+      const { mealName, calories, notes, start, resource } = req.body;
+  
+      // Parse start and end dates
+      const startDate = new Date(start);
+  
+      // Increment start and end dates by 1 day
+      startDate.setDate(startDate.getDate() + 1);  
+      // Create the menu item with updated dates
+      const menu = await MenuModel.create({
+        mealName,
+        calories,
+        notes,
+        start: startDate,
+        resource
+      });
+      if (menu && menu._id) {
+        res.status(201).json(menu);
+      } else {
+        res.status(500).json({ error: 'Failed to create menu' });
+      }
     } catch (error) {
       next(error);
     }
   },
+  
+  
 
   async updateMenu(req, res, next) {
     try {
       const { id } = req.params;
-      const updatedMenu = await MenuModel.findByIdAndUpdate(id, req.body, { new: true });
+      const { mealName, calories, notes, start, resource } = req.body; // Extract fields from req.body
+      const updatedMenu = await MenuModel.findByIdAndUpdate(id, { mealName, calories, notes, start, resource }, { new: true });
       res.json(updatedMenu);
     } catch (err) {
       next(err);
     }
   },
+  
 
   async deleteMenu(req, res, next) {
     try {
