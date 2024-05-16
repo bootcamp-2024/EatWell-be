@@ -1,5 +1,6 @@
 import UserInfoModel from "#src/models/UserInfo.model";
 import { verifyPassword, encryptPassword } from "#src/utils/crypto";
+import UserPreferenceModel from "#src/models/UserPreference.model";
 import moment from "moment";
 
 export default {
@@ -68,7 +69,7 @@ export default {
         gender,
       };
 
-      await UserInfoModel.updateInformation(email, entity);
+      await UserInfoModel.findOneAndUpdate({ email }, entity);
 
       res.status(200).send({
         exitcode: 0,
@@ -114,6 +115,53 @@ export default {
       });
     } catch (err) {
       next(err);
+    }
+  },
+
+  // Heath Setting
+  async updateUserPreferences(req, res, next) {
+    try {
+      const {
+        height,
+        weight,
+        cuisine,
+        allergy,
+        minPrice,
+        maxPrice,
+        bodyGoal,
+        activityLevel,
+      } = req.body;
+      const { email } = req.payload;
+
+      const userInfo = await UserInfoModel.findOne({ email }).lean();
+      if (!userInfo) {
+        return res.status(404).json({
+          exitcode: 101,
+          message: "User not found!",
+        });
+      }
+      const userPreference = await UserPreferenceModel.findOneAndUpdate(
+        { userId: userInfo._id },
+        {
+          height,
+          weight,
+          cuisine,
+          allergy,
+          minPrice,
+          maxPrice,
+          bodyGoal,
+          activityLevel,
+        },
+        { upsert: true, new: true }
+      );
+
+      return res.status(200).json({
+        exitcode: 0,
+        message: "User preference updated successfully!",
+        userPreference,
+      });
+    } catch (error) {
+      next(error);
     }
   },
 };

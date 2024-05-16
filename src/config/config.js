@@ -5,7 +5,7 @@ const config = {
   DATABASE: {
     URI: process.env.MONGODB_URI,
   },
-
+  FAST_API_URL: process.env.FAST_API_URL,
   GENDER: {
     MALE: "male",
     FEMALE: "female",

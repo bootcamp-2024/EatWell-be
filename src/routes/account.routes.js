@@ -6,5 +6,6 @@ const router = express.Router();
 
 router.route("/").patch(account.updateInformation).get(account.getInformation);
 router.patch("/password", account.changePassword);
+router.route("/update-preference").patch(account.updateUserPreferences);
 
 export default router;
