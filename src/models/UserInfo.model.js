@@ -13,6 +13,8 @@ const UserInfoSchema = new mongoose.Schema(
     token: { type: String, default: null },
     otp: { type: String, default: null },
     isVerified: { type: Boolean, default: false },
+    avatar_path: { type: String, default: null },
+    avatar_filename: { type: String, default: null },
     createdDate: { type: Date, default: new Date() },
   },
   { collection: "UserInfo", versionKey: false }

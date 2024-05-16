@@ -1,4 +1,20 @@
-import mongoose from "mongoose";
+import mongoose, { Schema } from "mongoose";
+
+const BMI = new Schema(
+  {
+    value: { type: Number, default: null },
+    updatedAt: { type: Date, default: Date.now },
+  },
+  { _id: false }
+);
+
+const BMR = new Schema(
+  {
+    value: { type: Number, default: null },
+    updatedAt: { type: Date, default: Date.now },
+  },
+  { _id: false }
+);
 
 const UserPreferenceSchema = new mongoose.Schema(
   {
@@ -12,6 +28,8 @@ const UserPreferenceSchema = new mongoose.Schema(
     bodyGoal: { type: String, default: null },
     activityLevel: { type: String, default: null },
     suggestedCalories: { type: String, default: null },
+    BMI: [BMI],
+    BMR: [BMR],
     createdDate: { type: Date, default: new Date() },
   },
   { collection: "UserPreference", versionKey: false }

@@ -24,6 +24,15 @@ const config = {
   GMAIL_USERNAME: process.env.GMAIL_USERNAME,
 
   HASH_DIGIT: 12,
+
+  COULDINARY_CONFIG: {
+    cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
+    api_key: process.env.CLOUDINARY_API_KEY,
+    api_secret: process.env.CLOUDINARY_API_SECRET,
+  },
+
+  AVATAR_IMAGE_NUMBER_LIMIT: 1,
+  CLOUDINARY_AVATAR_PATH: "eatwell/avatar/",
 };
 
 export default config;
