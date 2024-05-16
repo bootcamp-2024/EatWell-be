@@ -1,16 +1,24 @@
 import json
+from bson import json_util
+from pymongo import MongoClient
+
+uri = ""
+# thêm uri vào đây
+client = MongoClient(uri)
+db = client['EatWell']
 
 # Đọc dữ liệu từ tệp JSON của bảng nguyên liệu
-def read_ingredient_data(file_path):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        data = json.load(file)
-    return {ingredient['_id']: ingredient for ingredient in data}
+def get_ingredient_data():
+    collectionIng = db.Ingredient
+    return {ingredient['_id']: ingredient for ingredient in collectionIng.find()}
 
 # Đọc dữ liệu từ tệp JSON của các công thức recipe
-def read_recipe_data(file_path):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        data = json.load(file)
-    return data
+def get_recipe_data():
+    # with open('../Data/EatWell.Recipe.json', 'r', encoding='utf-8') as file:
+    #     data = json.load(file)
+    # return data
+    collectionRec = db.Recipe
+    return [json.loads(json_util.dumps(recipe)) for recipe in collectionRec.find()]
 
 def get_weight_with_unit(quantity, unit):
     unit_mapping = {
@@ -327,8 +335,8 @@ def process_data():
     ingredient_file_path = '../Data/EatWell.Ingredient.json'
     recipe_file_path = '../Data/EatWell.Recipe.json'
 
-    ingredient = read_ingredient_data(ingredient_file_path)
-    recipes = read_recipe_data(recipe_file_path)
+    ingredient = get_ingredient_data()
+    recipes = get_recipe_data()
 
     for recipe in recipes:
         map_ingredient_ids(recipe, ingredient)
