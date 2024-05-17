@@ -1,0 +1,552 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f5c1"
+        },
+        "url": "https://www.allrecipes.com/recipe/246227/tofu-stir-fry-with-peanut-sauce-vegan/",
+        "name": "Tofu Stir-Fry with Peanut Sauce (Vegan)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This throwback recipe for tofu stir-fry with peanut sauce is from years ago when I was a hardcore vegan. Years later, it's still one of my staples. It's healthy, filling, and full of flavor!",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": "ING278",
+                "grams": 25.0
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING214",
+                "grams": 6.25
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1072",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING147",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING704",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1000",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2085",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "diced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "diced",
+                "ingredient_id": "ING683",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "drained and cut into 1-inch cubes",
+                "ingredient_id": "ING916",
+                "grams": 25.0
+            },
+            {
+                "quantity": 4,
+                "unit": "",
+                "prepare_type": "minced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1646",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1481",
+                "grams": 100.0
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1958",
+                "grams": 37.5
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "stir-fry",
+        "tags": "",
+        "total_calo": 830.93,
+        "total_sugar": 16.72,
+        "total_fat": 25.15,
+        "total_fiber": 13.18,
+        "total_protein": 27.03,
+        "total_carbohydrat": 117.62,
+        "total_cholesterol": 0.0,
+        "total_sodium": 1.1650160937500003,
+        "total_cost": 176682.94,
+        "total_error": 3,
+        "grams": 250
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f626"
+        },
+        "url": "https://www.allrecipes.com/recipe/212929/chicken-tinola/",
+        "name": "Chicken Tinola",
+        "cook_time": "0:20:00",
+        "prep_time": "0:30:00",
+        "total_time": "0:50:00",
+        "description": "Tinola, an easy Filipino soup made with chicken, chayote squash, bok choy, and spinach, features a savory broth flavored with ginger and fish sauce.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1559",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "",
+                "ingredient_id": "ING451",
+                "grams": 7.5
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "",
+                "ingredient_id": "ING499",
+                "grams": 1.8
+            },
+            {
+                "quantity": 1,
+                "unit": "(1 1/2 inch) piece",
+                "prepare_type": "",
+                "ingredient_id": "ING1766",
+                "grams": 5.025
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING922",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 3,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": "ING1333",
+                "grams": 265.5
+            },
+            {
+                "quantity": 2,
+                "unit": "(14 ounce) cans",
+                "prepare_type": "",
+                "ingredient_id": "ING969",
+                "grams": 100.0
+            },
+            {
+                "quantity": 1,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING1144",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "head",
+                "prepare_type": "",
+                "ingredient_id": "ING2055",
+                "grams": 12.5
+            },
+            {
+                "quantity": 1,
+                "unit": "(8 ounce) package",
+                "prepare_type": "",
+                "ingredient_id": "ING995",
+                "grams": 12.5
+            }
+        ],
+        "instructions": [
+            "Gather all ingredients.",
+            "Heat oil in a large pot over medium heat. Add onion and garlic; cook and stir until fragrant, about 2 minutes.",
+            "Add ginger and fish sauce; cook and stir for 1 to 2 minutes. Stir in chicken and cook for 5 minutes.",
+            "Pour in chicken broth and cook for 5 minutes. Add squash and simmer until chicken is no longer pink in the center, about 10 minutes. Season with salt and pepper.",
+            "Add bok choy and spinach; cook until spinach is just wilted, 1 to 2 minutes. Serve hot."
+        ],
+        "nutrition": {
+            "calories": "532 kcal",
+            "carbohydrateContent": "14 g",
+            "cholesterolContent": "208 mg",
+            "fiberContent": "4 g",
+            "proteinContent": "66 g",
+            "saturatedFatContent": "6 g",
+            "sodiumContent": "1551 mg",
+            "sugarContent": "6 g",
+            "fatContent": "23 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/IW4iKHFxrQFmgfDX8CSzUHKIf5w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/212929-chicken-tinola-ddmfs-step-5-26477ffd8f6944fbb37b7ed840ebd7c7.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/59LM0JuI-K3AjnAEN.mp4",
+            "description": "Tinola is an easy, one-pot soup from the Philippines. Chicken, chayote squash (or papaya!), bok choy, and spinach are simmered with fresh ginger in a savory broth that's often served with white rice. Learn how to make a wonderful version in this video!",
+            "duration": "0:01:14",
+            "name": "How to Make Chicken Tinola"
+        },
+        "cuisine": "filipino",
+        "category": "Dinner",
+        "tags": [
+            "Filipino Soups and Stews"
+        ],
+        "total_calo": 691.6,
+        "total_fat": 29.9,
+        "total_fiber": 5.2,
+        "total_protein": 85.8,
+        "total_carbohydrat": 18.2,
+        "total_sodium": 2.0163,
+        "total_sugar": 7.8,
+        "total_cholesterol": 0.2704,
+        "total_cost": 74529.4,
+        "total_error": 0,
+        "grams": 130
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7ea"
+        },
+        "url": "https://www.allrecipes.com/recipe/78938/malaysian-nasi-lemak/",
+        "name": "Malaysian Nasi Lemak",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Nasi lemak is delicious Malaysian coconut rice, drizzled with an anchovy and hot chile sauce, then topped with fried anchovies, fried peanuts, sliced cucumber, and hard-boiled egg.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING70",
+                "grams": 50.0
+            },
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 50.0
+            },
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "rinsed and drained",
+                "ingredient_id": "ING717",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(1/2 inch)",
+                "prepare_type": "peeled and thinly sliced",
+                "ingredient_id": "ING2160",
+                "grams": 1.925
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1833",
+                "grams": 0.355625
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1062",
+                "grams": 0.0
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1609",
+                "grams": 25.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "(4 ounce)",
+                "prepare_type": "washed",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": "large",
+                "prepare_type": "peeled and halved",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "sliced",
+                "ingredient_id": "ING733",
+                "grams": 7.5
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "sliced",
+                "ingredient_id": "ING369",
+                "grams": 7.5
+            },
+            {
+                "quantity": 3,
+                "unit": "medium",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 3,
+                "unit": "cloves",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1457",
+                "grams": 2.7
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1650",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "or more as needed (Optional)",
+                "ingredient_id": "ING462",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "(4 ounce)",
+                "prepare_type": "washed",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING60",
+                "grams": 6.25
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Malaysian",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 474.41,
+        "total_sugar": 9.76,
+        "total_fat": 32.13,
+        "total_fiber": 5.82,
+        "total_protein": 6.96,
+        "total_carbohydrat": 37.66,
+        "total_cholesterol": 0.0011975625,
+        "total_sodium": 0.14164880625,
+        "total_cost": 40495.28,
+        "total_error": 8,
+        "grams": 90
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f593"
+        },
+        "url": "https://www.allrecipes.com/recipe/191156/restaurant-style-beef-and-broccoli/",
+        "name": "Restaurant-Style Beef and Broccoli",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "I make this beef and broccoli recipe when I want Chinese food without going out. It's very easy to prep and delicious served over rice.",
+        "ingredients": [
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING380",
+                "grams": 8.25
+            },
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING810",
+                "grams": 8.25
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING921",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING542",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.75,
+                "unit": "pound",
+                "prepare_type": "cut into 1/8-inch thick strips",
+                "ingredient_id": "ING1910",
+                "grams": 66.375
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "plus more if needed",
+                "ingredient_id": "ING1851",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING2162",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "clove",
+                "prepare_type": "peeled and smashed",
+                "ingredient_id": "ING1457",
+                "grams": 0.9
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "cut into florets",
+                "ingredient_id": "ING1589",
+                "grams": 88.5
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "stir-fry",
+        "tags": "",
+        "total_calo": 100.96,
+        "total_sugar": 0.89,
+        "total_fat": 8.26,
+        "total_fiber": 0.94,
+        "total_protein": 4.45,
+        "total_carbohydrat": 1.61,
+        "total_cholesterol": 0.012524962499999997,
+        "total_sodium": 0.05185008,
+        "total_cost": 9112.65,
+        "total_error": 1,
+        "grams": 30
+    }
+]

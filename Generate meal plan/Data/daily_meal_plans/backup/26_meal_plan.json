@@ -1,0 +1,592 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f5c1"
+        },
+        "url": "https://www.allrecipes.com/recipe/246227/tofu-stir-fry-with-peanut-sauce-vegan/",
+        "name": "Tofu Stir-Fry with Peanut Sauce (Vegan)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This throwback recipe for tofu stir-fry with peanut sauce is from years ago when I was a hardcore vegan. Years later, it's still one of my staples. It's healthy, filling, and full of flavor!",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": "ING278",
+                "grams": 25.0
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING214",
+                "grams": 6.25
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1072",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING147",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING704",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1000",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2085",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "diced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "diced",
+                "ingredient_id": "ING683",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "drained and cut into 1-inch cubes",
+                "ingredient_id": "ING916",
+                "grams": 25.0
+            },
+            {
+                "quantity": 4,
+                "unit": "",
+                "prepare_type": "minced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1646",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1481",
+                "grams": 100.0
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1958",
+                "grams": 37.5
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "stir-fry",
+        "tags": "",
+        "total_calo": 997.11,
+        "total_sugar": 20.06,
+        "total_fat": 30.18,
+        "total_fiber": 15.82,
+        "total_protein": 32.44,
+        "total_carbohydrat": 141.14,
+        "total_cholesterol": 0.0,
+        "total_sodium": 1.3980193125000004,
+        "total_cost": 212019.53,
+        "total_error": 3,
+        "grams": 300
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7f4"
+        },
+        "url": "https://www.allrecipes.com/recipe/263385/simple-shrimp-pad-thai/",
+        "name": "Simple Shrimp Pad Thai",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "The flavor and the heat build with each bite of this shrimp pad thai, so don't taste it right out of the pan and think it needs more heat because five bites later, you will be surprised at the heat.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "(8 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING803",
+                "grams": 6.25
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2136",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING922",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING838",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "peeled and deveined",
+                "ingredient_id": "ING31",
+                "grams": 88.5
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "beaten",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "bunch",
+                "prepare_type": "chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 3,
+                "unit": "cloves",
+                "prepare_type": "minced",
+                "ingredient_id": "ING1457",
+                "grams": 2.7
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "chopped",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Thai",
+        "category": "pad-thai",
+        "tags": "",
+        "total_calo": 649.98,
+        "total_sugar": 7.22,
+        "total_fat": 23.73,
+        "total_fiber": 4.42,
+        "total_protein": 20.61,
+        "total_carbohydrat": 86.07,
+        "total_cholesterol": 0.00099225,
+        "total_sodium": 0.38733905,
+        "total_cost": 60409.36,
+        "total_error": 6,
+        "grams": 140
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f6ed"
+        },
+        "url": "https://www.allrecipes.com/recipe/34689/chickpea-curry/",
+        "name": "Chickpea Curry",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This easy chickpea curry is made with canned chickpeas for a fast, convenient vegan meal. Fresh ginger, garlic, and Indian spices add lots of flavor.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "minced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "minced",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "finely chopped",
+                "ingredient_id": "ING181",
+                "grams": 2.845
+            },
+            {
+                "quantity": 6,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "(2-inch)",
+                "prepare_type": "crushed",
+                "ingredient_id": "ING2048",
+                "grams": 10.4
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1225",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1278",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING555",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 2,
+                "unit": "(15 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING2174",
+                "grams": 25.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 99.03,
+        "total_sugar": 2.7,
+        "total_fat": 6.38,
+        "total_fiber": 2.99,
+        "total_protein": 1.13,
+        "total_carbohydrat": 8.02,
+        "total_cholesterol": 0.0018640440000000002,
+        "total_sodium": 0.004376100000000001,
+        "total_cost": 7384.82,
+        "total_error": 4,
+        "grams": 80
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f881"
+        },
+        "url": "https://www.allrecipes.com/recipe/246028/roasted-pork-banh-mi-vietnamese-sandwich/",
+        "name": "Roasted Pork Bánh Mì (Vietnamese Sandwich)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Bánh mì sandwiches are delicious. I'll never forget my first real bánh mì. I remember thinking to myself, this isn't just one of the best sandwiches I've ever had to eat, but one of the best things, period. Not only do we get amazing contrasts in flavor and texture, but also the temperature difference between the crisp, warm, meat-filled roll, and cool, crunchy vegetables makes this so much fun to eat.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING395",
+                "grams": 6.25
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING842",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1697",
+                "grams": 6.25
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "or to taste",
+                "ingredient_id": "ING1419",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING1643",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1902",
+                "grams": 0.0
+            },
+            {
+                "quantity": 4,
+                "unit": "ounces",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1192",
+                "grams": 28.0
+            },
+            {
+                "quantity": 2,
+                "unit": "ounces",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1107",
+                "grams": 14.0
+            },
+            {
+                "quantity": 6,
+                "unit": "thin",
+                "prepare_type": "diced",
+                "ingredient_id": "ING2031",
+                "grams": 7.5
+            },
+            {
+                "quantity": 6,
+                "unit": "thin",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING999",
+                "grams": 7.5
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 147.65,
+        "total_sugar": 1.38,
+        "total_fat": 10.6,
+        "total_fiber": 1.78,
+        "total_protein": 8.09,
+        "total_carbohydrat": 4.44,
+        "total_cholesterol": 0.013670100000000001,
+        "total_sodium": 0.11466903749999999,
+        "total_cost": 13898.12,
+        "total_error": 3,
+        "grams": 60
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7c0"
+        },
+        "url": "https://www.allrecipes.com/recipe/238844/korean-fried-chicken/",
+        "name": "Korean Fried Chicken",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This Korean fried chicken recipe is officially my favorite. I've had every style of fried chicken known to man, so I've always considered myself an expert. No other method I've come across has the same combination of tender, juicy, flavorful chicken and plate-scratching crispiness as this recipe does. It's simply a must-try!",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "boneless chicken thighs, quartered",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "",
+                "prepare_type": "grated",
+                "ingredient_id": "ING145",
+                "grams": 0.0
+            },
+            {
+                "quantity": 4,
+                "unit": "cloves",
+                "prepare_type": "minced",
+                "ingredient_id": "ING1457",
+                "grams": 3.6
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING637",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1558",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING1609",
+                "grams": 100.0
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING542",
+                "grams": 18.75
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1449",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 0.355625
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING478",
+                "grams": 25.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Korean",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 198.88,
+        "total_sugar": 0.44,
+        "total_fat": 20.08,
+        "total_fiber": 0.03,
+        "total_protein": 1.45,
+        "total_carbohydrat": 3.81,
+        "total_cholesterol": 0.0029407555000000004,
+        "total_sodium": 0.03734810000000001,
+        "total_cost": 7058.75,
+        "total_error": 3,
+        "grams": 20
+    }
+]

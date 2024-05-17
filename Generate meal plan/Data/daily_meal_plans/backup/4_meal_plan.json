@@ -1,0 +1,419 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f873"
+        },
+        "url": "https://www.allrecipes.com/recipe/244962/asian-garlic-beef-cubes-vietnamese-bo-luc-lac-or-shaking-beef/",
+        "name": "Asian Garlic Beef Cubes (Vietnamese Bo Luc Lac or Shaking Beef)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Delicious beef cubes that offer a variety of flavors and are usually the first to go in any of our dinners. Can be served on a bed of lettuce, onions, and tomatoes with white Jasmine or Thai sticky rice, if desired.",
+        "ingredients": [
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "prepare_type": "cut into cubes",
+                "ingredient_id": "ING511",
+                "grams": 132.75
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2085",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1802",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 4,
+                "unit": "large",
+                "prepare_type": "minced, or more to taste",
+                "ingredient_id": "ING2164",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1909",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1426",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "or more to taste (Optional)",
+                "ingredient_id": "ING1449",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1386",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING396",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 2,
+                "unit": "drops",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING1346",
+                "grams": 0.5
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1426",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1184",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1870",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2085",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1802",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 4,
+                "unit": "cloves",
+                "prepare_type": "minced, or more to taste",
+                "ingredient_id": "ING1457",
+                "grams": 3.6
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 1527.71,
+        "total_sugar": 6.52,
+        "total_fat": 87.1,
+        "total_fiber": 12.92,
+        "total_protein": 93.01,
+        "total_carbohydrat": 87.93,
+        "total_cholesterol": 0.22586968124999993,
+        "total_sodium": 1.2696517125000002,
+        "total_cost": 255261.82,
+        "total_error": 0,
+        "grams": 270
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f643"
+        },
+        "url": "https://www.allrecipes.com/recipe/210541/easy-malai-kulfi/",
+        "name": "Easy Malai Kulfi",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Kulfi is best described as Indian-style ice cream. However, unlike ice cream, kulfi is not churned. This is a fantastic summer dessert. This is a quick and easy version of kulfi. I almost never make kulfi the old way any more.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1410",
+                "grams": 50.0
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING12",
+                "grams": 12.5
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING800",
+                "grams": 6.25
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "or to taste (Optional)",
+                "ingredient_id": "ING1718",
+                "grams": 2.845
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1670",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "desserts",
+        "tags": "",
+        "total_calo": 310.72,
+        "total_sugar": 1.09,
+        "total_fat": 23.1,
+        "total_fiber": 3.89,
+        "total_protein": 15.51,
+        "total_carbohydrat": 9.26,
+        "total_cholesterol": 0.06881439,
+        "total_sodium": 0.27804840000000003,
+        "total_cost": 31027.38,
+        "total_error": 2,
+        "grams": 240
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f649"
+        },
+        "url": "https://www.allrecipes.com/recipe/285914/kobi-batata-bhaji-indian-fried-cabbage-and-potato/",
+        "name": "Kobi Batata Bhaji (Indian Fried Cabbage and Potato)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a typical dish in Maharashtra. Serve with rice or chapattis.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "or to taste",
+                "ingredient_id": "ING854",
+                "grams": 2.845
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1688",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING2023",
+                "grams": 37.5
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "peeled and sliced",
+                "ingredient_id": "ING557",
+                "grams": 7.5
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING522",
+                "grams": 1.4225
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "side-dishes",
+        "tags": "",
+        "total_calo": 78.02,
+        "total_sugar": 0.66,
+        "total_fat": 5.4,
+        "total_fiber": 2.57,
+        "total_protein": 1.24,
+        "total_carbohydrat": 5.11,
+        "total_cholesterol": 0.0005899107500000001,
+        "total_sodium": 0.044926245000000004,
+        "total_cost": 9722.47,
+        "total_error": 2,
+        "grams": 130
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f62b"
+        },
+        "url": "https://www.allrecipes.com/recipe/75087/spicy-indian-gujarati-green-beans/",
+        "name": "Spicy Indian Green Beans, Gujarati Style",
+        "cook_time": "0:20:00",
+        "prep_time": "0:15:00",
+        "total_time": "0:35:00",
+        "description": "These Indian green beans with chile pepper, mustard, and garlic are cooked Gujarati-style, with a distinctive sweet, salty, and spicy flavors all at once.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 6.25
+            },
+            {
+                "quantity": 4,
+                "unit": "cloves",
+                "prepare_type": "",
+                "ingredient_id": "ING466",
+                "grams": 3.6
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING487",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING59",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING1222",
+                "grams": 0.0
+            }
+        ],
+        "instructions": [
+            "Bring a large pot of water to a boil. Cook green beans briefly in the boiling water, removing after 3 to 4 minutes. Drain, rinse with cold water, and drain again. Blot dry.",
+            "Heat oil in a large skillet over medium heat. Stir in garlic and mustard seed; sauté until golden brown, 1 to 2 minutes. Stir in chile pepper, then add beans, salt, and sugar. Cook and stir until beans are tender, about 8 minutes. Season with pepper to serve."
+        ],
+        "nutrition": {
+            "calories": "171 kcal",
+            "carbohydrateContent": "11 g",
+            "fiberContent": "5 g",
+            "proteinContent": "3 g",
+            "saturatedFatContent": "2 g",
+            "sodiumContent": "589 mg",
+            "sugarContent": "2 g",
+            "fatContent": "14 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/HiyvqmnC10XcahsH9asPLUFKPBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/219053-65f269e5a7314a8ba3867cf162551503.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/56ZJDUGu-ma1DlVvV.mp4",
+            "description": "AR0921",
+            "duration": "0:02:35",
+            "name": "Indian Green Beans (Guferati)"
+        },
+        "cuisine": "indian",
+        "category": "Side Dish",
+        "tags": [
+            "Indian Side Dishes"
+        ],
+        "total_calo": 188.1,
+        "total_fat": 15.4,
+        "total_fiber": 5.5,
+        "total_protein": 3.3,
+        "total_carbohydrat": 12.1,
+        "total_sodium": 0.6479,
+        "total_sugar": 2.2,
+        "total_cholesterol": 0.002772000000000001,
+        "total_cost": 5495.7,
+        "total_error": 1,
+        "grams": 110
+    }
+]

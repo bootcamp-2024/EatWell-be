@@ -1,0 +1,439 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7f1"
+        },
+        "url": "https://www.allrecipes.com/recipe/240606/persian-rice/",
+        "name": "Persian Rice",
+        "cook_time": "0:55:00",
+        "prep_time": "0:15:00",
+        "total_time": "1:10:00",
+        "description": "Chef John&#39;s Persian rice features fluffy basmati rice flavored with butter, saffron, and cumin, topped with slices of beautiful golden crisp potatoes.",
+        "ingredients": [
+            {
+                "quantity": 3,
+                "unit": "quarts",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 37.5
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING283",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING527",
+                "grams": 50.0
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2085",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING541",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1439",
+                "grams": 5.315625000000001
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1778",
+                "grams": 3.54375
+            }
+        ],
+        "instructions": [
+            "Place water and kosher salt in a pot; bring to a boil. Add rice; cook and stir for exactly 7 minutes. Drain.",
+            "Heat olive oil in a pot over medium-high heat. Cover the bottom of the pot with 1 layer of potato slices. Sprinkle cumin and salt over potatoes. Cook until potatoes are sizzling, 2 to 3 minutes; top potatoes with rice to form an even layer. Reduce heat to low and place butter slices over rice.",
+            "Top the pot with a layer of clean paper towels, then place the lid over the towels. Steam until rice is fluffy, about 45 minutes.",
+            "Grind saffron threads with a mortar and pestle. Mix crushed saffron with 1 1/2 tablespoons hot water in a large bowl. Add a couple of spoonfuls of rice to saffron mixture and stir until rice is yellow.",
+            "Spoon remaining rice into a serving bowl. Top with saffron rice and line the edges of the bowl with potatoes. Garnish with parsley."
+        ],
+        "nutrition": {
+            "calories": "255 kcal",
+            "carbohydrateContent": "42 g",
+            "cholesterolContent": "11 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "4 g",
+            "saturatedFatContent": "3 g",
+            "sodiumContent": "2223 mg",
+            "sugarContent": "0 g",
+            "fatContent": "8 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/xjurj3TmYEQ5MMdq8s0mGMo4658=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24606-persian-rice-mfs_149-04ba83bbdc4449f0a97767fff0172dfa.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/BhRdV2Ev-K3AjnAEN.mp4",
+            "description": "I believe I've posted a few fool proof methods for cooking perfect rice, but this Persian version takes the grand prize, and it's not even close for second. The beauty of this method is that it doesn't rely on any specific measurements, or even exact times. This will make some of you very nervous, but just go with it.",
+            "duration": "0:06:32",
+            "name": "Chef John's Persian Rice"
+        },
+        "cuisine": "persian",
+        "category": "Side Dish",
+        "tags": [],
+        "total_calo": 382.5,
+        "total_fat": 12.0,
+        "total_fiber": 1.5,
+        "total_protein": 6.0,
+        "total_carbohydrat": 63.0,
+        "total_sodium": 3.3345,
+        "total_sugar": 0.0,
+        "total_cholesterol": 0.0165,
+        "total_cost": 53183.78,
+        "total_error": 0,
+        "grams": 150
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f888"
+        },
+        "url": "https://www.allrecipes.com/recipe/271154/easy-crispy-vietnamese-shrimp-balls/",
+        "name": "Easy Crispy Vietnamese Shrimp Balls",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is my take on the classic Vietnamese sugar cane shrimp recipe and it works great! Serve with Vietnamese dipping sauce (nuoc cham) or mix of hoisin sauce and sriracha hot sauce or plain.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "peeled and deveined",
+                "ingredient_id": "ING31",
+                "grams": 88.5
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "lightly beaten",
+                "ingredient_id": "ING160",
+                "grams": 12.5
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING71",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1346",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING542",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2168",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING922",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "minced",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1144",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "beaten",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING185",
+                "grams": 12.5
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 824.99,
+        "total_sugar": 3.01,
+        "total_fat": 35.53,
+        "total_fiber": 5.54,
+        "total_protein": 30.12,
+        "total_carbohydrat": 93.47,
+        "total_cholesterol": 0.0571035,
+        "total_sodium": 0.07421891250000001,
+        "total_cost": 69205.43,
+        "total_error": 3,
+        "grams": 150
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7d3"
+        },
+        "url": "https://www.allrecipes.com/recipe/55528/korean-tofu-and-vegetable-soup/",
+        "name": "Korean Tofu and Vegetable Soup",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is the Korean equivalent of chicken noodle soup - it is a comforting, cure-all soup. It is also spicy and fresh, and easy to make. You will have to visit your local Asian market for some of the ingredients.",
+        "ingredients": [
+            {
+                "quantity": 3,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING611",
+                "grams": 75.0
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING2013",
+                "grams": 6.25
+            },
+            {
+                "quantity": 1,
+                "unit": "(4 inch)",
+                "prepare_type": "",
+                "ingredient_id": "ING2030",
+                "grams": 12.65
+            },
+            {
+                "quantity": 5,
+                "unit": "cloves",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING1457",
+                "grams": 4.5
+            },
+            {
+                "quantity": 1,
+                "unit": "(16 ounce)",
+                "prepare_type": "cut into 1 1/2 x 1/4 inch dominoes",
+                "ingredient_id": "ING1313",
+                "grams": 12.5
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "thickly sliced",
+                "ingredient_id": "ING740",
+                "grams": 88.5
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "cut into 1 1/2x1/4 inch dominoes",
+                "ingredient_id": "ING1736",
+                "grams": 88.5
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "white and pale green part only, sliced diagonally into 1 1/4 inch pieces",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "seeded and sliced diagonally into 1/4 inch pieces",
+                "ingredient_id": "ING1687",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Korean",
+        "category": "soups-and-stews",
+        "tags": "",
+        "total_calo": 538.76,
+        "total_sugar": 4.98,
+        "total_fat": 6.61,
+        "total_fiber": 13.15,
+        "total_protein": 31.65,
+        "total_carbohydrat": 77.56,
+        "total_cholesterol": 0.04578750000000001,
+        "total_sodium": 0.0866195,
+        "total_cost": 148358.92,
+        "total_error": 3,
+        "grams": 110
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f5bd"
+        },
+        "url": "https://www.allrecipes.com/recipe/68531/chicken-and-peppers-with-balsamic-vinegar/",
+        "name": "Chicken and Peppers with Balsamic Vinegar",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Chicken and bell peppers are stir-fried with onions and balsamic vinegar for a yummy meal with an outstanding flavor that's easy to make! Serve over white rice or by itself.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING2085",
+                "grams": 6.25
+            },
+            {
+                "quantity": 4,
+                "unit": "",
+                "prepare_type": "boneless chicken breast halves - cut into strips",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1248",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING683",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1737",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING329",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING369",
+                "grams": 7.5
+            },
+            {
+                "quantity": 4,
+                "unit": "large",
+                "prepare_type": "finely chopped",
+                "ingredient_id": "ING2164",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING656",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING562",
+                "grams": 6.25
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "stir-fry",
+        "tags": "",
+        "total_calo": 289.86,
+        "total_sugar": 1.7,
+        "total_fat": 16.61,
+        "total_fiber": 5.05,
+        "total_protein": 3.59,
+        "total_carbohydrat": 29.33,
+        "total_cholesterol": 0.000975,
+        "total_sodium": 0.15802125,
+        "total_cost": 32661.59,
+        "total_error": 5,
+        "grams": 100
+    }
+]

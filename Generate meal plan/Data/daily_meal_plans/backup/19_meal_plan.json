@@ -1,0 +1,515 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f692"
+        },
+        "url": "https://www.allrecipes.com/recipe/218771/tomato-tomatillo-chutney-tom-tom/",
+        "name": "Tomato Tomatillo Chutney - 'Tom Tom'",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Sweet and tangy!",
+        "ingredients": [
+            {
+                "quantity": 5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "husked, rinsed, and chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING165",
+                "grams": 37.5
+            },
+            {
+                "quantity": 2.25,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING21",
+                "grams": 56.25
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1.75,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1964",
+                "grams": 43.75
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING357",
+                "grams": 5.315625000000001
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1974",
+                "grams": 2.13375
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1195",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING492",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 5,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 954.14,
+        "total_sugar": 5.74,
+        "total_fat": 23.98,
+        "total_fiber": 9.31,
+        "total_protein": 49.33,
+        "total_carbohydrat": 129.45,
+        "total_cholesterol": 0.11153943749999999,
+        "total_sodium": 0.41301437500000004,
+        "total_cost": 82121.47,
+        "total_error": 4,
+        "grams": 290
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f6cf"
+        },
+        "url": "https://www.allrecipes.com/recipe/16102/chicken-biryani/",
+        "name": "Chicken Biryani",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Chicken biryani is a delicious Pakistani/Indian rice dish that's typically reserved for special occasions such as weddings, parties, or holidays such as Ramadan. It has a lengthy preparation, but the work is definitely worth it. For biryani, basmati rice is the ideal variety to use.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "tablespoons",
+                "prepare_type": "divided",
+                "ingredient_id": "ING1851",
+                "grams": 14.175
+            },
+            {
+                "quantity": 4,
+                "unit": "small",
+                "prepare_type": "peeled and halved",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "finely chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "minced",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1593",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "peeled and chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1974",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1449",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1532",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1670",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "(2 inch)",
+                "prepare_type": "",
+                "ingredient_id": "ING1797",
+                "grams": 7.7
+            },
+            {
+                "quantity": 3,
+                "unit": "pounds",
+                "prepare_type": "skinless chicken pieces cut into chunks",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": "ING1193",
+                "grams": 88.5
+            },
+            {
+                "quantity": 2.5,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 8.859375
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "diced",
+                "ingredient_id": "ING369",
+                "grams": 12.5
+            },
+            {
+                "quantity": 5,
+                "unit": "pods",
+                "prepare_type": "",
+                "ingredient_id": "ING1244",
+                "grams": 7.625
+            },
+            {
+                "quantity": 3,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "(1 inch)",
+                "prepare_type": "",
+                "ingredient_id": "ING1797",
+                "grams": 3.85
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1833",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": "ING743",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING268",
+                "grams": 100.0
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 2.13375
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 639.08,
+        "total_sugar": 2.65,
+        "total_fat": 27.9,
+        "total_fiber": 4.5,
+        "total_protein": 13.18,
+        "total_carbohydrat": 82.0,
+        "total_cholesterol": 0.02162269,
+        "total_sodium": 0.6868343125,
+        "total_cost": 153003.67,
+        "total_error": 6,
+        "grams": 100
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f600"
+        },
+        "url": "https://www.allrecipes.com/recipe/282727/chinese-steamed-daikon-cake/",
+        "name": "Chinese Steamed Daikon Cake",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "A traditional Chinese New Year favorite, this classic dish can also be enjoyed throughout the year. This is my adaptation of my grandmother's recipe. This recipe is absolutely delicious! Serve immediately plain, or with hoisin sauce, oyster sauce, soy sauce, or chili sauce.",
+        "ingredients": [
+            {
+                "quantity": 3,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "divided",
+                "ingredient_id": "ING83",
+                "grams": 100.0
+            },
+            {
+                "quantity": 0.66,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING827",
+                "grams": 16.5
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING10",
+                "grams": 18.75
+            },
+            {
+                "quantity": 4,
+                "unit": "tablespoons",
+                "prepare_type": "divided",
+                "ingredient_id": "ING1851",
+                "grams": 14.175
+            },
+            {
+                "quantity": 2,
+                "unit": "pounds",
+                "prepare_type": "peeled and grated",
+                "ingredient_id": "ING764",
+                "grams": 177.0
+            },
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1250",
+                "grams": 8.25
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 7.0875
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 223.86,
+        "total_sugar": 16.19,
+        "total_fat": 9.43,
+        "total_fiber": 9.75,
+        "total_protein": 4.91,
+        "total_carbohydrat": 25.34,
+        "total_cholesterol": 0.0,
+        "total_sodium": 0.25110750000000004,
+        "total_cost": 39620.7,
+        "total_error": 1,
+        "grams": 60
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f888"
+        },
+        "url": "https://www.allrecipes.com/recipe/271154/easy-crispy-vietnamese-shrimp-balls/",
+        "name": "Easy Crispy Vietnamese Shrimp Balls",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is my take on the classic Vietnamese sugar cane shrimp recipe and it works great! Serve with Vietnamese dipping sauce (nuoc cham) or mix of hoisin sauce and sriracha hot sauce or plain.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "peeled and deveined",
+                "ingredient_id": "ING31",
+                "grams": 88.5
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "lightly beaten",
+                "ingredient_id": "ING160",
+                "grams": 12.5
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING71",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1346",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING542",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2168",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING922",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "minced",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1144",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "beaten",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING185",
+                "grams": 12.5
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 275.0,
+        "total_sugar": 1.0,
+        "total_fat": 11.84,
+        "total_fiber": 1.85,
+        "total_protein": 10.04,
+        "total_carbohydrat": 31.16,
+        "total_cholesterol": 0.0190345,
+        "total_sodium": 0.024739637500000005,
+        "total_cost": 23068.48,
+        "total_error": 3,
+        "grams": 50
+    }
+]

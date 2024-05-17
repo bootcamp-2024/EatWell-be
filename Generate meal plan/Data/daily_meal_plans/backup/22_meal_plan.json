@@ -1,0 +1,456 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f6c3"
+        },
+        "url": "https://www.allrecipes.com/recipe/8391843/indian-chaat-inspired-potato-chip-salad/",
+        "name": "Indian Chaat-Inspired Potato Chip Salad",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "We're making chip chaat! This Indian street food often features crispy fried things topped with all kinds of amazing garnishes. It's by far one of the most delicious foods in the world. So, I decided to try that same approach with potato chips, and I love how this came out.",
+        "ingredients": [
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING2183",
+                "grams": 37.5
+            },
+            {
+                "quantity": 2,
+                "unit": "medium",
+                "prepare_type": "juiced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "or to taste",
+                "ingredient_id": "ING404",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1688",
+                "grams": 2.13375
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2025",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING462",
+                "grams": 6.25
+            },
+            {
+                "quantity": 12,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING853",
+                "grams": 12.5
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING314",
+                "grams": 12.5
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1956",
+                "grams": 12.5
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING191",
+                "grams": 12.5
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1795",
+                "grams": 25.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "medium",
+                "prepare_type": "halved",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 409.26,
+        "total_sugar": 13.12,
+        "total_fat": 19.08,
+        "total_fiber": 10.86,
+        "total_protein": 18.4,
+        "total_carbohydrat": 36.15,
+        "total_cholesterol": 0.082188,
+        "total_sodium": 0.673839,
+        "total_cost": 77915.64,
+        "total_error": 5,
+        "grams": 240
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7bc"
+        },
+        "url": "https://www.allrecipes.com/recipe/237005/simple-slow-cooked-korean-beef-soft-tacos/",
+        "name": "Simple Slow-Cooked Korean Beef Soft Tacos",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This Korean taco recipe was given to me by a Korean friend. It's so full of flavor! I did tweak it a little to add more spice. Serve with your favorite taco toppings.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "(3 pound)",
+                "prepare_type": "trimmed",
+                "ingredient_id": "ING1771",
+                "grams": 165.5
+            },
+            {
+                "quantity": 0.5,
+                "unit": "medium",
+                "prepare_type": "diced",
+                "ingredient_id": "ING369",
+                "grams": 3.75
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1357",
+                "grams": 12.5
+            },
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 8.25
+            },
+            {
+                "quantity": 10,
+                "unit": "cloves",
+                "prepare_type": "",
+                "ingredient_id": "ING1457",
+                "grams": 9.0
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "diced (Optional)",
+                "ingredient_id": "ING235",
+                "grams": 7.5
+            },
+            {
+                "quantity": 1,
+                "unit": "(1 inch)",
+                "prepare_type": "peeled and grated",
+                "ingredient_id": "ING1781",
+                "grams": 3.85
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING842",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1346",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1144",
+                "grams": 0.0
+            },
+            {
+                "quantity": 16,
+                "unit": "(6 inch)",
+                "prepare_type": "",
+                "ingredient_id": "ING1527",
+                "grams": 209.6
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Korean",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 1534.28,
+        "total_sugar": 23.85,
+        "total_fat": 63.68,
+        "total_fiber": 4.87,
+        "total_protein": 59.49,
+        "total_carbohydrat": 178.0,
+        "total_cholesterol": 0.10976625000000001,
+        "total_sodium": 2.0319876500000005,
+        "total_cost": 51295.03,
+        "total_error": 1,
+        "grams": 110
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f691"
+        },
+        "url": "https://www.allrecipes.com/recipe/284497/autumn-apple-pear-chutney/",
+        "name": "Autumn Apple-Pear Chutney",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This deeply spiced chutney is one of the last things I make each fall. I love it alongside roasted root vegetables and in place of applesauce with Hanukkah latkes. I don't typically peel pears, but if yours have tough, pebbly skin, you might want to peel them.",
+        "ingredients": [
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "prepare_type": "cored, and diced",
+                "ingredient_id": "ING1882",
+                "grams": 132.75
+            },
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "prepare_type": "cored, and diced",
+                "ingredient_id": "ING154",
+                "grams": 132.75
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "minced",
+                "ingredient_id": "ING145",
+                "grams": 12.5
+            },
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING848",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 37.5
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "seeded and chopped",
+                "ingredient_id": "ING245",
+                "grams": 0.0
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING846",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1833",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1391",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 127.68,
+        "total_sugar": 12.74,
+        "total_fat": 1.36,
+        "total_fiber": 5.62,
+        "total_protein": 2.49,
+        "total_carbohydrat": 23.53,
+        "total_cholesterol": 0.0027403040000000007,
+        "total_sodium": 0.13612120000000003,
+        "total_cost": 163686.27,
+        "total_error": 4,
+        "grams": 80
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f706"
+        },
+        "url": "https://www.allrecipes.com/recipe/236750/chocolate-chai-coffee-mix/",
+        "name": "Chocolate Chai Coffee Mix",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "I was craving Starbucks® chocolate chai tea latte when I made this. It is not a copycat recipe, simply tasty and easy. International Delight® 'Sweet Cream' is fabulous in this, if you like sweet coffee. Cardamom gives it the slight licorice taste; if you omit it, that's fine too.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 50.0
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1677",
+                "grams": 12.5
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING846",
+                "grams": 2.13375
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1833",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING533",
+                "grams": 0.355625
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.375,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1670",
+                "grams": 0.5334375
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "drinks",
+        "tags": "",
+        "total_calo": 81.28,
+        "total_sugar": 6.79,
+        "total_fat": 2.82,
+        "total_fiber": 4.2,
+        "total_protein": 2.76,
+        "total_carbohydrat": 9.25,
+        "total_cholesterol": 0.0019866635,
+        "total_sodium": 0.03921410000000001,
+        "total_cost": 15394.55,
+        "total_error": 1,
+        "grams": 80
+    }
+]

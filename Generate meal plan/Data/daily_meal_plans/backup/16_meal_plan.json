@@ -1,0 +1,532 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f58a"
+        },
+        "url": "https://www.allrecipes.com/recipe/213244/prawn-malai-curry/",
+        "name": "Prawn Malai Curry",
+        "cook_time": "0:20:00",
+        "prep_time": "0:20:00",
+        "total_time": "0:40:00",
+        "description": "This malai curry dish combines prawns with coconut milk, onion, ginger, garlic paste, tomato, and ground spices and is served with basmati rice.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 3,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 3,
+                "unit": "(1-inch) pieces",
+                "prepare_type": "",
+                "ingredient_id": "ING85",
+                "grams": 11.55
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 4,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING2179",
+                "grams": 0.0
+            },
+            {
+                "quantity": 2,
+                "unit": "(1 1/2-inch) pieces",
+                "prepare_type": "",
+                "ingredient_id": "ING942",
+                "grams": 9.05
+            },
+            {
+                "quantity": 1,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING1520",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1.25,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1026",
+                "grams": 1.7781250000000002
+            },
+            {
+                "quantity": 1.25,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING953",
+                "grams": 1.7781250000000002
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING555",
+                "grams": 0.355625
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1562",
+                "grams": 12.5
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 12.5
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING70",
+                "grams": 25.0
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": "ING1452",
+                "grams": 88.5
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1798",
+                "grams": 1.4225
+            }
+        ],
+        "instructions": [
+            "To prepare fresh garam masala, in a coffee grinder, grind cardamom seeds, 3 whole cloves, and 3 cinnamon sticks to a fine powder. Set aside.",
+            "Heat vegetable oil in a skillet over medium heat. Add 4 whole cloves, 4 cardamom pods, and 2 sticks of cinnamon and fry for a few seconds (take care as cloves tend to pop out of the pan). Stir in grated onion and reduce the heat to medium-low. Cook and stir until liquid dries and onion no longer smells raw, about 5 minutes. Add ginger paste and garlic paste and cook for 2 minutes, stirring constantly.",
+            "Stir in turmeric and cayenne pepper. Add chopped tomatoes and cook until tomatoes are soft, about 5 minutes. Pour in water, cover the pan, and cook for an additional 5 minutes.",
+            "Pour in coconut milk and stir well. When mixture is just below boiling, stir in prawns. Sprinkle mixture with almost all of the fresh garam masala powder, reserving a pinch to use as a garnish. Gently stir to combine. Do not cover the pan at this stage, as coconut milk will curdle.",
+            "As soon as prawns are pink and cooked through, 3 to 5 minutes, add ghee. Remove the pan from the heat. Sprinkle reserved garam masala over the dish and serve."
+        ],
+        "nutrition": {
+            "calories": "343 kcal",
+            "carbohydrateContent": "14 g",
+            "cholesterolContent": "175 mg",
+            "fiberContent": "4 g",
+            "proteinContent": "25 g",
+            "saturatedFatContent": "13 g",
+            "sodiumContent": "71 mg",
+            "sugarContent": "3 g",
+            "fatContent": "21 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/49AwiZGqQ8GhvbvLd6b12CnyE_o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1066644-d83c3678a7e848109bb0d4d8d086f829.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/m6FKZIYW-ma1DlVvV.mp4",
+            "description": "Coconut milk gives this sea food style curry its creamy base. Spices of cardamom, ginger, cinnamon, and garlic give the curry this beautifully layered flavor profile. A bit of cayenne pepper adds spice while tomatoes give this curry a refreshing savory side. Add in tiger prawns and this is a gorgeous Prawn Malai Curry!",
+            "duration": "0:01:48",
+            "name": "Prawn Malai Curry"
+        },
+        "cuisine": "bangladeshi",
+        "category": "Dinner",
+        "tags": [],
+        "total_calo": 514.5,
+        "total_fat": 31.5,
+        "total_fiber": 6.0,
+        "total_protein": 37.5,
+        "total_carbohydrat": 21.0,
+        "total_sodium": 0.10649999999999998,
+        "total_sugar": 4.5,
+        "total_cholesterol": 0.26249999999999996,
+        "total_cost": 147315.87,
+        "total_error": 0,
+        "grams": 150
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f627"
+        },
+        "url": "https://www.allrecipes.com/recipe/74153/easy-indian-style-okra/",
+        "name": "Easy Indian-Style Okra",
+        "cook_time": "0:25:00",
+        "prep_time": "0:10:00",
+        "total_time": "0:35:00",
+        "description": "A traditional Indian okra recipe that uses fresh okra and spices, cooked in a skillet. Onion, cumin, ginger, and coriander add wonderful flavor.",
+        "ingredients": [
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING25",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "",
+                "ingredient_id": "ING451",
+                "grams": 7.5
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": "ING901",
+                "grams": 88.5
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1833",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1225",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1449",
+                "grams": 0.355625
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            }
+        ],
+        "instructions": [
+            "Melt butter in a large skillet over medium heat. Add onion and cook until tender. Stir in okra and season with cumin, ginger, coriander, pepper, and salt.",
+            "Cook and stir for a few minutes, then reduce the heat to medium-low and cover the pan. Cook, stirring occasionally, until okra is tender, about 20 minutes."
+        ],
+        "nutrition": {
+            "calories": "126 kcal",
+            "carbohydrateContent": "11 g",
+            "cholesterolContent": "23 mg",
+            "fiberContent": "4 g",
+            "proteinContent": "3 g",
+            "saturatedFatContent": "6 g",
+            "sodiumContent": "72 mg",
+            "sugarContent": "3 g",
+            "fatContent": "9 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/efvrZeIWTyJAJbHFxCdGK6P1oUM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/371190-62e72430876744138210f2eaf223f798.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/rX6wG3AC-ma1DlVvV.mp4",
+            "description": "AR0907",
+            "duration": "0:01:59",
+            "name": "Easy Indian-Style Okra"
+        },
+        "cuisine": "indian",
+        "category": "Side Dish",
+        "tags": [
+            "Indian Side Dishes"
+        ],
+        "total_calo": 189.0,
+        "total_fat": 13.5,
+        "total_fiber": 6.0,
+        "total_protein": 4.5,
+        "total_carbohydrat": 16.5,
+        "total_sodium": 0.10799999999999998,
+        "total_sugar": 4.5,
+        "total_cholesterol": 0.0345,
+        "total_cost": 35163.44,
+        "total_error": 0,
+        "grams": 150
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f6c4"
+        },
+        "url": "https://www.allrecipes.com/recipe/176168/bettys-green-tomato-chutney/",
+        "name": "Betty's Green Tomato Chutney",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This sweet green tomato chutney is a great way to use up unripened tomatoes.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "pounds",
+                "prepare_type": "chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING538",
+                "grams": 88.5
+            },
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "prepare_type": "chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2.5,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": "ING1072",
+                "grams": 221.25
+            },
+            {
+                "quantity": 3,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1580",
+                "grams": 75.0
+            },
+            {
+                "quantity": 1.25,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 3.5562500000000004
+            },
+            {
+                "quantity": 2.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING250",
+                "grams": 3.5562500000000004
+            },
+            {
+                "quantity": 2.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1800",
+                "grams": 3.5562500000000004
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1414",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1833",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1580",
+                "grams": 25.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 945.65,
+        "total_sugar": 16.97,
+        "total_fat": 6.06,
+        "total_fiber": 11.88,
+        "total_protein": 21.24,
+        "total_carbohydrat": 193.91,
+        "total_cholesterol": 0.0038086015000000006,
+        "total_sodium": 0.0424672875,
+        "total_cost": 71524.32,
+        "total_error": 4,
+        "grams": 110
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f867"
+        },
+        "url": "https://www.allrecipes.com/recipe/28349/very-spicy-thai-green-chicken-curry/",
+        "name": "Very Spicy Thai Green Chicken Curry",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is an EXTREMELY hot Thai curry with homemade curry paste. All you people out there who're thinking \"Hot? Yeah right\", try it! Serve over Thai fragrant rice.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "peeled and quartered",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 10,
+                "unit": "",
+                "prepare_type": "seeded and chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "seeded and chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "bunch",
+                "prepare_type": "",
+                "ingredient_id": "ING1835",
+                "grams": 42.5
+            },
+            {
+                "quantity": 0.5,
+                "unit": "bunch",
+                "prepare_type": "",
+                "ingredient_id": "ING1259",
+                "grams": 42.5
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "peeled and halved",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 1,
+                "unit": "(1",
+                "prepare_type": "peeled and sliced",
+                "ingredient_id": "ING540",
+                "grams": 120.25
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "zested and juiced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING370",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1346",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": "ING1558",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "or more as needed",
+                "ingredient_id": "ING2085",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "cubed",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": "ING1582",
+                "grams": 25.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING969",
+                "grams": 25.0
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Thai",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 463.46,
+        "total_sugar": 0.44,
+        "total_fat": 14.67,
+        "total_fiber": 1.31,
+        "total_protein": 68.08,
+        "total_carbohydrat": 13.84,
+        "total_cholesterol": 0.01017604996875,
+        "total_sodium": 0.402789436875,
+        "total_cost": 46774.97,
+        "total_error": 6,
+        "grams": 90
+    }
+]

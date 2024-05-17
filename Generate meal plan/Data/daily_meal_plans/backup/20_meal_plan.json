@@ -1,0 +1,515 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f720"
+        },
+        "url": "https://www.allrecipes.com/recipe/268330/indonesian-ratatouille-with-tempeh/",
+        "name": "Indonesian Ratatouille with Tempeh",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This dish is also known as sayur lodeh, which is a vegetable medley that includes tempeh as the main ingredient topped with coconut milk. This traditional dish can be modified with seasonal vegetables. Serve over rice.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING838",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 4,
+                "unit": "small",
+                "prepare_type": "minced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING2089",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "diced",
+                "ingredient_id": "ING1284",
+                "grams": 7.5
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "minced",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 0.75,
+                "unit": "(8 ounce)",
+                "prepare_type": "diced",
+                "ingredient_id": "ING1960",
+                "grams": 15.0
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "diced",
+                "ingredient_id": "ING683",
+                "grams": 7.5
+            },
+            {
+                "quantity": 0.25,
+                "unit": "pound",
+                "prepare_type": "sliced",
+                "ingredient_id": "ING122",
+                "grams": 22.125
+            },
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1425",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "small",
+                "prepare_type": "peeled and large diced (Optional)",
+                "ingredient_id": "ING1977",
+                "grams": 7.5
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING70",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING928",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1144",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indonesian",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 729.35,
+        "total_sugar": 4.6,
+        "total_fat": 55.82,
+        "total_fiber": 6.17,
+        "total_protein": 11.11,
+        "total_carbohydrat": 12.32,
+        "total_cholesterol": 0.18525,
+        "total_sodium": 0.075892425,
+        "total_cost": 46892.93,
+        "total_error": 3,
+        "grams": 300
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f629"
+        },
+        "url": "https://www.allrecipes.com/recipe/93896/indian-vegetable-bhaji/",
+        "name": "Indian Vegetable Bhaji",
+        "cook_time": "0:40:00",
+        "prep_time": "0:15:00",
+        "total_time": "0:55:00",
+        "description": "In this Indian dry curry, potatoes, cauliflower, carrots and peas are fried and flavored with spices, garlic, and chiles. It&#39;s perfect as a side dish for an Indian dinner.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "large",
+                "prepare_type": "",
+                "ingredient_id": "ING212",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING1227",
+                "grams": 0.0
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "",
+                "ingredient_id": "ING451",
+                "grams": 12.5
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1031",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING487",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 2,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING204",
+                "grams": 0.0
+            },
+            {
+                "quantity": 3,
+                "unit": "cloves",
+                "prepare_type": "",
+                "ingredient_id": "ING1351",
+                "grams": 2.7
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1593",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1800",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING605",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "sprig",
+                "prepare_type": "",
+                "ingredient_id": "ING1039",
+                "grams": 0.25
+            }
+        ],
+        "instructions": [
+            "Place the potatoes, cauliflower florets, carrot, and peas into a microwave-safe bowl, cover with plastic wrap, and microwave on High until the vegetables are very hot and starting to soften, about 2 minutes. Remove the plastic wrap, and drain the vegetables in a colander.",
+            "Place the vegetable oil in a large skillet, and heat over medium heat. Cook and stir the onion until it turns golden, about 10 minutes, and stir in the cumin seed, black mustard seed, and bay leaves. Cook and stir until the seeds begin to sputter, about 30 seconds, and then add the green chiles, garlic, and ginger. Cook and stir until the garlic begins to brown, about 1 minute.",
+            "Stir in the ground cumin, curry powder, and chili powder, and then add the partially cooked potatoes, cauliflower, carrot, and peas. Cook and stir until the vegetables are tender and coated with spices, about 30 minutes. Sprinkle with cilantro leaves."
+        ],
+        "nutrition": {
+            "calories": "279 kcal",
+            "carbohydrateContent": "53 g",
+            "fiberContent": "8 g",
+            "proteinContent": "7 g",
+            "saturatedFatContent": "1 g",
+            "sodiumContent": "48 mg",
+            "sugarContent": "6 g",
+            "fatContent": "5 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/t4ox-CqikcFep3J2pmbNXYjdCIo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/851956-2d053c5d6c1a43308adffb0b13434ca3.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/kwKffQHj-ma1DlVvV.mp4",
+            "description": "AR0920",
+            "duration": "0:04:38",
+            "name": "Indian Vegetable Bhaji"
+        },
+        "cuisine": "indian",
+        "category": "Dinner",
+        "tags": [
+            "Indian Side Dishes"
+        ],
+        "total_calo": 613.8,
+        "total_fat": 11.0,
+        "total_fiber": 17.6,
+        "total_protein": 15.4,
+        "total_carbohydrat": 116.6,
+        "total_sodium": 0.10560000000000001,
+        "total_sugar": 13.2,
+        "total_cholesterol": 0.13258767500000002,
+        "total_cost": 22758.95,
+        "total_error": 1,
+        "grams": 220
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f665"
+        },
+        "url": "https://www.allrecipes.com/recipe/105691/indian-style-rice-with-cashews-raisins-and-turmeric/",
+        "name": "Indian-Style Rice with Cashews, Raisins and Turmeric",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "A colorful, fragrant Indian-style rice. If desired, for presentation purposes, the rice can pressed into a lightly-oiled bowl, inverted and unmolded on to a decorative serving plate, and then garnished with fresh cilantro and slices of lime and tomato.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1193",
+                "grams": 37.5
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": "ING1582",
+                "grams": 25.0
+            },
+            {
+                "quantity": 1.25,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": "ING578",
+                "grams": 31.25
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1225",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 0.355625
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1174",
+                "grams": 0.0
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "side-dishes",
+        "tags": "",
+        "total_calo": 296.39,
+        "total_sugar": 0.67,
+        "total_fat": 12.33,
+        "total_fiber": 0.8,
+        "total_protein": 5.4,
+        "total_carbohydrat": 40.65,
+        "total_cholesterol": 0.005282080375,
+        "total_sodium": 0.26032979375000004,
+        "total_cost": 28804.81,
+        "total_error": 4,
+        "grams": 130
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f6fd"
+        },
+        "url": "https://www.allrecipes.com/recipe/93597/authentic-and-easy-shrimp-curry/",
+        "name": "Authentic and Easy Shrimp Curry",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a home-style South Indian shrimp curry recipe from my husband's family. It is simple and quick to make. It contains no coconut so is not sweet, just mostly juicy and as hot as you like it. Serve with basmati rice or an Indian flatbread.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 6.25
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING369",
+                "grams": 12.5
+            },
+            {
+                "quantity": 10,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING609",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING459",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1225",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.66,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 0.9388500000000001
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "finely chopped",
+                "ingredient_id": "ING1284",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING482",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 2,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": "ING238",
+                "grams": 177.0
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 6.25
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1688",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING131",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 463.71,
+        "total_sugar": 1.2,
+        "total_fat": 31.27,
+        "total_fiber": 0.43,
+        "total_protein": 44.06,
+        "total_carbohydrat": 2.13,
+        "total_cholesterol": 0.1525287775,
+        "total_sodium": 0.12230631250000001,
+        "total_cost": 83222.58,
+        "total_error": 3,
+        "grams": 100
+    }
+]
