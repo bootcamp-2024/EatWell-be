@@ -1,7 +1,8 @@
 import json
 import numpy as np
 from scipy.optimize import linprog
-from get_data import process_data
+from sklearn.neighbors import NearestNeighbors
+from sklearn.preprocessing import StandardScaler
 import copy 
 
 # TODO: chú thích cho code
@@ -137,11 +138,12 @@ class DailyMealPlan:
         # Rounding to nearest 10g and each nutrient is per 100g
         for meal in meals_plan:
             meal['grams'] = round(meal['grams'] / 10) * 10
+            gram_ratio = meal['grams'] / 100
             # làm tròn đơn vị hàng chục
             for nutrient in nutrients:
-                meal[nutrient] = round(meal[nutrient] * meal['grams'] / 100, 2)
-            meal['total_sodium']  *= meal['grams'] / 100
-            meal['total_cholesterol']  *= meal['grams'] / 100
+                meal[nutrient] = round(meal[nutrient] * gram_ratio, 2)
+            meal['total_sodium']  *= gram_ratio
+            meal['total_cholesterol']  *= gram_ratio
 
         meals_plan.sort(key=lambda x: x['grams'], reverse=True)
         # sắp xếp dữ liệu giảm dần theo grams
@@ -238,3 +240,55 @@ class DailyMealPlan:
 
         with open(json_path, 'w', encoding='utf-8') as file:
             json.dump(total_nutrients, file, indent = 4, ensure_ascii = False) 
+
+def find_other_recipe(recipe, recipe_data):
+    # Giá trị mục tiêu của bạn
+    gram_ratio = recipe['grams'] / 100
+    target = np.array([recipe['total_calo'] / gram_ratio, recipe['total_fat'] / gram_ratio, recipe['total_fiber'] / gram_ratio, recipe['total_protein'] / gram_ratio, recipe['total_carbohydrat'] / gram_ratio, recipe['total_sugar'] / gram_ratio, recipe['total_cost'] / gram_ratio, recipe['total_sodium'] / gram_ratio, recipe['total_cholesterol'] / gram_ratio, recipe['total_error']]).reshape(1, -1)
+
+    # ID của công thức bạn muốn loại trừ
+    excluded_id = recipe['_id']['$oid']
+
+    # Loại bỏ công thức với ID mong muốn
+    filtered_data = [[rec['total_calo'], rec['total_fat'], rec['total_fiber'], rec['total_protein'], rec['total_carbohydrat'], rec['total_sugar'], rec['total_cost'], rec['total_sodium'], rec['total_cholesterol'], rec['total_error']] for rec in recipe_data if rec['_id']['$oid'] != excluded_id]
+    filtered_recipe_ids = [rec['_id']['$oid'] for rec in recipe_data if rec['_id']['$oid'] != excluded_id]
+
+    # # Chuẩn hóa dữ liệu
+    scaler = StandardScaler()
+    data_normalized = scaler.fit_transform(filtered_data)
+    target_normalized = scaler.transform(target)
+
+    # Sử dụng kNN để tìm công thức gần nhất
+    knn = NearestNeighbors(n_neighbors=1, metric='euclidean')
+    knn.fit(data_normalized)
+    distances, indices = knn.kneighbors(target_normalized)
+
+    # Lấy công thức gần nhất
+    closest_recipe_index = indices[0][0]
+    closest_recipe_id = filtered_recipe_ids[closest_recipe_index]
+    closest_recipe = next(rec for rec in recipe_data if rec['_id']['$oid'] == closest_recipe_id)
+    
+    # Rounding to nearest 10g and each nutrient is per 100g
+    closest_recipe['grams'] = recipe['grams']
+    closest_recipe['meal_time'] = recipe['meal_time']
+
+    # làm tròn đơn vị hàng chục
+    nutrients = ['total_calo', 'total_fat', 'total_fiber', 'total_protein',
+                'total_carbohydrat', 'total_sugar', 'total_cost', 'total_sodium','total_cholesterol']
+    for nutrient in nutrients:
+        closest_recipe[nutrient] = round(closest_recipe[nutrient] * gram_ratio, 2)
+    closest_recipe['total_sodium']  *= gram_ratio
+    closest_recipe['total_cholesterol']  *= gram_ratio
+
+    return closest_recipe
+
+def get_total_nutrients(meal_plan):
+    nutrients_sum = {nutrient: 0 for nutrient in ['total_fiber', 'total_sugar', 'total_calo', 'total_carbohydrat',
+                'total_protein', 'total_fat', 'total_sodium', 'total_cholesterol', 'total_cost']}
+
+    for meal in meal_plan:
+        for nutrient in nutrients_sum:
+            value = meal[nutrient]
+            nutrients_sum[nutrient] += value
+
+    return nutrients_sum
