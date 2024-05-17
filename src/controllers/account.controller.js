@@ -188,15 +188,32 @@ export default {
           bodyGoal,
           activityLevel,
           $push: {
-            BMI: { value: BMI, updatedAt: new Date() },
-            BMR: { value: BMR, updatedAt: new Date() },
-            height: { value: height, updatedAt: new Date() },
-            weight: { value: weight, updatedAt: new Date() },
+            healthRecords: {
+              BMI: BMI,
+              BMR: BMR,
+              height: height,
+              weight: weight,
+              updatedAt: new Date(),
+            },
           },
           suggestedCalories,
         },
         { upsert: true, new: true }
       );
+
+      // const healthRecords = await HealthRecordsModel.findOneAndUpdate(
+      //   { userId: userInfo._id },
+      //   {
+      //     $push: {
+      //       BMI: { value: BMI, updatedAt: new Date() },
+      //       BMR: { value: BMR, updatedAt: new Date() },
+      //       height: { value: height, updatedAt: new Date() },
+      //       weight: { value: weight, updatedAt: new Date() },
+      //     },
+      //     // suggestedCalories,
+      //   },
+      //   { upsert: true, new: true }
+      // );
 
       return res.status(200).json({
         exitcode: 0,

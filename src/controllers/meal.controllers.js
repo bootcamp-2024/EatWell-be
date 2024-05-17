@@ -1,6 +1,7 @@
 import MealPlanModel from "#src/models/MealPlan.model";
 import moment from "moment";
 import { getMealPlanFromFastAPI } from "#src/services/meal.services";
+import IngredientModel from "#src/models/Ingredient.model";
 
 export default {
   async mealSavedController(req, res, next) {
@@ -58,6 +59,20 @@ export default {
       });
     } catch (err) {
       next(err);
+    }
+  },
+
+  async getIngredientNames(req, res, next) {
+    try {
+      const ingredients = await IngredientModel.find({}, "name");
+      const names = ingredients.map((ingredient) => ingredient.name);
+      res.status(200).send({
+        exitcode: 0,
+        message: "Get Ingredients successfully!",
+        names,
+      });
+    } catch (error) {
+      next(error);
     }
   },
 };
