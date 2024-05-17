@@ -1,0 +1,671 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f627"
+        },
+        "url": "https://www.allrecipes.com/recipe/74153/easy-indian-style-okra/",
+        "name": "Easy Indian-Style Okra",
+        "cook_time": "0:25:00",
+        "prep_time": "0:10:00",
+        "total_time": "0:35:00",
+        "description": "A traditional Indian okra recipe that uses fresh okra and spices, cooked in a skillet. Onion, cumin, ginger, and coriander add wonderful flavor.",
+        "ingredients": [
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING25",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "",
+                "ingredient_id": "ING451",
+                "grams": 7.5
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": "ING901",
+                "grams": 88.5
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1833",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1225",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1449",
+                "grams": 0.355625
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            }
+        ],
+        "instructions": [
+            "Melt butter in a large skillet over medium heat. Add onion and cook until tender. Stir in okra and season with cumin, ginger, coriander, pepper, and salt.",
+            "Cook and stir for a few minutes, then reduce the heat to medium-low and cover the pan. Cook, stirring occasionally, until okra is tender, about 20 minutes."
+        ],
+        "nutrition": {
+            "calories": "126 kcal",
+            "carbohydrateContent": "11 g",
+            "cholesterolContent": "23 mg",
+            "fiberContent": "4 g",
+            "proteinContent": "3 g",
+            "saturatedFatContent": "6 g",
+            "sodiumContent": "72 mg",
+            "sugarContent": "3 g",
+            "fatContent": "9 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/efvrZeIWTyJAJbHFxCdGK6P1oUM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/371190-62e72430876744138210f2eaf223f798.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/rX6wG3AC-ma1DlVvV.mp4",
+            "description": "AR0907",
+            "duration": "0:01:59",
+            "name": "Easy Indian-Style Okra"
+        },
+        "cuisine": "indian",
+        "category": "Side Dish",
+        "tags": [
+            "Indian Side Dishes"
+        ],
+        "total_calo": 378.0,
+        "total_fat": 27.0,
+        "total_fiber": 12.0,
+        "total_protein": 9.0,
+        "total_carbohydrat": 33.0,
+        "total_sodium": 0.21599999999999997,
+        "total_sugar": 9.0,
+        "total_cholesterol": 0.069,
+        "total_cost": 70326.89,
+        "total_error": 0,
+        "grams": 300
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f670"
+        },
+        "url": "https://www.allrecipes.com/recipe/229079/spinach-and-cauliflower-bhaji/",
+        "name": "Spinach and Cauliflower Bhaji",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This dish is half Indian and half Pakistani. This excellent vegetable dish goes well with most Asian foods and it is simple and quick-cooking. Serve hot with roti breads, if wished.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 6.25
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "coarsely chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "head",
+                "prepare_type": "cut into florets",
+                "ingredient_id": "ING538",
+                "grams": 12.5
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "crushed",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 1,
+                "unit": "(1 inch)",
+                "prepare_type": "peeled and chopped",
+                "ingredient_id": "ING2160",
+                "grams": 3.85
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1225",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1.25,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING555",
+                "grams": 1.7781250000000002
+            },
+            {
+                "quantity": 1,
+                "unit": "(14.5 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1.25,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1425",
+                "grams": 31.25
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1144",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "chopped and stems removed",
+                "ingredient_id": "ING1472",
+                "grams": 88.5
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "side-dishes",
+        "tags": "",
+        "total_calo": 566.96,
+        "total_sugar": 2.84,
+        "total_fat": 41.91,
+        "total_fiber": 5.61,
+        "total_protein": 8.46,
+        "total_carbohydrat": 18.19,
+        "total_cholesterol": 0.10277415399999999,
+        "total_sodium": 0.059244325,
+        "total_cost": 74275.77,
+        "total_error": 3,
+        "grams": 280
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f86d"
+        },
+        "url": "https://www.allrecipes.com/recipe/57354/beef-pho/",
+        "name": "Beef Pho",
+        "cook_time": "6:35:00",
+        "prep_time": "0:30:00",
+        "total_time": "14:30:00",
+        "description": "This beef pho features a rich bone and oxtail broth seasoned with onion, ginger, anise, and cinnamon ladled over rice noodles and thin-sliced meat.",
+        "ingredients": [
+            {
+                "quantity": 5,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING665",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "gallons",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 1.8925
+            },
+            {
+                "quantity": 2,
+                "unit": "medium",
+                "prepare_type": "",
+                "ingredient_id": "ING1396",
+                "grams": 15.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(4 inch) piece",
+                "prepare_type": "",
+                "ingredient_id": "ING181",
+                "grams": 5.15
+            },
+            {
+                "quantity": 2,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": "ING458",
+                "grams": 177.0
+            },
+            {
+                "quantity": 1,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING565",
+                "grams": 0.0
+            },
+            {
+                "quantity": 2,
+                "unit": "ounces",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "(3 inch)",
+                "prepare_type": "",
+                "ingredient_id": "ING85",
+                "grams": 2.525
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING922",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": "ING237",
+                "grams": 44.25
+            }
+        ],
+        "instructions": [
+            "Gather all ingredients.",
+            "Make broth: Place beef bones in a 9-quart (or larger) pot; season with 1 teaspoon salt. Pour water into the pot and bring to a boil. Reduce heat and simmer broth for about 2 hours.",
+            "Meanwhile, set an oven rack about 6 inches from the heat source and preheat the oven&#39;s broiler. Line a 10x15-inch roasting pan with aluminum foil.",
+            "Place onions and unpeeled ginger onto the prepared roasting pan and cook under the preheated broiler, stirring occasionally, until vegetables are charred, 10 to 15 minutes.",
+            "Cool slightly. Chop onions, then peel and slice ginger; set aside separately.",
+            "Skim fat from surface of simmering broth. Add oxtail, radish, and charred onions to broth. Tie charred ginger, anise, cinnamon stick, peppercorns, and cloves in cheesecloth to make a bouquet garni; add to broth. Stir in sugar, fish sauce, and remaining 2 teaspoons salt. Simmer over medium-low heat for at least 4 hours (the longer, the better). Season with salt.",
+            "Strain broth. Discard bones and bouquet garni. Reserve meat from bones for another use. Chill broth in the refrigerator, 8 hours to overnight.",
+            "Skim and discard fat from the top of chilled broth. Pour broth into a pot; bring to a boil. Reduce heat and keep hot until ready to serve.",
+            "Bring a pot of water to a boil. Turn off heat. Stir in rice noodles and let sit until noodles are tender yet chewy, 6 to 10 minutes.",
+            "Meanwhile, cut frozen sirloin into paper-thin slices.",
+            "Drain and divide noodles among bowls, about 1 1/2 cups per serving. Top each with a few sirloin slices. Ladle hot broth over sirloin and noodles.",
+            "Serve and enjoy!"
+        ],
+        "nutrition": {
+            "calories": "885 kcal",
+            "carbohydrateContent": "102 g",
+            "cholesterolContent": "174 mg",
+            "fiberContent": "3 g",
+            "proteinContent": "61 g",
+            "saturatedFatContent": "9 g",
+            "sodiumContent": "1745 mg",
+            "fatContent": "24 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/EbqrYyFsDjrCM3KTN7fUHr78Z84=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/57354-Beef-Pho-DDMFS-3x4-0615-49503be6698c4771a88400caa1c45795.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/yvhQ054p-ma1DlVvV.mp4",
+            "description": "AR0970",
+            "duration": "0:05:25",
+            "name": "Beef Pho"
+        },
+        "cuisine": "vietnamese",
+        "category": "Dinner",
+        "tags": [
+            "Vietnamese Soups and Stews"
+        ],
+        "total_calo": 708.0,
+        "total_fat": 19.2,
+        "total_fiber": 2.4,
+        "total_protein": 48.8,
+        "total_carbohydrat": 81.6,
+        "total_sodium": 1.3960000000000001,
+        "total_sugar": 1.35,
+        "total_cholesterol": 0.1392,
+        "total_cost": 100566.65,
+        "total_error": 1,
+        "grams": 80
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f69e"
+        },
+        "url": "https://www.allrecipes.com/recipe/75320/spicy-peach-chutney/",
+        "name": "Peach Chutney",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This peach chutney closely resembles imported Indian chutneys and is good with all curry dishes. It is also great with cream cheese and crackers.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING21",
+                "grams": 100.0
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1964",
+                "grams": 100.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 5,
+                "unit": "ounces",
+                "prepare_type": "",
+                "ingredient_id": "ING2018",
+                "grams": 35.0
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING165",
+                "grams": 12.5
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "minced",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1974",
+                "grams": 5.315625000000001
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING348",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1800",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING357",
+                "grams": 6.25
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 369.04,
+        "total_sugar": 3.88,
+        "total_fat": 7.38,
+        "total_fiber": 4.21,
+        "total_protein": 15.76,
+        "total_carbohydrat": 57.21,
+        "total_cholesterol": 0.0289625,
+        "total_sodium": 0.1368059,
+        "total_cost": 29507.39,
+        "total_error": 2,
+        "grams": 70
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f58a"
+        },
+        "url": "https://www.allrecipes.com/recipe/213244/prawn-malai-curry/",
+        "name": "Prawn Malai Curry",
+        "cook_time": "0:20:00",
+        "prep_time": "0:20:00",
+        "total_time": "0:40:00",
+        "description": "This malai curry dish combines prawns with coconut milk, onion, ginger, garlic paste, tomato, and ground spices and is served with basmati rice.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 3,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 3,
+                "unit": "(1-inch) pieces",
+                "prepare_type": "",
+                "ingredient_id": "ING85",
+                "grams": 11.55
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 4,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING2179",
+                "grams": 0.0
+            },
+            {
+                "quantity": 2,
+                "unit": "(1 1/2-inch) pieces",
+                "prepare_type": "",
+                "ingredient_id": "ING942",
+                "grams": 9.05
+            },
+            {
+                "quantity": 1,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING1520",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1.25,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1026",
+                "grams": 1.7781250000000002
+            },
+            {
+                "quantity": 1.25,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING953",
+                "grams": 1.7781250000000002
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING555",
+                "grams": 0.355625
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1562",
+                "grams": 12.5
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 12.5
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING70",
+                "grams": 25.0
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": "ING1452",
+                "grams": 88.5
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1798",
+                "grams": 1.4225
+            }
+        ],
+        "instructions": [
+            "To prepare fresh garam masala, in a coffee grinder, grind cardamom seeds, 3 whole cloves, and 3 cinnamon sticks to a fine powder. Set aside.",
+            "Heat vegetable oil in a skillet over medium heat. Add 4 whole cloves, 4 cardamom pods, and 2 sticks of cinnamon and fry for a few seconds (take care as cloves tend to pop out of the pan). Stir in grated onion and reduce the heat to medium-low. Cook and stir until liquid dries and onion no longer smells raw, about 5 minutes. Add ginger paste and garlic paste and cook for 2 minutes, stirring constantly.",
+            "Stir in turmeric and cayenne pepper. Add chopped tomatoes and cook until tomatoes are soft, about 5 minutes. Pour in water, cover the pan, and cook for an additional 5 minutes.",
+            "Pour in coconut milk and stir well. When mixture is just below boiling, stir in prawns. Sprinkle mixture with almost all of the fresh garam masala powder, reserving a pinch to use as a garnish. Gently stir to combine. Do not cover the pan at this stage, as coconut milk will curdle.",
+            "As soon as prawns are pink and cooked through, 3 to 5 minutes, add ghee. Remove the pan from the heat. Sprinkle reserved garam masala over the dish and serve."
+        ],
+        "nutrition": {
+            "calories": "343 kcal",
+            "carbohydrateContent": "14 g",
+            "cholesterolContent": "175 mg",
+            "fiberContent": "4 g",
+            "proteinContent": "25 g",
+            "saturatedFatContent": "13 g",
+            "sodiumContent": "71 mg",
+            "sugarContent": "3 g",
+            "fatContent": "21 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/49AwiZGqQ8GhvbvLd6b12CnyE_o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1066644-d83c3678a7e848109bb0d4d8d086f829.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/m6FKZIYW-ma1DlVvV.mp4",
+            "description": "Coconut milk gives this sea food style curry its creamy base. Spices of cardamom, ginger, cinnamon, and garlic give the curry this beautifully layered flavor profile. A bit of cayenne pepper adds spice while tomatoes give this curry a refreshing savory side. Add in tiger prawns and this is a gorgeous Prawn Malai Curry!",
+            "duration": "0:01:48",
+            "name": "Prawn Malai Curry"
+        },
+        "cuisine": "bangladeshi",
+        "category": "Dinner",
+        "tags": [],
+        "total_calo": 102.9,
+        "total_fat": 6.3,
+        "total_fiber": 1.2,
+        "total_protein": 7.5,
+        "total_carbohydrat": 4.2,
+        "total_sodium": 0.021299999999999996,
+        "total_sugar": 0.9,
+        "total_cholesterol": 0.0525,
+        "total_cost": 29463.17,
+        "total_error": 0,
+        "grams": 30
+    }
+]

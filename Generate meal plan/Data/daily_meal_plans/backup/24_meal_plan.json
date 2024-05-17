@@ -1,0 +1,430 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f82b"
+        },
+        "url": "https://www.allrecipes.com/recipe/214623/thai-style-grapefruit-and-prawn/",
+        "name": "Thai-Style Grapefruit and Prawns",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Super starter, sensually spicy.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "peeled and deveined",
+                "ingredient_id": "ING31",
+                "grams": 88.5
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "peeled and sectioned",
+                "ingredient_id": "ING1470",
+                "grams": 25.0
+            },
+            {
+                "quantity": 1,
+                "unit": "small",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING855",
+                "grams": 7.5
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "peeled and cut into 1/2-inch dice",
+                "ingredient_id": "ING1186",
+                "grams": 12.5
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING147",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1397",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "finely chopped",
+                "ingredient_id": "ING592",
+                "grams": 0.0
+            },
+            {
+                "quantity": 0.375,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1072",
+                "grams": 0.5334375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2174",
+                "grams": 3.54375
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Thai",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 1198.47,
+        "total_sugar": 14.3,
+        "total_fat": 27.44,
+        "total_fiber": 13.19,
+        "total_protein": 45.49,
+        "total_carbohydrat": 184.65,
+        "total_cholesterol": 0.0071775,
+        "total_sodium": 0.28254890625,
+        "total_cost": 145305.32,
+        "total_error": 1,
+        "grams": 300
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f593"
+        },
+        "url": "https://www.allrecipes.com/recipe/191156/restaurant-style-beef-and-broccoli/",
+        "name": "Restaurant-Style Beef and Broccoli",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "I make this beef and broccoli recipe when I want Chinese food without going out. It's very easy to prep and delicious served over rice.",
+        "ingredients": [
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING380",
+                "grams": 8.25
+            },
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING810",
+                "grams": 8.25
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING921",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING542",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.75,
+                "unit": "pound",
+                "prepare_type": "cut into 1/8-inch thick strips",
+                "ingredient_id": "ING1910",
+                "grams": 66.375
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "plus more if needed",
+                "ingredient_id": "ING1851",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING2162",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "clove",
+                "prepare_type": "peeled and smashed",
+                "ingredient_id": "ING1457",
+                "grams": 0.9
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "cut into florets",
+                "ingredient_id": "ING1589",
+                "grams": 88.5
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "stir-fry",
+        "tags": "",
+        "total_calo": 471.14,
+        "total_sugar": 4.17,
+        "total_fat": 38.54,
+        "total_fiber": 4.4,
+        "total_protein": 20.77,
+        "total_carbohydrat": 7.53,
+        "total_cholesterol": 0.05844982499999998,
+        "total_sodium": 0.24196704,
+        "total_cost": 42525.69,
+        "total_error": 1,
+        "grams": 140
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f69b"
+        },
+        "url": "https://www.allrecipes.com/recipe/19842/mango-chutney/",
+        "name": "Mango Chutney",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This mango chutney is excellent with pork or lamb. It's also a treat with peanut butter on bread.",
+        "ingredients": [
+            {
+                "quantity": 6,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 150.0
+            },
+            {
+                "quantity": 6,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1072",
+                "grams": 150.0
+            },
+            {
+                "quantity": 3,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1580",
+                "grams": 75.0
+            },
+            {
+                "quantity": 5,
+                "unit": "",
+                "prepare_type": "seeded and chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1391",
+                "grams": 5.69
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1833",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1414",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING846",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING283",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING181",
+                "grams": 12.5
+            },
+            {
+                "quantity": 3,
+                "unit": "cloves",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING1457",
+                "grams": 2.7
+            },
+            {
+                "quantity": 16,
+                "unit": "cups",
+                "prepare_type": "semi-ripe mangos",
+                "ingredient_id": "ING931",
+                "grams": 400.0
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING28",
+                "grams": 12.5
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 389.28,
+        "total_sugar": 9.89,
+        "total_fat": 8.02,
+        "total_fiber": 6.38,
+        "total_protein": 7.57,
+        "total_carbohydrat": 68.23,
+        "total_cholesterol": 0.0058013295,
+        "total_sodium": 0.07019774999999999,
+        "total_cost": 65176.37,
+        "total_error": 5,
+        "grams": 30
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f6c2"
+        },
+        "url": "https://www.allrecipes.com/recipe/39574/lucys-tomato-and-peach-chutney/",
+        "name": "Lucy's Tomato and Peach Chutney",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "A sweet and spicy chutney that's very addictive. So easy to make you'll find yourself adding this to just about any dish!",
+        "ingredients": [
+            {
+                "quantity": 15,
+                "unit": "",
+                "prepare_type": "peeled and chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 5,
+                "unit": "",
+                "prepare_type": "pitted and chopped",
+                "ingredient_id": "ING973",
+                "grams": 0.0
+            },
+            {
+                "quantity": 5,
+                "unit": "",
+                "prepare_type": "cored and diced",
+                "ingredient_id": "ING254",
+                "grams": 0.0
+            },
+            {
+                "quantity": 4,
+                "unit": "",
+                "prepare_type": "diced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": "stalks",
+                "prepare_type": "diced",
+                "ingredient_id": "ING2066",
+                "grams": 114.0
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1580",
+                "grams": 37.5
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "wrapped in cheesecloth",
+                "ingredient_id": "ING357",
+                "grams": 25.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 10.44,
+        "total_sugar": 0.53,
+        "total_fat": 0.11,
+        "total_fiber": 0.7,
+        "total_protein": 0.44,
+        "total_carbohydrat": 1.95,
+        "total_cholesterol": 0.0,
+        "total_sodium": 0.115914375,
+        "total_cost": 8291.72,
+        "total_error": 4,
+        "grams": 30
+    }
+]

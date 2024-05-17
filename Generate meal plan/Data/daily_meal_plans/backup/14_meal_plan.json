@@ -1,0 +1,631 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f775"
+        },
+        "url": "https://www.allrecipes.com/recipe/255416/okonomiyaki-japanese-pancake/",
+        "name": "Okonomiyaki (Japanese Pancake)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Okonomiyaki is a Japanese pancake stuffed with yummy goodness! The ingredients provided are the basic okonomiyaki recipe. Feel free to add any vegetables or other meats. Have fun playing with the ingredients!",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.66,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 16.5
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING174",
+                "grams": 100.0
+            },
+            {
+                "quantity": 6,
+                "unit": "strips",
+                "prepare_type": "crumbled",
+                "ingredient_id": "ING974",
+                "grams": 52.5
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "diced, or more to taste (Optional)",
+                "ingredient_id": "ING1264",
+                "grams": 0.0
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1206",
+                "grams": 6.25
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1705",
+                "grams": 6.25
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING319",
+                "grams": 6.25
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "or to taste",
+                "ingredient_id": "ING1851",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING803",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1644",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "or to taste",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "or to taste",
+                "ingredient_id": "ING1697",
+                "grams": 1.4225
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Japanese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 502.18,
+        "total_sugar": 16.46,
+        "total_fat": 17.66,
+        "total_fiber": 16.94,
+        "total_protein": 22.81,
+        "total_carbohydrat": 55.08,
+        "total_cholesterol": 0.024289875,
+        "total_sodium": 1.2336984375000002,
+        "total_cost": 77513.24,
+        "total_error": 5,
+        "grams": 250
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f867"
+        },
+        "url": "https://www.allrecipes.com/recipe/28349/very-spicy-thai-green-chicken-curry/",
+        "name": "Very Spicy Thai Green Chicken Curry",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is an EXTREMELY hot Thai curry with homemade curry paste. All you people out there who're thinking \"Hot? Yeah right\", try it! Serve over Thai fragrant rice.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "peeled and quartered",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 10,
+                "unit": "",
+                "prepare_type": "seeded and chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "seeded and chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "bunch",
+                "prepare_type": "",
+                "ingredient_id": "ING1835",
+                "grams": 42.5
+            },
+            {
+                "quantity": 0.5,
+                "unit": "bunch",
+                "prepare_type": "",
+                "ingredient_id": "ING1259",
+                "grams": 42.5
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "peeled and halved",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 1,
+                "unit": "(1",
+                "prepare_type": "peeled and sliced",
+                "ingredient_id": "ING540",
+                "grams": 120.25
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "zested and juiced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING370",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1346",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": "ING1558",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "or more as needed",
+                "ingredient_id": "ING2085",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "cubed",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": "ING1582",
+                "grams": 25.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING969",
+                "grams": 25.0
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Thai",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 772.44,
+        "total_sugar": 0.73,
+        "total_fat": 24.45,
+        "total_fiber": 2.19,
+        "total_protein": 113.46,
+        "total_carbohydrat": 23.07,
+        "total_cholesterol": 0.01696008328125,
+        "total_sodium": 0.671315728125,
+        "total_cost": 77958.29,
+        "total_error": 6,
+        "grams": 150
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7ef"
+        },
+        "url": "https://www.allrecipes.com/recipe/16102/chicken-biryani/",
+        "name": "Chicken Biryani",
+        "cook_time": "1:20:00",
+        "prep_time": "0:30:00",
+        "total_time": "1:50:00",
+        "description": "Chicken biryani is a traditional South Asian rice dish with tender chunks of chicken in a creamy, spicy blend of onion, garlic, tomatoes, and spices.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING5",
+                "grams": 14.175
+            },
+            {
+                "quantity": 4,
+                "unit": "small",
+                "prepare_type": "",
+                "ingredient_id": "ING588",
+                "grams": 30.0
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "",
+                "ingredient_id": "ING606",
+                "grams": 25.0
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "",
+                "ingredient_id": "ING499",
+                "grams": 1.8
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1593",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING1678",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1974",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1449",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1532",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1670",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "(2 inch) piece",
+                "prepare_type": "",
+                "ingredient_id": "ING85",
+                "grams": 5.2
+            },
+            {
+                "quantity": 3,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": "ING1193",
+                "grams": 88.5
+            },
+            {
+                "quantity": 2.5,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 8.859375
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "",
+                "ingredient_id": "ING1155",
+                "grams": 12.5
+            },
+            {
+                "quantity": 5,
+                "unit": "pods",
+                "prepare_type": "",
+                "ingredient_id": "ING1244",
+                "grams": 7.625
+            },
+            {
+                "quantity": 3,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "(1 inch) piece",
+                "prepare_type": "",
+                "ingredient_id": "ING85",
+                "grams": 3.85
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1833",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": "ING743",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING268",
+                "grams": 100.0
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 2.13375
+            }
+        ],
+        "instructions": [
+            "Gather all ingredients.",
+            "Heat 2 tablespoons of oil in a large skillet. Fry potatoes in hot oil until lightly browned, about 3 to 5 minutes. Remove to a paper towel-lined plate to drain; set aside.",
+            "Add remaining 2 tablespoons of oil to the skillet. Add onions, garlic, and fresh ginger; cook and stir until onion is soft and golden. Add tomatoes, salt, cumin, chili powder, pepper, and turmeric; cook, stirring constantly, for 5 minutes.",
+            "Stir in yogurt, mint, ground cardamom, and cinnamon stick. Cover and cook over low heat, stirring occasionally, until tomatoes are cooked to a pulp. It may be necessary to add a little hot water if mixture becomes too dry and starts to stick to the pan.",
+            "Add chicken and stir well to coat. Cover and cook over very low heat until chicken is tender, 35 to 45 minutes. There should only be a little very thick gravy left when chicken is finished cooking. If necessary cook uncovered for a few minutes to reduce the gravy.",
+            "Meanwhile, make the rice: Wash rice well and drain in a colander for at least 30 minutes.",
+            "Heat oil in a large skillet. Add onion; cook and stir until golden. Add cardamom pods, cloves, cinnamon stick, ground ginger, and saffron; stir in rice until coated with spices.",
+            "Heat stock and salt in a medium pot until hot; pour over rice and stir well.",
+            "Add chicken mixture and potatoes; stir gently to combine. Bring to a boil.",
+            "Reduce heat to very low, cover with a tight-fitting lid, and steam for 20 minutes without lifting the lid or stirring.",
+            "Spoon biryani onto a warm serving dish."
+        ],
+        "nutrition": {
+            "calories": "832 kcal",
+            "carbohydrateContent": "79 g",
+            "cholesterolContent": "134 mg",
+            "fiberContent": "5 g",
+            "proteinContent": "48 g",
+            "saturatedFatContent": "8 g",
+            "sodiumContent": "1522 mg",
+            "sugarContent": "5 g",
+            "fatContent": "35 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/nJkbnPUIiUxOSGAZgNrs7k6K8qI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM_16102_ChickenBiryani_ddmfs_3x4_5315-236dfbbc7965498cac20b87797841b69.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/ia1w70He-ma1DlVvV.mp4",
+            "description": "AR0739",
+            "duration": "0:07:58",
+            "name": "Chicken Biryani"
+        },
+        "cuisine": "pakistani",
+        "category": "Dinner",
+        "tags": [],
+        "total_calo": 665.6,
+        "total_fat": 28.0,
+        "total_fiber": 4.0,
+        "total_protein": 38.4,
+        "total_carbohydrat": 63.2,
+        "total_sodium": 1.2176,
+        "total_sugar": 4.0,
+        "total_cholesterol": 0.10720000000000002,
+        "total_cost": 131547.77,
+        "total_error": 0,
+        "grams": 80
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f6c4"
+        },
+        "url": "https://www.allrecipes.com/recipe/176168/bettys-green-tomato-chutney/",
+        "name": "Betty's Green Tomato Chutney",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This sweet green tomato chutney is a great way to use up unripened tomatoes.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "pounds",
+                "prepare_type": "chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING538",
+                "grams": 88.5
+            },
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "prepare_type": "chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2.5,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": "ING1072",
+                "grams": 221.25
+            },
+            {
+                "quantity": 3,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1580",
+                "grams": 75.0
+            },
+            {
+                "quantity": 1.25,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 3.5562500000000004
+            },
+            {
+                "quantity": 2.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING250",
+                "grams": 3.5562500000000004
+            },
+            {
+                "quantity": 2.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1800",
+                "grams": 3.5562500000000004
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1414",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1833",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1580",
+                "grams": 25.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 171.94,
+        "total_sugar": 3.09,
+        "total_fat": 1.1,
+        "total_fiber": 2.16,
+        "total_protein": 3.86,
+        "total_carbohydrat": 35.26,
+        "total_cholesterol": 0.0006924730000000001,
+        "total_sodium": 0.007721325,
+        "total_cost": 13004.42,
+        "total_error": 4,
+        "grams": 20
+    }
+]

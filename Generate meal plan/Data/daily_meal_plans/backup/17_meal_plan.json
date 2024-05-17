@@ -1,0 +1,524 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f881"
+        },
+        "url": "https://www.allrecipes.com/recipe/246028/roasted-pork-banh-mi-vietnamese-sandwich/",
+        "name": "Roasted Pork Bánh Mì (Vietnamese Sandwich)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Bánh mì sandwiches are delicious. I'll never forget my first real bánh mì. I remember thinking to myself, this isn't just one of the best sandwiches I've ever had to eat, but one of the best things, period. Not only do we get amazing contrasts in flavor and texture, but also the temperature difference between the crisp, warm, meat-filled roll, and cool, crunchy vegetables makes this so much fun to eat.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING395",
+                "grams": 6.25
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING842",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1697",
+                "grams": 6.25
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "or to taste",
+                "ingredient_id": "ING1419",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING1643",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1902",
+                "grams": 0.0
+            },
+            {
+                "quantity": 4,
+                "unit": "ounces",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1192",
+                "grams": 28.0
+            },
+            {
+                "quantity": 2,
+                "unit": "ounces",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1107",
+                "grams": 14.0
+            },
+            {
+                "quantity": 6,
+                "unit": "thin",
+                "prepare_type": "diced",
+                "ingredient_id": "ING2031",
+                "grams": 7.5
+            },
+            {
+                "quantity": 6,
+                "unit": "thin",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING999",
+                "grams": 7.5
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 664.41,
+        "total_sugar": 6.22,
+        "total_fat": 47.69,
+        "total_fiber": 8.03,
+        "total_protein": 36.42,
+        "total_carbohydrat": 20.0,
+        "total_cholesterol": 0.061515450000000006,
+        "total_sodium": 0.51601066875,
+        "total_cost": 62541.54,
+        "total_error": 3,
+        "grams": 270
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f671"
+        },
+        "url": "https://www.allrecipes.com/recipe/285907/palak-rassa/",
+        "name": "Palak Rassa",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a Maharashtrian side dish with spinach and chana dal (split chickpeas). It is served with rice or chapatis.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING821",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 6.25
+            },
+            {
+                "quantity": 6,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1472",
+                "grams": 150.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1506",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING576",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "side-dishes",
+        "tags": "",
+        "total_calo": 109.13,
+        "total_sugar": 0.89,
+        "total_fat": 4.85,
+        "total_fiber": 2.24,
+        "total_protein": 4.94,
+        "total_carbohydrat": 10.65,
+        "total_cholesterol": 0.003999866750000001,
+        "total_sodium": 0.0381963725,
+        "total_cost": 29926.74,
+        "total_error": 3,
+        "grams": 110
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f69b"
+        },
+        "url": "https://www.allrecipes.com/recipe/19842/mango-chutney/",
+        "name": "Mango Chutney",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This mango chutney is excellent with pork or lamb. It's also a treat with peanut butter on bread.",
+        "ingredients": [
+            {
+                "quantity": 6,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 150.0
+            },
+            {
+                "quantity": 6,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1072",
+                "grams": 150.0
+            },
+            {
+                "quantity": 3,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING1580",
+                "grams": 75.0
+            },
+            {
+                "quantity": 5,
+                "unit": "",
+                "prepare_type": "seeded and chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1391",
+                "grams": 5.69
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1833",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1414",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING846",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING283",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING181",
+                "grams": 12.5
+            },
+            {
+                "quantity": 3,
+                "unit": "cloves",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING1457",
+                "grams": 2.7
+            },
+            {
+                "quantity": 16,
+                "unit": "cups",
+                "prepare_type": "semi-ripe mangos",
+                "ingredient_id": "ING931",
+                "grams": 400.0
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING28",
+                "grams": 12.5
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 778.56,
+        "total_sugar": 19.77,
+        "total_fat": 16.04,
+        "total_fiber": 12.76,
+        "total_protein": 15.13,
+        "total_carbohydrat": 136.46,
+        "total_cholesterol": 0.011602659,
+        "total_sodium": 0.14039549999999998,
+        "total_cost": 130352.75,
+        "total_error": 5,
+        "grams": 60
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f86d"
+        },
+        "url": "https://www.allrecipes.com/recipe/57354/beef-pho/",
+        "name": "Beef Pho",
+        "cook_time": "6:35:00",
+        "prep_time": "0:30:00",
+        "total_time": "14:30:00",
+        "description": "This beef pho features a rich bone and oxtail broth seasoned with onion, ginger, anise, and cinnamon ladled over rice noodles and thin-sliced meat.",
+        "ingredients": [
+            {
+                "quantity": 5,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING665",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "gallons",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 1.8925
+            },
+            {
+                "quantity": 2,
+                "unit": "medium",
+                "prepare_type": "",
+                "ingredient_id": "ING1396",
+                "grams": 15.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(4 inch) piece",
+                "prepare_type": "",
+                "ingredient_id": "ING181",
+                "grams": 5.15
+            },
+            {
+                "quantity": 2,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": "ING458",
+                "grams": 177.0
+            },
+            {
+                "quantity": 1,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING565",
+                "grams": 0.0
+            },
+            {
+                "quantity": 2,
+                "unit": "ounces",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "(3 inch)",
+                "prepare_type": "",
+                "ingredient_id": "ING85",
+                "grams": 2.525
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING922",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": "ING237",
+                "grams": 44.25
+            }
+        ],
+        "instructions": [
+            "Gather all ingredients.",
+            "Make broth: Place beef bones in a 9-quart (or larger) pot; season with 1 teaspoon salt. Pour water into the pot and bring to a boil. Reduce heat and simmer broth for about 2 hours.",
+            "Meanwhile, set an oven rack about 6 inches from the heat source and preheat the oven&#39;s broiler. Line a 10x15-inch roasting pan with aluminum foil.",
+            "Place onions and unpeeled ginger onto the prepared roasting pan and cook under the preheated broiler, stirring occasionally, until vegetables are charred, 10 to 15 minutes.",
+            "Cool slightly. Chop onions, then peel and slice ginger; set aside separately.",
+            "Skim fat from surface of simmering broth. Add oxtail, radish, and charred onions to broth. Tie charred ginger, anise, cinnamon stick, peppercorns, and cloves in cheesecloth to make a bouquet garni; add to broth. Stir in sugar, fish sauce, and remaining 2 teaspoons salt. Simmer over medium-low heat for at least 4 hours (the longer, the better). Season with salt.",
+            "Strain broth. Discard bones and bouquet garni. Reserve meat from bones for another use. Chill broth in the refrigerator, 8 hours to overnight.",
+            "Skim and discard fat from the top of chilled broth. Pour broth into a pot; bring to a boil. Reduce heat and keep hot until ready to serve.",
+            "Bring a pot of water to a boil. Turn off heat. Stir in rice noodles and let sit until noodles are tender yet chewy, 6 to 10 minutes.",
+            "Meanwhile, cut frozen sirloin into paper-thin slices.",
+            "Drain and divide noodles among bowls, about 1 1/2 cups per serving. Top each with a few sirloin slices. Ladle hot broth over sirloin and noodles.",
+            "Serve and enjoy!"
+        ],
+        "nutrition": {
+            "calories": "885 kcal",
+            "carbohydrateContent": "102 g",
+            "cholesterolContent": "174 mg",
+            "fiberContent": "3 g",
+            "proteinContent": "61 g",
+            "saturatedFatContent": "9 g",
+            "sodiumContent": "1745 mg",
+            "fatContent": "24 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/EbqrYyFsDjrCM3KTN7fUHr78Z84=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/57354-Beef-Pho-DDMFS-3x4-0615-49503be6698c4771a88400caa1c45795.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/yvhQ054p-ma1DlVvV.mp4",
+            "description": "AR0970",
+            "duration": "0:05:25",
+            "name": "Beef Pho"
+        },
+        "cuisine": "vietnamese",
+        "category": "Dinner",
+        "tags": [
+            "Vietnamese Soups and Stews"
+        ],
+        "total_calo": 531.0,
+        "total_fat": 14.4,
+        "total_fiber": 1.8,
+        "total_protein": 36.6,
+        "total_carbohydrat": 61.2,
+        "total_sodium": 1.047,
+        "total_sugar": 1.01,
+        "total_cholesterol": 0.10439999999999999,
+        "total_cost": 75424.98,
+        "total_error": 1,
+        "grams": 60
+    }
+]
