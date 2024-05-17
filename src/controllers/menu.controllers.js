@@ -11,33 +11,33 @@ export default {
     }
   },
 
-  async createMenu(req, res, next) {
-    try {
-      // Extract meal data from request body
-      const { mealName, calories, notes, start, resource } = req.body;
+  // async createMenu(req, res, next) {
+  //   try {
+  //     // Extract meal data from request body
+  //     const { mealName, calories, notes, start, resource } = req.body;
   
-      // Parse start and end dates
-      const startDate = new Date(start);
+  //     // Parse start and end dates
+  //     const startDate = new Date(start);
   
-      // Increment start and end dates by 1 day
-      startDate.setDate(startDate.getDate() + 1);  
-      // Create the menu item with updated dates
-      const menu = await MenuModel.create({
-        mealName,
-        calories,
-        notes,
-        start: startDate,
-        resource
-      });
-      if (menu && menu._id) {
-        res.status(201).json(menu);
-      } else {
-        res.status(500).json({ error: 'Failed to create menu' });
-      }
-    } catch (error) {
-      next(error);
-    }
-  },
+  //     // Increment start and end dates by 1 day
+  //     startDate.setDate(startDate.getDate() + 1);  
+  //     // Create the menu item with updated dates
+  //     const menu = await MenuModel.create({
+  //       mealName,
+  //       calories,
+  //       notes,
+  //       start: startDate,
+  //       resource
+  //     });
+  //     if (menu && menu._id) {
+  //       res.status(201).json(menu);
+  //     } else {
+  //       res.status(500).json({ error: 'Failed to create menu' });
+  //     }
+  //   } catch (error) {
+  //     next(error);
+  //   }
+  // },
   
   
 
