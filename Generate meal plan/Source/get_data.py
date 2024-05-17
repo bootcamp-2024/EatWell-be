@@ -14,9 +14,6 @@ def get_ingredient_data():
 
 # Đọc dữ liệu từ tệp JSON của các công thức recipe
 def get_recipe_data():
-    # with open('../Data/EatWell.Recipe.json', 'r', encoding='utf-8') as file:
-    #     data = json.load(file)
-    # return data
     collectionRec = db.Recipe
     return [json.loads(json_util.dumps(recipe)) for recipe in collectionRec.find()]
 
@@ -332,9 +329,6 @@ def save_updated_recipe_data(updated_data, file_path):
         json.dump(updated_data, file, indent=4, ensure_ascii=False)
 
 def process_data():
-    ingredient_file_path = '../Data/EatWell.Ingredient.json'
-    recipe_file_path = '../Data/EatWell.Recipe.json'
-
     ingredient = get_ingredient_data()
     recipes = get_recipe_data()
 
