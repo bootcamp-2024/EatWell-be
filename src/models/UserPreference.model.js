@@ -15,12 +15,26 @@ const BMR = new Schema(
   },
   { _id: false }
 );
+const height = new Schema(
+  {
+    value: { type: Number, default: null },
+    updatedAt: { type: Date, default: Date.now },
+  },
+  { _id: false }
+);
 
+const weight = new Schema(
+  {
+    value: { type: Number, default: null },
+    updatedAt: { type: Date, default: Date.now },
+  },
+  { _id: false }
+);
 const UserPreferenceSchema = new mongoose.Schema(
   {
     userId: { type: mongoose.Types.ObjectId, required: true, ref: "UserInfo" },
-    height: { type: Number, default: null },
-    weight: { type: Number, default: null },
+    height: [height],
+    weight: [weight],
     cuisine: { type: String, default: null },
     allergy: [{ type: String }],
     minPrice: { type: Number, default: null },

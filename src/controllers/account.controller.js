@@ -181,8 +181,6 @@ export default {
       const userPreference = await UserPreferenceModel.findOneAndUpdate(
         { userId: userInfo._id },
         {
-          height,
-          weight,
           cuisine,
           allergy,
           minPrice,
@@ -192,6 +190,8 @@ export default {
           $push: {
             BMI: { value: BMI, updatedAt: new Date() },
             BMR: { value: BMR, updatedAt: new Date() },
+            height: { value: height, updatedAt: new Date() },
+            weight: { value: weight, updatedAt: new Date() },
           },
           suggestedCalories,
         },
