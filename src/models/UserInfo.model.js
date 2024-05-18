@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import UserPreferenceModel from "#src/models/UserPreference.model";
 
 const UserInfoSchema = new mongoose.Schema(
   {
@@ -9,11 +10,11 @@ const UserInfoSchema = new mongoose.Schema(
     gender: { type: String, require: true },
     phone: { type: String, require: true },
     dateOfBirth: { type: String, require: true },
-    height: { type: Number, default: null },
-    weight: { type: Number, default: null },
     token: { type: String, default: null },
     otp: { type: String, default: null },
     isVerified: { type: Boolean, default: false },
+    avatar_path: { type: String, default: null },
+    avatar_filename: { type: String, default: null },
     createdDate: { type: Date, default: new Date() },
   },
   { collection: "UserInfo", versionKey: false }

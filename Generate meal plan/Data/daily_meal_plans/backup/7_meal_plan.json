@@ -1,0 +1,529 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f873"
+        },
+        "url": "https://www.allrecipes.com/recipe/244962/asian-garlic-beef-cubes-vietnamese-bo-luc-lac-or-shaking-beef/",
+        "name": "Asian Garlic Beef Cubes (Vietnamese Bo Luc Lac or Shaking Beef)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Delicious beef cubes that offer a variety of flavors and are usually the first to go in any of our dinners. Can be served on a bed of lettuce, onions, and tomatoes with white Jasmine or Thai sticky rice, if desired.",
+        "ingredients": [
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "prepare_type": "cut into cubes",
+                "ingredient_id": "ING511",
+                "grams": 132.75
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2085",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1802",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 4,
+                "unit": "large",
+                "prepare_type": "minced, or more to taste",
+                "ingredient_id": "ING2164",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1909",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1426",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "or more to taste (Optional)",
+                "ingredient_id": "ING1449",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1386",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING396",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 2,
+                "unit": "drops",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING1346",
+                "grams": 0.5
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1426",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1184",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1870",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2085",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1802",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 4,
+                "unit": "cloves",
+                "prepare_type": "minced, or more to taste",
+                "ingredient_id": "ING1457",
+                "grams": 3.6
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 1471.13,
+        "total_sugar": 6.28,
+        "total_fat": 83.88,
+        "total_fiber": 12.44,
+        "total_protein": 89.56,
+        "total_carbohydrat": 84.67,
+        "total_cholesterol": 0.21750413749999994,
+        "total_sodium": 1.2226275750000002,
+        "total_cost": 245807.68,
+        "total_error": 0,
+        "grams": 260
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f649"
+        },
+        "url": "https://www.allrecipes.com/recipe/285914/kobi-batata-bhaji-indian-fried-cabbage-and-potato/",
+        "name": "Kobi Batata Bhaji (Indian Fried Cabbage and Potato)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a typical dish in Maharashtra. Serve with rice or chapattis.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "or to taste",
+                "ingredient_id": "ING854",
+                "grams": 2.845
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1688",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING2023",
+                "grams": 37.5
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "peeled and sliced",
+                "ingredient_id": "ING557",
+                "grams": 7.5
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING522",
+                "grams": 1.4225
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "side-dishes",
+        "tags": "",
+        "total_calo": 78.02,
+        "total_sugar": 0.66,
+        "total_fat": 5.4,
+        "total_fiber": 2.57,
+        "total_protein": 1.24,
+        "total_carbohydrat": 5.11,
+        "total_cholesterol": 0.0005899107500000001,
+        "total_sodium": 0.044926245000000004,
+        "total_cost": 9722.47,
+        "total_error": 2,
+        "grams": 130
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7d5"
+        },
+        "url": "https://www.allrecipes.com/recipe/285148/malaysian-flatbread-roti-canai-with-curried-lentil-dip/",
+        "name": "Malaysian Flatbread (Roti Canai) with Curried Lentil Dip",
+        "cook_time": "1:35:00",
+        "prep_time": "0:30:00",
+        "total_time": "10:15:00",
+        "description": "With a crispy, crunchy exterior and a stretchy, chewy interior, these Malaysian flatbread (roti canai) are served alongside a delicious curried lentil dip.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING283",
+                "grams": 2.13375
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "",
+                "ingredient_id": "ING1474",
+                "grams": 12.5
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING385",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 1.25,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 31.25
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1123",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1325",
+                "grams": 12.5
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1631",
+                "grams": 2.845
+            },
+            {
+                "quantity": 4,
+                "unit": "cloves",
+                "prepare_type": "",
+                "ingredient_id": "ING499",
+                "grams": 3.6
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1083",
+                "grams": 2.13375
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1800",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1310",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING782",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING555",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING139",
+                "grams": 6.25
+            },
+            {
+                "quantity": 3,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING83",
+                "grams": 75.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce) can",
+                "prepare_type": "",
+                "ingredient_id": "ING126",
+                "grams": 10.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING338",
+                "grams": 6.25
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2174",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1996",
+                "grams": 3.54375
+            }
+        ],
+        "instructions": [
+            "Combine bread flour, sugar, kosher salt, egg, melted butter, and water for roti canai in a mixing bowl. Mix with your hands until a shaggy dough forms. Transfer to a work surface and knead until a smooth, elastic dough forms, about 7 minutes.",
+            "Divide dough into 8 equal pieces and form each one into a ball. Coat each ball with vegetable oil, transfer to a plate, and cover with plastic wrap. Refrigerate for 8 hours, to overnight.",
+            "Melt butter for dip in a saucepan over medium-high heat. Add onion, ginger, garlic, kosher salt, curry powder, paprika, cumin, black pepper, and cayenne pepper; stir together and saute until onion has softened and spices are fragrant, 3 to 4 minutes. Stir in tomato paste and cook until it starts to toast and caramelize on the bottom of the pan, about 3 minutes.",
+            "Stir in cold water and coconut milk. Add lentils; stir and bring to a simmer. Reduce heat to medium-low and simmer, stirring occasionally, until tender, about 40 minutes. Taste and adjust seasonings. Reduce heat to low and keep warm while you prepare the roti canai.",
+            "Place 1/4 cup melted butter in a bowl. Transfer rested dough balls onto a lightly oiled work surface. Flatten each ball slightly and rub a little melted butter on top. Cover dough with plastic wrap and let it warm up slightly, about 10 minutes.",
+            "Press on top of the plastic wrap to flatten warmed dough. Remove plastic wrap and add a bit more butter. Stretch each piece from the center out to get it as thin as possible (until almost see-through), adding more butter as needed. Don&#39;t worry if there are a few small tears.",
+            "Sprinkle on more melted butter, then pull two sides in towards the center until touching and overlapping slightly. Pull the other two edges in the same way to form a square. Cover with plastic wrap and flatten roti canai one more time.",
+            "Add some melted butter to a skillet set over medium or medium-low heat. Add roti canai and cook until browned, flaky, and crispy on the outside and fully cooked through on the inside, 3 to 4 minutes per side.",
+            "Remove from the skillet and smush it with your hands to fluff it up and separate the layers of dough. Repeat to cook remaining roti canai.",
+            "Sprinkle the curried red lentil dip with cilantro and sliced serrano peppers and serve alongside the roti canai."
+        ],
+        "nutrition": {
+            "calories": "565 kcal",
+            "carbohydrateContent": "67 g",
+            "cholesterolContent": "58 mg",
+            "fiberContent": "11 g",
+            "proteinContent": "16 g",
+            "saturatedFatContent": "18 g",
+            "sodiumContent": "811 mg",
+            "sugarContent": "5 g",
+            "fatContent": "27 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/MtM_YD1ubyxkd4agoe7zLdnk9E4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-458-083a34d92d5f494fa792140b81fd913e.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/EXrosG7v-K3AjnAEN.mp4",
+            "description": "With a crispy, crunchy exterior and a stretchy, chewy interior, these Malaysian flatbread (roti canai) are easier to make than they look.",
+            "duration": "0:11:21",
+            "name": "Malaysian Flatbread (Roti Canai) with Curried Lentil Dip"
+        },
+        "cuisine": "malaysian",
+        "category": "Dinner",
+        "tags": [],
+        "total_calo": 508.5,
+        "total_fat": 24.3,
+        "total_fiber": 9.9,
+        "total_protein": 14.4,
+        "total_carbohydrat": 60.3,
+        "total_sodium": 0.7299000000000001,
+        "total_sugar": 4.5,
+        "total_cholesterol": 0.0522,
+        "total_cost": 44486.61,
+        "total_error": 0,
+        "grams": 90
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f755"
+        },
+        "url": "https://www.allrecipes.com/recipe/72068/chicken-katsu/",
+        "name": "Chicken Katsu",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Chicken katsu is Japanese-style fried chicken. This is my family recipe and can also be used to make tonkatsu by using pork cutlets instead of chicken. Serve with white rice and tonkatsu sauce.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "",
+                "prepare_type": "boneless chicken breast halves - pounded to 1/2 inch thickness",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1248",
+                "grams": 0.0
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "beaten",
+                "ingredient_id": "ING160",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING1609",
+                "grams": 25.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Japanese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 44.2,
+        "total_sugar": 0.0,
+        "total_fat": 5.0,
+        "total_fiber": 0.0,
+        "total_protein": 0.0,
+        "total_carbohydrat": 0.0,
+        "total_cholesterol": 0.0,
+        "total_sodium": 0.0,
+        "total_cost": 855.0,
+        "total_error": 5,
+        "grams": 20
+    }
+]

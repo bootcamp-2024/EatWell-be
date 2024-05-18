@@ -1,0 +1,276 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f5bd"
+        },
+        "url": "https://www.allrecipes.com/recipe/68531/chicken-and-peppers-with-balsamic-vinegar/",
+        "name": "Chicken and Peppers with Balsamic Vinegar",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Chicken and bell peppers are stir-fried with onions and balsamic vinegar for a yummy meal with an outstanding flavor that's easy to make! Serve over white rice or by itself.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING2085",
+                "grams": 6.25
+            },
+            {
+                "quantity": 4,
+                "unit": "",
+                "prepare_type": "boneless chicken breast halves - cut into strips",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1248",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING683",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1737",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING329",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING369",
+                "grams": 7.5
+            },
+            {
+                "quantity": 4,
+                "unit": "large",
+                "prepare_type": "finely chopped",
+                "ingredient_id": "ING2164",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING656",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING562",
+                "grams": 6.25
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "stir-fry",
+        "tags": "",
+        "total_calo": 869.57,
+        "total_sugar": 5.1,
+        "total_fat": 49.82,
+        "total_fiber": 15.15,
+        "total_protein": 10.78,
+        "total_carbohydrat": 87.98,
+        "total_cholesterol": 0.0029249999999999996,
+        "total_sodium": 0.47406375,
+        "total_cost": 97984.78,
+        "total_error": 5,
+        "grams": 300
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f68e"
+        },
+        "url": "https://www.allrecipes.com/recipe/285823/shengdana-chutney-dry-peanut-chutney/",
+        "name": "Shengdana Chutney (Dry Peanut Chutney)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a traditional Maharashtrian dry chutney made from roasted peanuts. It tastes great with chapatis or rotis. The traditional way is to use a mortar and pestle but you can also use spice grinder if you have one.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1974",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING1932",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 24.87,
+        "total_sugar": 0.0,
+        "total_fat": 1.15,
+        "total_fiber": 1.64,
+        "total_protein": 0.79,
+        "total_carbohydrat": 2.09,
+        "total_cholesterol": 0.0,
+        "total_sodium": 0.06543500000000001,
+        "total_cost": 1537.72,
+        "total_error": 4,
+        "grams": 230
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f888"
+        },
+        "url": "https://www.allrecipes.com/recipe/271154/easy-crispy-vietnamese-shrimp-balls/",
+        "name": "Easy Crispy Vietnamese Shrimp Balls",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is my take on the classic Vietnamese sugar cane shrimp recipe and it works great! Serve with Vietnamese dipping sauce (nuoc cham) or mix of hoisin sauce and sriracha hot sauce or plain.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "peeled and deveined",
+                "ingredient_id": "ING31",
+                "grams": 88.5
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "lightly beaten",
+                "ingredient_id": "ING160",
+                "grams": 12.5
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING71",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1346",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING542",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2168",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING922",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "minced",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1144",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "beaten",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING185",
+                "grams": 12.5
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 1209.99,
+        "total_sugar": 4.42,
+        "total_fat": 52.11,
+        "total_fiber": 8.12,
+        "total_protein": 44.18,
+        "total_carbohydrat": 137.09,
+        "total_cholesterol": 0.0837518,
+        "total_sodium": 0.10885440500000003,
+        "total_cost": 101501.29,
+        "total_error": 3,
+        "grams": 220
+    }
+]

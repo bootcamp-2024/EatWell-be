@@ -1,0 +1,641 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f747"
+        },
+        "url": "https://www.allrecipes.com/recipe/19511/smoked-salmon-sushi-roll/",
+        "name": "Smoked Salmon Sushi Roll",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Homemade salmon roll made with sushi rice, nori, and smoked salmon. This is a very basic and easy recipe for making sushi. It might take a while to learn how to make a perfect roll, but you'll have fun trying! Add wasabi (Japanese horseradish) for a good kick!",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING833",
+                "grams": 50.0
+            },
+            {
+                "quantity": 6,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING914",
+                "grams": 21.262500000000003
+            },
+            {
+                "quantity": 6,
+                "unit": "sheets",
+                "prepare_type": "",
+                "ingredient_id": "ING472",
+                "grams": 7.5
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1898",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 8,
+                "unit": "ounces",
+                "prepare_type": "cut into long strips",
+                "ingredient_id": "ING105",
+                "grams": 56.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "peeled and sliced",
+                "ingredient_id": "ING733",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "pitted and sliced",
+                "ingredient_id": "ING1980",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Japanese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 1236.7,
+        "total_sugar": 0.13,
+        "total_fat": 23.82,
+        "total_fiber": 5.38,
+        "total_protein": 70.61,
+        "total_carbohydrat": 181.46,
+        "total_cholesterol": 0.08400000000000002,
+        "total_sodium": 6.190108125,
+        "total_cost": 150021.26,
+        "total_error": 2,
+        "grams": 300
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f867"
+        },
+        "url": "https://www.allrecipes.com/recipe/28349/very-spicy-thai-green-chicken-curry/",
+        "name": "Very Spicy Thai Green Chicken Curry",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is an EXTREMELY hot Thai curry with homemade curry paste. All you people out there who're thinking \"Hot? Yeah right\", try it! Serve over Thai fragrant rice.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "peeled and quartered",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 10,
+                "unit": "",
+                "prepare_type": "seeded and chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "seeded and chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "bunch",
+                "prepare_type": "",
+                "ingredient_id": "ING1835",
+                "grams": 42.5
+            },
+            {
+                "quantity": 0.5,
+                "unit": "bunch",
+                "prepare_type": "",
+                "ingredient_id": "ING1259",
+                "grams": 42.5
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "peeled and halved",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 1,
+                "unit": "(1",
+                "prepare_type": "peeled and sliced",
+                "ingredient_id": "ING540",
+                "grams": 120.25
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "zested and juiced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING370",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1346",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": "ING1558",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "or more as needed",
+                "ingredient_id": "ING2085",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "cubed",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": "ING1582",
+                "grams": 25.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING969",
+                "grams": 25.0
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Thai",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 617.95,
+        "total_sugar": 0.58,
+        "total_fat": 19.56,
+        "total_fiber": 1.75,
+        "total_protein": 90.77,
+        "total_carbohydrat": 18.46,
+        "total_cholesterol": 0.013568066625,
+        "total_sodium": 0.5370525825,
+        "total_cost": 62366.63,
+        "total_error": 6,
+        "grams": 120
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f745"
+        },
+        "url": "https://www.allrecipes.com/recipe/8539106/yaki-udon/",
+        "name": "Yaki Udon",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Yaki Udon is a classic Japanese stir-fry dish with udon noodles and lots of vegetables in a soy-based sauce. Feel free to add meat or tofu.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING380",
+                "grams": 6.25
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1724",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1197",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING339",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING921",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2168",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING704",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "grated",
+                "ingredient_id": "ING1457",
+                "grams": 7.5
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING838",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 12,
+                "unit": "ounces",
+                "prepare_type": "oyster, and shiitake) (about 6 cups)",
+                "ingredient_id": "ING2012",
+                "grams": 84.0
+            },
+            {
+                "quantity": 2,
+                "unit": "medium",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1544",
+                "grams": 15.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(10 ounce)",
+                "prepare_type": "cut into match-stick size pieces",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING462",
+                "grams": 12.5
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": "ING930",
+                "grams": 25.0
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "cilantro, lime wedges, furikake seasoning",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Japanese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 165.72,
+        "total_sugar": 3.98,
+        "total_fat": 8.1,
+        "total_fiber": 15.07,
+        "total_protein": 7.73,
+        "total_carbohydrat": 15.36,
+        "total_cholesterol": 0.015807975,
+        "total_sodium": 0.34441946000000007,
+        "total_cost": 38190.12,
+        "total_error": 3,
+        "grams": 40
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f826"
+        },
+        "url": "https://www.allrecipes.com/recipe/56358/thai-hot-and-sour-soup/",
+        "name": "Thai Hot and Sour Soup",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Fantastic authentic Thai hot and sour soup. Ideal as a starter in a Thai meal. Not very filling, but a great appetizer. Very quick and easy to prepare. The tom yum paste is hot, so try the soup before adding the chile and decide if any extra heat is required. Do not attempt if you do not have fresh coriander, as this is vital!",
+        "ingredients": [
+            {
+                "quantity": 3,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING268",
+                "grams": 75.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1498",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.5,
+                "unit": "clove",
+                "prepare_type": "finely chopped",
+                "ingredient_id": "ING1457",
+                "grams": 0.45
+            },
+            {
+                "quantity": 3,
+                "unit": "stalks",
+                "prepare_type": "chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "boneless chicken breast halves - shredded",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": "ounces",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING922",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING147",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1392",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "bunch",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING1198",
+                "grams": 85.0
+            },
+            {
+                "quantity": 1,
+                "unit": "sprig",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING1259",
+                "grams": 0.25
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Thai",
+        "category": "soups-and-stews",
+        "tags": "",
+        "total_calo": 33.32,
+        "total_sugar": 0.38,
+        "total_fat": 1.18,
+        "total_fiber": 3.46,
+        "total_protein": 2.58,
+        "total_carbohydrat": 1.69,
+        "total_cholesterol": 0.0032835,
+        "total_sodium": 0.13987419999999998,
+        "total_cost": 47214.22,
+        "total_error": 4,
+        "grams": 40
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f86d"
+        },
+        "url": "https://www.allrecipes.com/recipe/57354/beef-pho/",
+        "name": "Beef Pho",
+        "cook_time": "6:35:00",
+        "prep_time": "0:30:00",
+        "total_time": "14:30:00",
+        "description": "This beef pho features a rich bone and oxtail broth seasoned with onion, ginger, anise, and cinnamon ladled over rice noodles and thin-sliced meat.",
+        "ingredients": [
+            {
+                "quantity": 5,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING665",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "gallons",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 1.8925
+            },
+            {
+                "quantity": 2,
+                "unit": "medium",
+                "prepare_type": "",
+                "ingredient_id": "ING1396",
+                "grams": 15.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(4 inch) piece",
+                "prepare_type": "",
+                "ingredient_id": "ING181",
+                "grams": 5.15
+            },
+            {
+                "quantity": 2,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": "ING458",
+                "grams": 177.0
+            },
+            {
+                "quantity": 1,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING565",
+                "grams": 0.0
+            },
+            {
+                "quantity": 2,
+                "unit": "ounces",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "(3 inch)",
+                "prepare_type": "",
+                "ingredient_id": "ING85",
+                "grams": 2.525
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING922",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": "ING237",
+                "grams": 44.25
+            }
+        ],
+        "instructions": [
+            "Gather all ingredients.",
+            "Make broth: Place beef bones in a 9-quart (or larger) pot; season with 1 teaspoon salt. Pour water into the pot and bring to a boil. Reduce heat and simmer broth for about 2 hours.",
+            "Meanwhile, set an oven rack about 6 inches from the heat source and preheat the oven&#39;s broiler. Line a 10x15-inch roasting pan with aluminum foil.",
+            "Place onions and unpeeled ginger onto the prepared roasting pan and cook under the preheated broiler, stirring occasionally, until vegetables are charred, 10 to 15 minutes.",
+            "Cool slightly. Chop onions, then peel and slice ginger; set aside separately.",
+            "Skim fat from surface of simmering broth. Add oxtail, radish, and charred onions to broth. Tie charred ginger, anise, cinnamon stick, peppercorns, and cloves in cheesecloth to make a bouquet garni; add to broth. Stir in sugar, fish sauce, and remaining 2 teaspoons salt. Simmer over medium-low heat for at least 4 hours (the longer, the better). Season with salt.",
+            "Strain broth. Discard bones and bouquet garni. Reserve meat from bones for another use. Chill broth in the refrigerator, 8 hours to overnight.",
+            "Skim and discard fat from the top of chilled broth. Pour broth into a pot; bring to a boil. Reduce heat and keep hot until ready to serve.",
+            "Bring a pot of water to a boil. Turn off heat. Stir in rice noodles and let sit until noodles are tender yet chewy, 6 to 10 minutes.",
+            "Meanwhile, cut frozen sirloin into paper-thin slices.",
+            "Drain and divide noodles among bowls, about 1 1/2 cups per serving. Top each with a few sirloin slices. Ladle hot broth over sirloin and noodles.",
+            "Serve and enjoy!"
+        ],
+        "nutrition": {
+            "calories": "885 kcal",
+            "carbohydrateContent": "102 g",
+            "cholesterolContent": "174 mg",
+            "fiberContent": "3 g",
+            "proteinContent": "61 g",
+            "saturatedFatContent": "9 g",
+            "sodiumContent": "1745 mg",
+            "fatContent": "24 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/EbqrYyFsDjrCM3KTN7fUHr78Z84=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/57354-Beef-Pho-DDMFS-3x4-0615-49503be6698c4771a88400caa1c45795.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/yvhQ054p-ma1DlVvV.mp4",
+            "description": "AR0970",
+            "duration": "0:05:25",
+            "name": "Beef Pho"
+        },
+        "cuisine": "vietnamese",
+        "category": "Dinner",
+        "tags": [
+            "Vietnamese Soups and Stews"
+        ],
+        "total_calo": 88.5,
+        "total_fat": 2.4,
+        "total_fiber": 0.3,
+        "total_protein": 6.1,
+        "total_carbohydrat": 10.2,
+        "total_sodium": 0.17450000000000002,
+        "total_sugar": 0.17,
+        "total_cholesterol": 0.0174,
+        "total_cost": 12570.83,
+        "total_error": 1,
+        "grams": 10
+    }
+]

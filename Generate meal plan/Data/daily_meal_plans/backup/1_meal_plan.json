@@ -1,0 +1,517 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7f1"
+        },
+        "url": "https://www.allrecipes.com/recipe/240606/persian-rice/",
+        "name": "Persian Rice",
+        "cook_time": "0:55:00",
+        "prep_time": "0:15:00",
+        "total_time": "1:10:00",
+        "description": "Chef John&#39;s Persian rice features fluffy basmati rice flavored with butter, saffron, and cumin, topped with slices of beautiful golden crisp potatoes.",
+        "ingredients": [
+            {
+                "quantity": 3,
+                "unit": "quarts",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 37.5
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING283",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING527",
+                "grams": 50.0
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2085",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING541",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1439",
+                "grams": 5.315625000000001
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1778",
+                "grams": 3.54375
+            }
+        ],
+        "instructions": [
+            "Place water and kosher salt in a pot; bring to a boil. Add rice; cook and stir for exactly 7 minutes. Drain.",
+            "Heat olive oil in a pot over medium-high heat. Cover the bottom of the pot with 1 layer of potato slices. Sprinkle cumin and salt over potatoes. Cook until potatoes are sizzling, 2 to 3 minutes; top potatoes with rice to form an even layer. Reduce heat to low and place butter slices over rice.",
+            "Top the pot with a layer of clean paper towels, then place the lid over the towels. Steam until rice is fluffy, about 45 minutes.",
+            "Grind saffron threads with a mortar and pestle. Mix crushed saffron with 1 1/2 tablespoons hot water in a large bowl. Add a couple of spoonfuls of rice to saffron mixture and stir until rice is yellow.",
+            "Spoon remaining rice into a serving bowl. Top with saffron rice and line the edges of the bowl with potatoes. Garnish with parsley."
+        ],
+        "nutrition": {
+            "calories": "255 kcal",
+            "carbohydrateContent": "42 g",
+            "cholesterolContent": "11 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "4 g",
+            "saturatedFatContent": "3 g",
+            "sodiumContent": "2223 mg",
+            "sugarContent": "0 g",
+            "fatContent": "8 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/xjurj3TmYEQ5MMdq8s0mGMo4658=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24606-persian-rice-mfs_149-04ba83bbdc4449f0a97767fff0172dfa.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/BhRdV2Ev-K3AjnAEN.mp4",
+            "description": "I believe I've posted a few fool proof methods for cooking perfect rice, but this Persian version takes the grand prize, and it's not even close for second. The beauty of this method is that it doesn't rely on any specific measurements, or even exact times. This will make some of you very nervous, but just go with it.",
+            "duration": "0:06:32",
+            "name": "Chef John's Persian Rice"
+        },
+        "cuisine": "persian",
+        "category": "Side Dish",
+        "tags": [],
+        "total_calo": 612.0,
+        "total_fat": 19.2,
+        "total_fiber": 2.4,
+        "total_protein": 9.6,
+        "total_carbohydrat": 100.8,
+        "total_sodium": 5.3351999999999995,
+        "total_sugar": 0.0,
+        "total_cholesterol": 0.026399999999999996,
+        "total_cost": 85094.04,
+        "total_error": 0,
+        "grams": 240
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f5f8"
+        },
+        "url": "https://www.allrecipes.com/recipe/61913/authentic-chinese-egg-rolls-from-a-chinese-person/",
+        "name": "Authentic Chinese Egg Rolls (from a Chinese person)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "These Chinese egg rolls come from my mom who is the best cook ever — and I am a picky eater. If I like this, then you will. This is very authentic because my family is Chinese and I am too. This recipe is at least 300 years old in the Ling family.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "teaspoons",
+                "prepare_type": "divided",
+                "ingredient_id": "ING1851",
+                "grams": 5.69
+            },
+            {
+                "quantity": 3,
+                "unit": "large",
+                "prepare_type": "beaten",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "finely shredded",
+                "ingredient_id": "ING230",
+                "grams": 7.5
+            },
+            {
+                "quantity": 0.5,
+                "unit": "",
+                "prepare_type": "julienned",
+                "ingredient_id": "ING1769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "cut into matchsticks",
+                "ingredient_id": "ING1318",
+                "grams": 88.5
+            },
+            {
+                "quantity": 1,
+                "unit": "(8 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "shredded wood ear mushroom, rehydrated",
+                "ingredient_id": "ING858",
+                "grams": 25.0
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 3.5562500000000004
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1158",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1858",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "beaten",
+                "ingredient_id": "ING465",
+                "grams": 0.0
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING1609",
+                "grams": 100.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 1324.07,
+        "total_sugar": 3.3,
+        "total_fat": 141.44,
+        "total_fiber": 3.54,
+        "total_protein": 9.16,
+        "total_carbohydrat": 7.39,
+        "total_cholesterol": 0.0267581925,
+        "total_sodium": 0.93732535,
+        "total_cost": 63984.63,
+        "total_error": 6,
+        "grams": 130
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f826"
+        },
+        "url": "https://www.allrecipes.com/recipe/56358/thai-hot-and-sour-soup/",
+        "name": "Thai Hot and Sour Soup",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Fantastic authentic Thai hot and sour soup. Ideal as a starter in a Thai meal. Not very filling, but a great appetizer. Very quick and easy to prepare. The tom yum paste is hot, so try the soup before adding the chile and decide if any extra heat is required. Do not attempt if you do not have fresh coriander, as this is vital!",
+        "ingredients": [
+            {
+                "quantity": 3,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING268",
+                "grams": 75.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1498",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.5,
+                "unit": "clove",
+                "prepare_type": "finely chopped",
+                "ingredient_id": "ING1457",
+                "grams": 0.45
+            },
+            {
+                "quantity": 3,
+                "unit": "stalks",
+                "prepare_type": "chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "boneless chicken breast halves - shredded",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": "ounces",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING922",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING147",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1392",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "bunch",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING1198",
+                "grams": 85.0
+            },
+            {
+                "quantity": 1,
+                "unit": "sprig",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING1259",
+                "grams": 0.25
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Thai",
+        "category": "soups-and-stews",
+        "tags": "",
+        "total_calo": 91.63,
+        "total_sugar": 1.05,
+        "total_fat": 3.23,
+        "total_fiber": 9.51,
+        "total_protein": 7.1,
+        "total_carbohydrat": 4.64,
+        "total_cholesterol": 0.009029625,
+        "total_sodium": 0.38465404999999997,
+        "total_cost": 129839.12,
+        "total_error": 4,
+        "grams": 110
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f5a4"
+        },
+        "url": "https://www.allrecipes.com/recipe/8539106/yaki-udon/",
+        "name": "Yaki Udon",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Yaki Udon is a classic Japanese stir-fry dish with udon noodles and lots of vegetables in a soy-based sauce. Feel free to add meat or tofu.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING380",
+                "grams": 6.25
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1724",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1197",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING339",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING921",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2168",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING704",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "grated",
+                "ingredient_id": "ING1457",
+                "grams": 7.5
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING838",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 12,
+                "unit": "ounces",
+                "prepare_type": "oyster, and shiitake) (about 6 cups)",
+                "ingredient_id": "ING2012",
+                "grams": 84.0
+            },
+            {
+                "quantity": 2,
+                "unit": "medium",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1544",
+                "grams": 15.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(10 ounce)",
+                "prepare_type": "cut into match-stick size pieces",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING462",
+                "grams": 12.5
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": "ING930",
+                "grams": 25.0
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "cilantro, lime wedges, furikake seasoning",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "stir-fry",
+        "tags": "",
+        "total_calo": 124.29,
+        "total_sugar": 2.98,
+        "total_fat": 6.07,
+        "total_fiber": 11.3,
+        "total_protein": 5.8,
+        "total_carbohydrat": 11.52,
+        "total_cholesterol": 0.01185598125,
+        "total_sodium": 0.25831459500000004,
+        "total_cost": 28642.59,
+        "total_error": 3,
+        "grams": 30
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f747"
+        },
+        "url": "https://www.allrecipes.com/recipe/19511/smoked-salmon-sushi-roll/",
+        "name": "Smoked Salmon Sushi Roll",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Homemade salmon roll made with sushi rice, nori, and smoked salmon. This is a very basic and easy recipe for making sushi. It might take a while to learn how to make a perfect roll, but you'll have fun trying! Add wasabi (Japanese horseradish) for a good kick!",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING833",
+                "grams": 50.0
+            },
+            {
+                "quantity": 6,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING914",
+                "grams": 21.262500000000003
+            },
+            {
+                "quantity": 6,
+                "unit": "sheets",
+                "prepare_type": "",
+                "ingredient_id": "ING472",
+                "grams": 7.5
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1898",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 8,
+                "unit": "ounces",
+                "prepare_type": "cut into long strips",
+                "ingredient_id": "ING105",
+                "grams": 56.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "peeled and sliced",
+                "ingredient_id": "ING733",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "pitted and sliced",
+                "ingredient_id": "ING1980",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Japanese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 1154.25,
+        "total_sugar": 0.12,
+        "total_fat": 22.23,
+        "total_fiber": 5.02,
+        "total_protein": 65.9,
+        "total_carbohydrat": 169.37,
+        "total_cholesterol": 0.07840000000000001,
+        "total_sodium": 5.77743425,
+        "total_cost": 140019.85,
+        "total_error": 2,
+        "grams": 280
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f5bd"
+        },
+        "url": "https://www.allrecipes.com/recipe/68531/chicken-and-peppers-with-balsamic-vinegar/",
+        "name": "Chicken and Peppers with Balsamic Vinegar",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Chicken and bell peppers are stir-fried with onions and balsamic vinegar for a yummy meal with an outstanding flavor that's easy to make! Serve over white rice or by itself.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING2085",
+                "grams": 6.25
+            },
+            {
+                "quantity": 4,
+                "unit": "",
+                "prepare_type": "boneless chicken breast halves - cut into strips",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1248",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING683",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1737",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING329",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING369",
+                "grams": 7.5
+            },
+            {
+                "quantity": 4,
+                "unit": "large",
+                "prepare_type": "finely chopped",
+                "ingredient_id": "ING2164",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING656",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING562",
+                "grams": 6.25
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "stir-fry",
+        "tags": "",
+        "total_calo": 260.87,
+        "total_sugar": 1.53,
+        "total_fat": 14.95,
+        "total_fiber": 4.55,
+        "total_protein": 3.23,
+        "total_carbohydrat": 26.39,
+        "total_cholesterol": 0.0008775,
+        "total_sodium": 0.142219125,
+        "total_cost": 29395.43,
+        "total_error": 5,
+        "grams": 90
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7d3"
+        },
+        "url": "https://www.allrecipes.com/recipe/55528/korean-tofu-and-vegetable-soup/",
+        "name": "Korean Tofu and Vegetable Soup",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is the Korean equivalent of chicken noodle soup - it is a comforting, cure-all soup. It is also spicy and fresh, and easy to make. You will have to visit your local Asian market for some of the ingredients.",
+        "ingredients": [
+            {
+                "quantity": 3,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING611",
+                "grams": 75.0
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING2013",
+                "grams": 6.25
+            },
+            {
+                "quantity": 1,
+                "unit": "(4 inch)",
+                "prepare_type": "",
+                "ingredient_id": "ING2030",
+                "grams": 12.65
+            },
+            {
+                "quantity": 5,
+                "unit": "cloves",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING1457",
+                "grams": 4.5
+            },
+            {
+                "quantity": 1,
+                "unit": "(16 ounce)",
+                "prepare_type": "cut into 1 1/2 x 1/4 inch dominoes",
+                "ingredient_id": "ING1313",
+                "grams": 12.5
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "thickly sliced",
+                "ingredient_id": "ING740",
+                "grams": 88.5
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "cut into 1 1/2x1/4 inch dominoes",
+                "ingredient_id": "ING1736",
+                "grams": 88.5
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "white and pale green part only, sliced diagonally into 1 1/4 inch pieces",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "seeded and sliced diagonally into 1/4 inch pieces",
+                "ingredient_id": "ING1687",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Korean",
+        "category": "soups-and-stews",
+        "tags": "",
+        "total_calo": 391.83,
+        "total_sugar": 3.62,
+        "total_fat": 4.81,
+        "total_fiber": 9.57,
+        "total_protein": 23.02,
+        "total_carbohydrat": 56.41,
+        "total_cholesterol": 0.0333,
+        "total_sodium": 0.062996,
+        "total_cost": 107897.4,
+        "total_error": 3,
+        "grams": 80
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7d5"
+        },
+        "url": "https://www.allrecipes.com/recipe/285148/malaysian-flatbread-roti-canai-with-curried-lentil-dip/",
+        "name": "Malaysian Flatbread (Roti Canai) with Curried Lentil Dip",
+        "cook_time": "1:35:00",
+        "prep_time": "0:30:00",
+        "total_time": "10:15:00",
+        "description": "With a crispy, crunchy exterior and a stretchy, chewy interior, these Malaysian flatbread (roti canai) are served alongside a delicious curried lentil dip.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING283",
+                "grams": 2.13375
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "",
+                "ingredient_id": "ING1474",
+                "grams": 12.5
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING385",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 1.25,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 31.25
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1123",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1325",
+                "grams": 12.5
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1631",
+                "grams": 2.845
+            },
+            {
+                "quantity": 4,
+                "unit": "cloves",
+                "prepare_type": "",
+                "ingredient_id": "ING499",
+                "grams": 3.6
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1083",
+                "grams": 2.13375
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1800",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1310",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING782",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING555",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING139",
+                "grams": 6.25
+            },
+            {
+                "quantity": 3,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING83",
+                "grams": 75.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce) can",
+                "prepare_type": "",
+                "ingredient_id": "ING126",
+                "grams": 10.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING338",
+                "grams": 6.25
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2174",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1996",
+                "grams": 3.54375
+            }
+        ],
+        "instructions": [
+            "Combine bread flour, sugar, kosher salt, egg, melted butter, and water for roti canai in a mixing bowl. Mix with your hands until a shaggy dough forms. Transfer to a work surface and knead until a smooth, elastic dough forms, about 7 minutes.",
+            "Divide dough into 8 equal pieces and form each one into a ball. Coat each ball with vegetable oil, transfer to a plate, and cover with plastic wrap. Refrigerate for 8 hours, to overnight.",
+            "Melt butter for dip in a saucepan over medium-high heat. Add onion, ginger, garlic, kosher salt, curry powder, paprika, cumin, black pepper, and cayenne pepper; stir together and saute until onion has softened and spices are fragrant, 3 to 4 minutes. Stir in tomato paste and cook until it starts to toast and caramelize on the bottom of the pan, about 3 minutes.",
+            "Stir in cold water and coconut milk. Add lentils; stir and bring to a simmer. Reduce heat to medium-low and simmer, stirring occasionally, until tender, about 40 minutes. Taste and adjust seasonings. Reduce heat to low and keep warm while you prepare the roti canai.",
+            "Place 1/4 cup melted butter in a bowl. Transfer rested dough balls onto a lightly oiled work surface. Flatten each ball slightly and rub a little melted butter on top. Cover dough with plastic wrap and let it warm up slightly, about 10 minutes.",
+            "Press on top of the plastic wrap to flatten warmed dough. Remove plastic wrap and add a bit more butter. Stretch each piece from the center out to get it as thin as possible (until almost see-through), adding more butter as needed. Don&#39;t worry if there are a few small tears.",
+            "Sprinkle on more melted butter, then pull two sides in towards the center until touching and overlapping slightly. Pull the other two edges in the same way to form a square. Cover with plastic wrap and flatten roti canai one more time.",
+            "Add some melted butter to a skillet set over medium or medium-low heat. Add roti canai and cook until browned, flaky, and crispy on the outside and fully cooked through on the inside, 3 to 4 minutes per side.",
+            "Remove from the skillet and smush it with your hands to fluff it up and separate the layers of dough. Repeat to cook remaining roti canai.",
+            "Sprinkle the curried red lentil dip with cilantro and sliced serrano peppers and serve alongside the roti canai."
+        ],
+        "nutrition": {
+            "calories": "565 kcal",
+            "carbohydrateContent": "67 g",
+            "cholesterolContent": "58 mg",
+            "fiberContent": "11 g",
+            "proteinContent": "16 g",
+            "saturatedFatContent": "18 g",
+            "sodiumContent": "811 mg",
+            "sugarContent": "5 g",
+            "fatContent": "27 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/MtM_YD1ubyxkd4agoe7zLdnk9E4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-458-083a34d92d5f494fa792140b81fd913e.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/EXrosG7v-K3AjnAEN.mp4",
+            "description": "With a crispy, crunchy exterior and a stretchy, chewy interior, these Malaysian flatbread (roti canai) are easier to make than they look.",
+            "duration": "0:11:21",
+            "name": "Malaysian Flatbread (Roti Canai) with Curried Lentil Dip"
+        },
+        "cuisine": "malaysian",
+        "category": "Dinner",
+        "tags": [],
+        "total_calo": 339.0,
+        "total_fat": 16.2,
+        "total_fiber": 6.6,
+        "total_protein": 9.6,
+        "total_carbohydrat": 40.2,
+        "total_sodium": 0.48660000000000003,
+        "total_sugar": 3.0,
+        "total_cholesterol": 0.0348,
+        "total_cost": 29657.74,
+        "total_error": 0,
+        "grams": 60
+    }
+]

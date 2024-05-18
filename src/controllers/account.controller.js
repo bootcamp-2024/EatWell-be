@@ -1,14 +1,20 @@
 import UserInfoModel from "#src/models/UserInfo.model";
 import { verifyPassword, encryptPassword } from "#src/utils/crypto";
+import UserPreferenceModel from "#src/models/UserPreference.model";
 import moment from "moment";
+import { cloudinary } from "#src/utils/cloudinary";
 
 export default {
   async getInformation(req, res, next) {
     try {
       const reqEmail = req.payload.email;
-      const result = await UserInfoModel.findOne({
+      const userInfo = await UserInfoModel.findOne({
         email: reqEmail,
       }).lean();
+      const userPreferences = await UserPreferenceModel.findOne({
+        userId: userInfo._id,
+      }).lean();
+
       const {
         email,
         password,
@@ -16,10 +22,24 @@ export default {
         gender,
         phone,
         dateOfBirth,
+        isVerified,
+        avatar_path,
+        avatar_filename,
+      } = userInfo;
+      const {
         height,
         weight,
-        isVerified,
-      } = result;
+        cuisine,
+        allergy,
+        minPrice,
+        maxPrice,
+        bodyGoal,
+        activityLevel,
+        suggestedCalories,
+        BMI,
+        BMR,
+      } = userPreferences;
+
       res.status(200).send({
         exitcode: 0,
         account: {
@@ -34,8 +54,23 @@ export default {
           isVerified,
           height,
           weight,
+          avatar_path,
+          avatar_filename,
         },
-        message: "Get information successfully",
+        preferences: {
+          height,
+          weight,
+          cuisine,
+          allergy,
+          minPrice,
+          maxPrice,
+          bodyGoal,
+          activityLevel,
+          suggestedCalories,
+          BMI,
+          BMR,
+        },
+        message: "Get user information successfully",
       });
     } catch (err) {
       next(err);
@@ -68,7 +103,7 @@ export default {
         gender,
       };
 
-      await UserInfoModel.updateInformation(email, entity);
+      await UserInfoModel.findOneAndUpdate({ email }, entity);
 
       res.status(200).send({
         exitcode: 0,
@@ -111,6 +146,120 @@ export default {
       res.status(200).send({
         exitcode: 0,
         message: "Change password successfully",
+      });
+    } catch (err) {
+      next(err);
+    }
+  },
+
+  // Heath Setting
+  async updateUserPreferences(req, res, next) {
+    try {
+      const {
+        height,
+        weight,
+        cuisine,
+        allergy,
+        minPrice,
+        maxPrice,
+        bodyGoal,
+        activityLevel,
+        BMI,
+        BMR,
+        suggestedCalories,
+      } = req.body;
+      const { email } = req.payload;
+
+      const userInfo = await UserInfoModel.findOne({ email }).lean();
+      if (!userInfo) {
+        return res.status(404).json({
+          exitcode: 101,
+          message: "User not found!",
+        });
+      }
+
+      const userPreference = await UserPreferenceModel.findOneAndUpdate(
+        { userId: userInfo._id },
+        {
+          cuisine,
+          allergy,
+          minPrice,
+          maxPrice,
+          bodyGoal,
+          activityLevel,
+          $push: {
+            healthRecords: {
+              BMI: BMI,
+              BMR: BMR,
+              height: height,
+              weight: weight,
+              updatedAt: new Date(),
+            },
+          },
+          suggestedCalories,
+        },
+        { upsert: true, new: true }
+      );
+
+      // const healthRecords = await HealthRecordsModel.findOneAndUpdate(
+      //   { userId: userInfo._id },
+      //   {
+      //     $push: {
+      //       BMI: { value: BMI, updatedAt: new Date() },
+      //       BMR: { value: BMR, updatedAt: new Date() },
+      //       height: { value: height, updatedAt: new Date() },
+      //       weight: { value: weight, updatedAt: new Date() },
+      //     },
+      //     // suggestedCalories,
+      //   },
+      //   { upsert: true, new: true }
+      // );
+
+      return res.status(200).json({
+        exitcode: 0,
+        message: "User preference updated successfully!",
+        userPreference,
+      });
+    } catch (error) {
+      next(error);
+    }
+  },
+
+  async uploadAvatar(req, res, next) {
+    try {
+      const { email } = req.payload;
+      const { files } = req;
+      const listImg = files.map((item) => ({
+        path: item.path,
+        filename: item.filename,
+      }));
+      const avatar = listImg[0];
+
+      // Remove old image
+      const currentUser = await UserInfoModel.findOne(
+        { email: email },
+        "avatar_path avatar_filename"
+      );
+      const currentFilename = currentUser.avatar_filename;
+      if (currentFilename) {
+        const uploader = cloudinary.uploader;
+        try {
+          await uploader.destroy(currentFilename);
+        } catch (err) {
+          console.log("Cannot delete old image!");
+        }
+      }
+      // Upload image
+      const result = await UserInfoModel.findOneAndUpdate(
+        { email },
+        {
+          avatar_path: avatar.path,
+          avatar_filename: avatar.filename,
+        }
+      );
+      res.status(200).send({
+        exitcode: 0,
+        message: "Upload avatar successfully",
       });
     } catch (err) {
       next(err);

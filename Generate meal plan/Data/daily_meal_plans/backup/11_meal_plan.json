@@ -1,0 +1,384 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7d3"
+        },
+        "url": "https://www.allrecipes.com/recipe/55528/korean-tofu-and-vegetable-soup/",
+        "name": "Korean Tofu and Vegetable Soup",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is the Korean equivalent of chicken noodle soup - it is a comforting, cure-all soup. It is also spicy and fresh, and easy to make. You will have to visit your local Asian market for some of the ingredients.",
+        "ingredients": [
+            {
+                "quantity": 3,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING611",
+                "grams": 75.0
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING2013",
+                "grams": 6.25
+            },
+            {
+                "quantity": 1,
+                "unit": "(4 inch)",
+                "prepare_type": "",
+                "ingredient_id": "ING2030",
+                "grams": 12.65
+            },
+            {
+                "quantity": 5,
+                "unit": "cloves",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING1457",
+                "grams": 4.5
+            },
+            {
+                "quantity": 1,
+                "unit": "(16 ounce)",
+                "prepare_type": "cut into 1 1/2 x 1/4 inch dominoes",
+                "ingredient_id": "ING1313",
+                "grams": 12.5
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "thickly sliced",
+                "ingredient_id": "ING740",
+                "grams": 88.5
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "cut into 1 1/2x1/4 inch dominoes",
+                "ingredient_id": "ING1736",
+                "grams": 88.5
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "white and pale green part only, sliced diagonally into 1 1/4 inch pieces",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "seeded and sliced diagonally into 1/4 inch pieces",
+                "ingredient_id": "ING1687",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Korean",
+        "category": "soups-and-stews",
+        "tags": "",
+        "total_calo": 979.57,
+        "total_sugar": 9.05,
+        "total_fat": 12.02,
+        "total_fiber": 23.92,
+        "total_protein": 57.55,
+        "total_carbohydrat": 141.02,
+        "total_cholesterol": 0.08325,
+        "total_sodium": 0.15749,
+        "total_cost": 269743.5,
+        "total_error": 3,
+        "grams": 200
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f760"
+        },
+        "url": "https://www.allrecipes.com/recipe/58793/tonkatsu-asian-style-pork-chop/",
+        "name": "Tonkatsu - Asian-Style Pork Chop",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is using Panko, which is Japanese bread crumbs (really light and airy, more so than crackers), and thinly sliced boneless pork chops.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1143",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1506",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1496",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING185",
+                "grams": 25.0
+            },
+            {
+                "quantity": 8,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Japanese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 383.37,
+        "total_sugar": 0.02,
+        "total_fat": 42.9,
+        "total_fiber": 0.26,
+        "total_protein": 0.48,
+        "total_carbohydrat": 0.42,
+        "total_cholesterol": 0.00093102625,
+        "total_sodium": 0.01489642,
+        "total_cost": 15586.9,
+        "total_error": 4,
+        "grams": 170
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f774"
+        },
+        "url": "https://www.allrecipes.com/recipe/46543/tonkatsu/",
+        "name": "Tonkatsu",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "These breaded and fried pork cutlets make a traditional Japanese dish which is very simple and easy to make. Serve with sticky rice and tonkatsu sauce and enjoy! Also great if substituted with chicken breasts.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "(4 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1144",
+                "grams": 0.0
+            },
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING1609",
+                "grams": 50.0
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "beaten",
+                "ingredient_id": "ING160",
+                "grams": 0.0
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1045",
+                "grams": 18.75
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Japanese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 616.58,
+        "total_sugar": 1.35,
+        "total_fat": 60.67,
+        "total_fiber": 0.9,
+        "total_protein": 2.92,
+        "total_carbohydrat": 16.43,
+        "total_cholesterol": 0.0,
+        "total_sodium": 0.19124999999999998,
+        "total_cost": 12908.25,
+        "total_error": 4,
+        "grams": 120
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f5f8"
+        },
+        "url": "https://www.allrecipes.com/recipe/61913/authentic-chinese-egg-rolls-from-a-chinese-person/",
+        "name": "Authentic Chinese Egg Rolls (from a Chinese person)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "These Chinese egg rolls come from my mom who is the best cook ever — and I am a picky eater. If I like this, then you will. This is very authentic because my family is Chinese and I am too. This recipe is at least 300 years old in the Ling family.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "teaspoons",
+                "prepare_type": "divided",
+                "ingredient_id": "ING1851",
+                "grams": 5.69
+            },
+            {
+                "quantity": 3,
+                "unit": "large",
+                "prepare_type": "beaten",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "finely shredded",
+                "ingredient_id": "ING230",
+                "grams": 7.5
+            },
+            {
+                "quantity": 0.5,
+                "unit": "",
+                "prepare_type": "julienned",
+                "ingredient_id": "ING1769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "cut into matchsticks",
+                "ingredient_id": "ING1318",
+                "grams": 88.5
+            },
+            {
+                "quantity": 1,
+                "unit": "(8 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "shredded wood ear mushroom, rehydrated",
+                "ingredient_id": "ING858",
+                "grams": 25.0
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 3.5562500000000004
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1158",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1858",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "beaten",
+                "ingredient_id": "ING465",
+                "grams": 0.0
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING1609",
+                "grams": 100.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 101.85,
+        "total_sugar": 0.25,
+        "total_fat": 10.88,
+        "total_fiber": 0.27,
+        "total_protein": 0.7,
+        "total_carbohydrat": 0.57,
+        "total_cholesterol": 0.0020583225,
+        "total_sodium": 0.07210195,
+        "total_cost": 4921.89,
+        "total_error": 6,
+        "grams": 10
+    }
+]

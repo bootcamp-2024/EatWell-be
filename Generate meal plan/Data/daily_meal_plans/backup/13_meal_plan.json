@@ -1,0 +1,419 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f64c"
+        },
+        "url": "https://www.allrecipes.com/recipe/81111/bangan-ka-bhurta-indian-eggplant/",
+        "name": "Bangan ka Bhurta (Indian Eggplant)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a very simple, quick and more importantly authentic Indian side dish of grilled eggplant and tomato. Best served with naan or roti. It should have a consistency of, um, well, 'mush' when finished, but it's good.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1977",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING369",
+                "grams": 7.5
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING897",
+                "grams": 0.355625
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 0.355625
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1496",
+                "grams": 0.355625
+            },
+            {
+                "quantity": 4,
+                "unit": "sprigs",
+                "prepare_type": "",
+                "ingredient_id": "ING2174",
+                "grams": 1.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "side-dishes",
+        "tags": "",
+        "total_calo": 57.35,
+        "total_sugar": 0.56,
+        "total_fat": 5.09,
+        "total_fiber": 0.58,
+        "total_protein": 0.77,
+        "total_carbohydrat": 2.06,
+        "total_cholesterol": 0.0029249999999999996,
+        "total_sodium": 0.16754381250000003,
+        "total_cost": 5551.58,
+        "total_error": 2,
+        "grams": 300
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f653"
+        },
+        "url": "https://www.allrecipes.com/recipe/276153/crispy-indian-okra/",
+        "name": "Crispy Indian Okra",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This great okra side dish with Indian spices can also be served as a snack or appetizer.",
+        "ingredients": [
+            {
+                "quantity": 2.5,
+                "unit": "cups",
+                "prepare_type": "ends trimmed",
+                "ingredient_id": "ING972",
+                "grams": 62.5
+            },
+            {
+                "quantity": 5,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING977",
+                "grams": 17.71875
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1026",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING370",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1601",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 0.355625
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": "ING2073",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1609",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "or to taste (Optional)",
+                "ingredient_id": "ING2032",
+                "grams": 1.4225
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "side-dishes",
+        "tags": "",
+        "total_calo": 306.43,
+        "total_sugar": 2.68,
+        "total_fat": 3.63,
+        "total_fiber": 4.86,
+        "total_protein": 12.62,
+        "total_carbohydrat": 58.1,
+        "total_cholesterol": 0.00068066625,
+        "total_sodium": 1.6543166296874992,
+        "total_cost": 48032.91,
+        "total_error": 3,
+        "grams": 300
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f60d"
+        },
+        "url": "https://www.allrecipes.com/recipe/223156/shrimp-with-broccoli-in-garlic-sauce/",
+        "name": "Shrimp with Broccoli in Garlic Sauce",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "I wanted to recreate my favorite Chinese shrimp and broccoli takeout dish. After several attempts, here is the result! Serve over hot cooked rice.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1277",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 4,
+                "unit": "large",
+                "prepare_type": "minced",
+                "ingredient_id": "ING2164",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1316",
+                "grams": 25.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING380",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING832",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "peeled and deveined",
+                "ingredient_id": "ING31",
+                "grams": 88.5
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "drained",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING542",
+                "grams": 7.0875
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 1608.85,
+        "total_sugar": 10.08,
+        "total_fat": 56.36,
+        "total_fiber": 19.12,
+        "total_protein": 43.89,
+        "total_carbohydrat": 221.49,
+        "total_cholesterol": 0.006,
+        "total_sodium": 0.9857338500000001,
+        "total_cost": 184056.31,
+        "total_error": 2,
+        "grams": 240
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f67b"
+        },
+        "url": "https://www.allrecipes.com/recipe/280310/two-ingredient-naan/",
+        "name": "Easy Two-Ingredient Naan",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "While this two-ingredient naan is not a true, traditional naan bread, it sure works in a pinch!",
+        "ingredients": [
+            {
+                "quantity": 1.25,
+                "unit": "cups",
+                "prepare_type": "or more as needed",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1304",
+                "grams": 25.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "bread",
+        "tags": "",
+        "total_calo": 85.5,
+        "total_sugar": 0.0,
+        "total_fat": 7.5,
+        "total_fiber": 0.0,
+        "total_protein": 4.75,
+        "total_carbohydrat": 0.1,
+        "total_cholesterol": 0.025,
+        "total_sodium": 0.04,
+        "total_cost": 3600.0,
+        "total_error": 1,
+        "grams": 200
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f6a4"
+        },
+        "url": "https://www.allrecipes.com/recipe/135900/mini-sweet-potato-samosas/",
+        "name": "Mini Sweet Potato Samosas",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Mini samosas made with curried sweet potatoes and wontons. Serve with ketchup or chutney.",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "peeled and diced",
+                "ingredient_id": "ING607",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING25",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1143",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1294",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1967",
+                "grams": 0.0
+            },
+            {
+                "quantity": 20,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING115",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 11.54,
+        "total_sugar": 0.13,
+        "total_fat": 0.88,
+        "total_fiber": 0.1,
+        "total_protein": 0.68,
+        "total_carbohydrat": 0.21,
+        "total_cholesterol": 0.0009072000000000003,
+        "total_sodium": 0.011520100000000004,
+        "total_cost": 2603.81,
+        "total_error": 4,
+        "grams": 80
+    }
+]

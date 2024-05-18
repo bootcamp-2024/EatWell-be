@@ -1,0 +1,601 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f747"
+        },
+        "url": "https://www.allrecipes.com/recipe/19511/smoked-salmon-sushi-roll/",
+        "name": "Smoked Salmon Sushi Roll",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Homemade salmon roll made with sushi rice, nori, and smoked salmon. This is a very basic and easy recipe for making sushi. It might take a while to learn how to make a perfect roll, but you'll have fun trying! Add wasabi (Japanese horseradish) for a good kick!",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING833",
+                "grams": 50.0
+            },
+            {
+                "quantity": 6,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING914",
+                "grams": 21.262500000000003
+            },
+            {
+                "quantity": 6,
+                "unit": "sheets",
+                "prepare_type": "",
+                "ingredient_id": "ING472",
+                "grams": 7.5
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1898",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 8,
+                "unit": "ounces",
+                "prepare_type": "cut into long strips",
+                "ingredient_id": "ING105",
+                "grams": 56.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "peeled and sliced",
+                "ingredient_id": "ING733",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "pitted and sliced",
+                "ingredient_id": "ING1980",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Japanese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 1236.7,
+        "total_sugar": 0.13,
+        "total_fat": 23.82,
+        "total_fiber": 5.38,
+        "total_protein": 70.61,
+        "total_carbohydrat": 181.46,
+        "total_cholesterol": 0.08400000000000002,
+        "total_sodium": 6.190108125,
+        "total_cost": 150021.26,
+        "total_error": 2,
+        "grams": 300
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f867"
+        },
+        "url": "https://www.allrecipes.com/recipe/28349/very-spicy-thai-green-chicken-curry/",
+        "name": "Very Spicy Thai Green Chicken Curry",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is an EXTREMELY hot Thai curry with homemade curry paste. All you people out there who're thinking \"Hot? Yeah right\", try it! Serve over Thai fragrant rice.",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "peeled and quartered",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 10,
+                "unit": "",
+                "prepare_type": "seeded and chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "seeded and chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "bunch",
+                "prepare_type": "",
+                "ingredient_id": "ING1835",
+                "grams": 42.5
+            },
+            {
+                "quantity": 0.5,
+                "unit": "bunch",
+                "prepare_type": "",
+                "ingredient_id": "ING1259",
+                "grams": 42.5
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "peeled and halved",
+                "ingredient_id": "ING1457",
+                "grams": 1.8
+            },
+            {
+                "quantity": 1,
+                "unit": "(1",
+                "prepare_type": "peeled and sliced",
+                "ingredient_id": "ING540",
+                "grams": 120.25
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "zested and juiced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING370",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1346",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": "ING1558",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "or more as needed",
+                "ingredient_id": "ING2085",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "cubed",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": "ING1582",
+                "grams": 25.0
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING969",
+                "grams": 25.0
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Thai",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 566.45,
+        "total_sugar": 0.54,
+        "total_fat": 17.93,
+        "total_fiber": 1.61,
+        "total_protein": 83.21,
+        "total_carbohydrat": 16.92,
+        "total_cholesterol": 0.012437394406250002,
+        "total_sodium": 0.492298200625,
+        "total_cost": 57169.41,
+        "total_error": 6,
+        "grams": 110
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f826"
+        },
+        "url": "https://www.allrecipes.com/recipe/56358/thai-hot-and-sour-soup/",
+        "name": "Thai Hot and Sour Soup",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Fantastic authentic Thai hot and sour soup. Ideal as a starter in a Thai meal. Not very filling, but a great appetizer. Very quick and easy to prepare. The tom yum paste is hot, so try the soup before adding the chile and decide if any extra heat is required. Do not attempt if you do not have fresh coriander, as this is vital!",
+        "ingredients": [
+            {
+                "quantity": 3,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING268",
+                "grams": 75.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1498",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.5,
+                "unit": "clove",
+                "prepare_type": "finely chopped",
+                "ingredient_id": "ING1457",
+                "grams": 0.45
+            },
+            {
+                "quantity": 3,
+                "unit": "stalks",
+                "prepare_type": "chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "boneless chicken breast halves - shredded",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": "ounces",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING922",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING147",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1392",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "bunch",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING1198",
+                "grams": 85.0
+            },
+            {
+                "quantity": 1,
+                "unit": "sprig",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING1259",
+                "grams": 0.25
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Thai",
+        "category": "soups-and-stews",
+        "tags": "",
+        "total_calo": 41.65,
+        "total_sugar": 0.48,
+        "total_fat": 1.47,
+        "total_fiber": 4.32,
+        "total_protein": 3.23,
+        "total_carbohydrat": 2.11,
+        "total_cholesterol": 0.0041043749999999995,
+        "total_sodium": 0.17484274999999996,
+        "total_cost": 59017.78,
+        "total_error": 4,
+        "grams": 50
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f745"
+        },
+        "url": "https://www.allrecipes.com/recipe/8539106/yaki-udon/",
+        "name": "Yaki Udon",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Yaki Udon is a classic Japanese stir-fry dish with udon noodles and lots of vegetables in a soy-based sauce. Feel free to add meat or tofu.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING380",
+                "grams": 6.25
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1724",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1197",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING339",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING921",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2168",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING704",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "grated",
+                "ingredient_id": "ING1457",
+                "grams": 7.5
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING838",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 12,
+                "unit": "ounces",
+                "prepare_type": "oyster, and shiitake) (about 6 cups)",
+                "ingredient_id": "ING2012",
+                "grams": 84.0
+            },
+            {
+                "quantity": 2,
+                "unit": "medium",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1544",
+                "grams": 15.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(10 ounce)",
+                "prepare_type": "cut into match-stick size pieces",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING462",
+                "grams": 12.5
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": "ING930",
+                "grams": 25.0
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "cilantro, lime wedges, furikake seasoning",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Japanese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 165.72,
+        "total_sugar": 3.98,
+        "total_fat": 8.1,
+        "total_fiber": 15.07,
+        "total_protein": 7.73,
+        "total_carbohydrat": 15.36,
+        "total_cholesterol": 0.015807975,
+        "total_sodium": 0.34441946000000007,
+        "total_cost": 38190.12,
+        "total_error": 3,
+        "grams": 40
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7f1"
+        },
+        "url": "https://www.allrecipes.com/recipe/240606/persian-rice/",
+        "name": "Persian Rice",
+        "cook_time": "0:55:00",
+        "prep_time": "0:15:00",
+        "total_time": "1:10:00",
+        "description": "Chef John&#39;s Persian rice features fluffy basmati rice flavored with butter, saffron, and cumin, topped with slices of beautiful golden crisp potatoes.",
+        "ingredients": [
+            {
+                "quantity": 3,
+                "unit": "quarts",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 37.5
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING283",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING527",
+                "grams": 50.0
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2085",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING541",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1439",
+                "grams": 5.315625000000001
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1778",
+                "grams": 3.54375
+            }
+        ],
+        "instructions": [
+            "Place water and kosher salt in a pot; bring to a boil. Add rice; cook and stir for exactly 7 minutes. Drain.",
+            "Heat olive oil in a pot over medium-high heat. Cover the bottom of the pot with 1 layer of potato slices. Sprinkle cumin and salt over potatoes. Cook until potatoes are sizzling, 2 to 3 minutes; top potatoes with rice to form an even layer. Reduce heat to low and place butter slices over rice.",
+            "Top the pot with a layer of clean paper towels, then place the lid over the towels. Steam until rice is fluffy, about 45 minutes.",
+            "Grind saffron threads with a mortar and pestle. Mix crushed saffron with 1 1/2 tablespoons hot water in a large bowl. Add a couple of spoonfuls of rice to saffron mixture and stir until rice is yellow.",
+            "Spoon remaining rice into a serving bowl. Top with saffron rice and line the edges of the bowl with potatoes. Garnish with parsley."
+        ],
+        "nutrition": {
+            "calories": "255 kcal",
+            "carbohydrateContent": "42 g",
+            "cholesterolContent": "11 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "4 g",
+            "saturatedFatContent": "3 g",
+            "sodiumContent": "2223 mg",
+            "sugarContent": "0 g",
+            "fatContent": "8 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/xjurj3TmYEQ5MMdq8s0mGMo4658=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24606-persian-rice-mfs_149-04ba83bbdc4449f0a97767fff0172dfa.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/BhRdV2Ev-K3AjnAEN.mp4",
+            "description": "I believe I've posted a few fool proof methods for cooking perfect rice, but this Persian version takes the grand prize, and it's not even close for second. The beauty of this method is that it doesn't rely on any specific measurements, or even exact times. This will make some of you very nervous, but just go with it.",
+            "duration": "0:06:32",
+            "name": "Chef John's Persian Rice"
+        },
+        "cuisine": "persian",
+        "category": "Side Dish",
+        "tags": [],
+        "total_calo": 25.5,
+        "total_fat": 0.8,
+        "total_fiber": 0.1,
+        "total_protein": 0.4,
+        "total_carbohydrat": 4.2,
+        "total_sodium": 0.2223,
+        "total_sugar": 0.0,
+        "total_cholesterol": 0.0011,
+        "total_cost": 3545.59,
+        "total_error": 0,
+        "grams": 10
+    }
+]

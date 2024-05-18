@@ -1,0 +1,323 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f5bd"
+        },
+        "url": "https://www.allrecipes.com/recipe/68531/chicken-and-peppers-with-balsamic-vinegar/",
+        "name": "Chicken and Peppers with Balsamic Vinegar",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Chicken and bell peppers are stir-fried with onions and balsamic vinegar for a yummy meal with an outstanding flavor that's easy to make! Serve over white rice or by itself.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING2085",
+                "grams": 6.25
+            },
+            {
+                "quantity": 4,
+                "unit": "",
+                "prepare_type": "boneless chicken breast halves - cut into strips",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1248",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING683",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1737",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING329",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING369",
+                "grams": 7.5
+            },
+            {
+                "quantity": 4,
+                "unit": "large",
+                "prepare_type": "finely chopped",
+                "ingredient_id": "ING2164",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING656",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING562",
+                "grams": 6.25
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "stir-fry",
+        "tags": "",
+        "total_calo": 637.68,
+        "total_sugar": 3.74,
+        "total_fat": 36.54,
+        "total_fiber": 11.11,
+        "total_protein": 7.91,
+        "total_carbohydrat": 64.52,
+        "total_cholesterol": 0.002145,
+        "total_sodium": 0.34764675000000006,
+        "total_cost": 71855.51,
+        "total_error": 5,
+        "grams": 220
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f826"
+        },
+        "url": "https://www.allrecipes.com/recipe/56358/thai-hot-and-sour-soup/",
+        "name": "Thai Hot and Sour Soup",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Fantastic authentic Thai hot and sour soup. Ideal as a starter in a Thai meal. Not very filling, but a great appetizer. Very quick and easy to prepare. The tom yum paste is hot, so try the soup before adding the chile and decide if any extra heat is required. Do not attempt if you do not have fresh coriander, as this is vital!",
+        "ingredients": [
+            {
+                "quantity": 3,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING268",
+                "grams": 75.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1498",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.5,
+                "unit": "clove",
+                "prepare_type": "finely chopped",
+                "ingredient_id": "ING1457",
+                "grams": 0.45
+            },
+            {
+                "quantity": 3,
+                "unit": "stalks",
+                "prepare_type": "chopped",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "boneless chicken breast halves - shredded",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 4,
+                "unit": "ounces",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING922",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING147",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1392",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "bunch",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING1198",
+                "grams": 85.0
+            },
+            {
+                "quantity": 1,
+                "unit": "sprig",
+                "prepare_type": "chopped",
+                "ingredient_id": "ING1259",
+                "grams": 0.25
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Thai",
+        "category": "soups-and-stews",
+        "tags": "",
+        "total_calo": 133.28,
+        "total_sugar": 1.52,
+        "total_fat": 4.7,
+        "total_fiber": 13.83,
+        "total_protein": 10.32,
+        "total_carbohydrat": 6.75,
+        "total_cholesterol": 0.013134,
+        "total_sodium": 0.5594967999999999,
+        "total_cost": 188856.89,
+        "total_error": 4,
+        "grams": 160
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7c0"
+        },
+        "url": "https://www.allrecipes.com/recipe/238844/korean-fried-chicken/",
+        "name": "Korean Fried Chicken",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This Korean fried chicken recipe is officially my favorite. I've had every style of fried chicken known to man, so I've always considered myself an expert. No other method I've come across has the same combination of tender, juicy, flavorful chicken and plate-scratching crispiness as this recipe does. It's simply a must-try!",
+        "ingredients": [
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "boneless chicken thighs, quartered",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "",
+                "prepare_type": "grated",
+                "ingredient_id": "ING145",
+                "grams": 0.0
+            },
+            {
+                "quantity": 4,
+                "unit": "cloves",
+                "prepare_type": "minced",
+                "ingredient_id": "ING1457",
+                "grams": 3.6
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING637",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1558",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING1609",
+                "grams": 100.0
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING542",
+                "grams": 18.75
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1449",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 0.355625
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING478",
+                "grams": 25.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Korean",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 1193.3,
+        "total_sugar": 2.67,
+        "total_fat": 120.5,
+        "total_fiber": 0.19,
+        "total_protein": 8.7,
+        "total_carbohydrat": 22.86,
+        "total_cholesterol": 0.017644533,
+        "total_sodium": 0.22408860000000003,
+        "total_cost": 42352.48,
+        "total_error": 3,
+        "grams": 120
+    }
+]

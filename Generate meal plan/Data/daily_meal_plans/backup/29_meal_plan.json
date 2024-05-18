@@ -1,0 +1,606 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f5bd"
+        },
+        "url": "https://www.allrecipes.com/recipe/68531/chicken-and-peppers-with-balsamic-vinegar/",
+        "name": "Chicken and Peppers with Balsamic Vinegar",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Chicken and bell peppers are stir-fried with onions and balsamic vinegar for a yummy meal with an outstanding flavor that's easy to make! Serve over white rice or by itself.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING2085",
+                "grams": 6.25
+            },
+            {
+                "quantity": 4,
+                "unit": "",
+                "prepare_type": "boneless chicken breast halves - cut into strips",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1248",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING683",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1737",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING329",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING369",
+                "grams": 7.5
+            },
+            {
+                "quantity": 4,
+                "unit": "large",
+                "prepare_type": "finely chopped",
+                "ingredient_id": "ING2164",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING656",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING562",
+                "grams": 6.25
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "stir-fry",
+        "tags": "",
+        "total_calo": 869.57,
+        "total_sugar": 5.1,
+        "total_fat": 49.82,
+        "total_fiber": 15.15,
+        "total_protein": 10.78,
+        "total_carbohydrat": 87.98,
+        "total_cholesterol": 0.0029249999999999996,
+        "total_sodium": 0.47406375,
+        "total_cost": 97984.78,
+        "total_error": 5,
+        "grams": 300
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f716"
+        },
+        "url": "https://www.allrecipes.com/recipe/238362/banana-lassi/",
+        "name": "Banana Lassi",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Who doesn't like a mango lassi, right? But when you don't have good fresh mangos or can't find mango puree, why not try a banana lassi? I ordered 2 in a restaurant in Udaipur because they were so good and it was because they had no mangos at the time -- what a find!",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "broken into chunks",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1.25,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING2034",
+                "grams": 31.25
+            },
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "prepare_type": "or more to taste",
+                "ingredient_id": "ING1143",
+                "grams": 8.25
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 7.0875
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Indian",
+        "category": "drinks",
+        "tags": "",
+        "total_calo": 206.69,
+        "total_sugar": 2.6,
+        "total_fat": 9.18,
+        "total_fiber": 2.58,
+        "total_protein": 3.09,
+        "total_carbohydrat": 26.73,
+        "total_cholesterol": 0.0008125000000000001,
+        "total_sodium": 0.21089737500000003,
+        "total_cost": 11034.73,
+        "total_error": 2,
+        "grams": 130
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f7ef"
+        },
+        "url": "https://www.allrecipes.com/recipe/16102/chicken-biryani/",
+        "name": "Chicken Biryani",
+        "cook_time": "1:20:00",
+        "prep_time": "0:30:00",
+        "total_time": "1:50:00",
+        "description": "Chicken biryani is a traditional South Asian rice dish with tender chunks of chicken in a creamy, spicy blend of onion, garlic, tomatoes, and spices.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING5",
+                "grams": 14.175
+            },
+            {
+                "quantity": 4,
+                "unit": "small",
+                "prepare_type": "",
+                "ingredient_id": "ING588",
+                "grams": 30.0
+            },
+            {
+                "quantity": 2,
+                "unit": "large",
+                "prepare_type": "",
+                "ingredient_id": "ING606",
+                "grams": 25.0
+            },
+            {
+                "quantity": 2,
+                "unit": "cloves",
+                "prepare_type": "",
+                "ingredient_id": "ING499",
+                "grams": 1.8
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1593",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": "ING1678",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING221",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1974",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1449",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING483",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1532",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1670",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "(2 inch) piece",
+                "prepare_type": "",
+                "ingredient_id": "ING85",
+                "grams": 5.2
+            },
+            {
+                "quantity": 3,
+                "unit": "pounds",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "",
+                "ingredient_id": "ING1193",
+                "grams": 88.5
+            },
+            {
+                "quantity": 2.5,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1851",
+                "grams": 8.859375
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "",
+                "ingredient_id": "ING1155",
+                "grams": 12.5
+            },
+            {
+                "quantity": 5,
+                "unit": "pods",
+                "prepare_type": "",
+                "ingredient_id": "ING1244",
+                "grams": 7.625
+            },
+            {
+                "quantity": 3,
+                "unit": null,
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "(1 inch) piece",
+                "prepare_type": "",
+                "ingredient_id": "ING85",
+                "grams": 3.85
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1833",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "",
+                "ingredient_id": "ING743",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING268",
+                "grams": 100.0
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 2.13375
+            }
+        ],
+        "instructions": [
+            "Gather all ingredients.",
+            "Heat 2 tablespoons of oil in a large skillet. Fry potatoes in hot oil until lightly browned, about 3 to 5 minutes. Remove to a paper towel-lined plate to drain; set aside.",
+            "Add remaining 2 tablespoons of oil to the skillet. Add onions, garlic, and fresh ginger; cook and stir until onion is soft and golden. Add tomatoes, salt, cumin, chili powder, pepper, and turmeric; cook, stirring constantly, for 5 minutes.",
+            "Stir in yogurt, mint, ground cardamom, and cinnamon stick. Cover and cook over low heat, stirring occasionally, until tomatoes are cooked to a pulp. It may be necessary to add a little hot water if mixture becomes too dry and starts to stick to the pan.",
+            "Add chicken and stir well to coat. Cover and cook over very low heat until chicken is tender, 35 to 45 minutes. There should only be a little very thick gravy left when chicken is finished cooking. If necessary cook uncovered for a few minutes to reduce the gravy.",
+            "Meanwhile, make the rice: Wash rice well and drain in a colander for at least 30 minutes.",
+            "Heat oil in a large skillet. Add onion; cook and stir until golden. Add cardamom pods, cloves, cinnamon stick, ground ginger, and saffron; stir in rice until coated with spices.",
+            "Heat stock and salt in a medium pot until hot; pour over rice and stir well.",
+            "Add chicken mixture and potatoes; stir gently to combine. Bring to a boil.",
+            "Reduce heat to very low, cover with a tight-fitting lid, and steam for 20 minutes without lifting the lid or stirring.",
+            "Spoon biryani onto a warm serving dish."
+        ],
+        "nutrition": {
+            "calories": "832 kcal",
+            "carbohydrateContent": "79 g",
+            "cholesterolContent": "134 mg",
+            "fiberContent": "5 g",
+            "proteinContent": "48 g",
+            "saturatedFatContent": "8 g",
+            "sodiumContent": "1522 mg",
+            "sugarContent": "5 g",
+            "fatContent": "35 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/nJkbnPUIiUxOSGAZgNrs7k6K8qI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM_16102_ChickenBiryani_ddmfs_3x4_5315-236dfbbc7965498cac20b87797841b69.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/ia1w70He-ma1DlVvV.mp4",
+            "description": "AR0739",
+            "duration": "0:07:58",
+            "name": "Chicken Biryani"
+        },
+        "cuisine": "pakistani",
+        "category": "Dinner",
+        "tags": [],
+        "total_calo": 915.2,
+        "total_fat": 38.5,
+        "total_fiber": 5.5,
+        "total_protein": 52.8,
+        "total_carbohydrat": 86.9,
+        "total_sodium": 1.6742000000000001,
+        "total_sugar": 5.5,
+        "total_cholesterol": 0.14740000000000003,
+        "total_cost": 180878.19,
+        "total_error": 0,
+        "grams": 110
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f885"
+        },
+        "url": "https://www.allrecipes.com/recipe/187342/banh-mi/",
+        "name": "Bánh Mì",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This bánh mì (Vietnamese sandwich) is made with chicken and full of pickled vegetables. My husband works around a lot of Vietnamese restaurants, and I was making him bring me home these tasty sandwiches. Finally I attempted to make one, and here it is. I also love the pickled vegetables, so I make sure there are plenty of those.",
+        "ingredients": [
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING325",
+                "grams": 12.5
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING1718",
+                "grams": 6.25
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 6.25
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING2",
+                "grams": 6.25
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING2082",
+                "grams": 6.25
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "boneless chicken breast half",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pinch",
+                "prepare_type": "or to taste",
+                "ingredient_id": "ING839",
+                "grams": 0.08890625
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1222",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(12 inch)",
+                "prepare_type": "",
+                "ingredient_id": "ING1359",
+                "grams": 25.0
+            },
+            {
+                "quantity": 4,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1697",
+                "grams": 14.175
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING0",
+                "grams": 6.25
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "small",
+                "prepare_type": "cut into 1/16-inch-thick matchsticks",
+                "ingredient_id": "ING412",
+                "grams": 7.5
+            },
+            {
+                "quantity": 1,
+                "unit": "wedge",
+                "prepare_type": "",
+                "ingredient_id": "ING1293",
+                "grams": 9.5
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 94.49,
+        "total_sugar": 1.93,
+        "total_fat": 4.24,
+        "total_fiber": 1.56,
+        "total_protein": 2.34,
+        "total_carbohydrat": 11.36,
+        "total_cholesterol": 0.006361256250000001,
+        "total_sodium": 0.133293984375,
+        "total_cost": 7925.88,
+        "total_error": 4,
+        "grams": 50
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f735"
+        },
+        "url": "https://www.allrecipes.com/recipe/285116/how-to-make-rice-balls-onigiri/",
+        "name": "How to Make Rice Balls (Onigiri)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Onigiri rice balls. Rice balls in Japan are like sandwiches in western countries. Easy to make, easy to take them out on a picnic.\nIt's very popular in Japan as a light meal.",
+        "ingredients": [
+            {
+                "quantity": 0.66,
+                "unit": "cup",
+                "prepare_type": "rinsed",
+                "ingredient_id": "ING1792",
+                "grams": 16.5
+            },
+            {
+                "quantity": 0.66,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING462",
+                "grams": 16.5
+            },
+            {
+                "quantity": 3,
+                "unit": "sheets",
+                "prepare_type": "cut into 1-inch strips",
+                "ingredient_id": "ING472",
+                "grams": 3.75
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1569",
+                "grams": 0.0
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING1542",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Japanese",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 7.42,
+        "total_sugar": 0.17,
+        "total_fat": 0.03,
+        "total_fiber": 0.21,
+        "total_protein": 0.23,
+        "total_carbohydrat": 1.44,
+        "total_cholesterol": 0.0,
+        "total_sodium": 0.0006225,
+        "total_cost": 888.43,
+        "total_error": 3,
+        "grams": 10
+    }
+]

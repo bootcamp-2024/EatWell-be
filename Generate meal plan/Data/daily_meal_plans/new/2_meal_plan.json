@@ -1,0 +1,498 @@
+[
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f747"
+        },
+        "url": "https://www.allrecipes.com/recipe/19511/smoked-salmon-sushi-roll/",
+        "name": "Smoked Salmon Sushi Roll",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Homemade salmon roll made with sushi rice, nori, and smoked salmon. This is a very basic and easy recipe for making sushi. It might take a while to learn how to make a perfect roll, but you'll have fun trying! Add wasabi (Japanese horseradish) for a good kick!",
+        "ingredients": [
+            {
+                "quantity": 2,
+                "unit": "cups",
+                "prepare_type": "",
+                "ingredient_id": "ING833",
+                "grams": 50.0
+            },
+            {
+                "quantity": 6,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING914",
+                "grams": 21.262500000000003
+            },
+            {
+                "quantity": 6,
+                "unit": "sheets",
+                "prepare_type": "",
+                "ingredient_id": "ING472",
+                "grams": 7.5
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1898",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 8,
+                "unit": "ounces",
+                "prepare_type": "cut into long strips",
+                "ingredient_id": "ING105",
+                "grams": 56.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "peeled and sliced",
+                "ingredient_id": "ING733",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "pitted and sliced",
+                "ingredient_id": "ING1980",
+                "grams": 0.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Japanese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 1236.7,
+        "total_sugar": 0.13,
+        "total_fat": 23.82,
+        "total_fiber": 5.38,
+        "total_protein": 70.61,
+        "total_carbohydrat": 181.46,
+        "total_cholesterol": 0.08400000000000002,
+        "total_sodium": 6.190108125,
+        "total_cost": 150021.26,
+        "total_error": 2,
+        "grams": 300
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f89e"
+        },
+        "url": "https://www.allrecipes.com/recipe/14681/vietnamese-beef-pho/",
+        "name": "Vietnamese Beef Pho",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This lemongrass pho is served with a plate full of fresh garnishes and various sauces, allowing each person to customize the soup to their taste. The soup is somewhat unusual because the thinly sliced beef is cooked directly in the serving bowl when the boiling broth is poured over top. By the time you garnish your soup, it will be cooked.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "quarts",
+                "prepare_type": "",
+                "ingredient_id": "ING1985",
+                "grams": 50.0
+            },
+            {
+                "quantity": 1,
+                "unit": "large",
+                "prepare_type": "sliced into rings",
+                "ingredient_id": "ING369",
+                "grams": 12.5
+            },
+            {
+                "quantity": 6,
+                "unit": "slices",
+                "prepare_type": "",
+                "ingredient_id": "ING181",
+                "grams": 42.0
+            },
+            {
+                "quantity": 1,
+                "unit": "stalk",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "",
+                "ingredient_id": "ING85",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "(8 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 3,
+                "unit": "fresh",
+                "prepare_type": "sliced into rings",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "cut into wedges",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "(8 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "cut into thin slices",
+                "ingredient_id": "ING1150",
+                "grams": 88.5
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING922",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 0.5,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1419",
+                "grams": 1.771875
+            },
+            {
+                "quantity": 1,
+                "unit": "dash",
+                "prepare_type": "",
+                "ingredient_id": "ING1561",
+                "grams": 0.1775
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": "",
+        "total_calo": 353.35,
+        "total_sugar": 0.0,
+        "total_fat": 18.21,
+        "total_fiber": 0.66,
+        "total_protein": 38.84,
+        "total_carbohydrat": 8.28,
+        "total_cholesterol": 0.11020961250000001,
+        "total_sodium": 0.28699165625,
+        "total_cost": 41749.26,
+        "total_error": 10,
+        "grams": 130
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f5a4"
+        },
+        "url": "https://www.allrecipes.com/recipe/8539106/yaki-udon/",
+        "name": "Yaki Udon",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Yaki Udon is a classic Japanese stir-fry dish with udon noodles and lots of vegetables in a soy-based sauce. Feel free to add meat or tofu.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "prepare_type": "",
+                "ingredient_id": "ING380",
+                "grams": 6.25
+            },
+            {
+                "quantity": 3,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 10.631250000000001
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING1724",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 1,
+                "unit": "tablespoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1197",
+                "grams": 3.54375
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING339",
+                "grams": 2.845
+            },
+            {
+                "quantity": 2,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING921",
+                "grams": 2.845
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2168",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING704",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "grated",
+                "ingredient_id": "ING1457",
+                "grams": 7.5
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2,
+                "unit": "tablespoons",
+                "prepare_type": "",
+                "ingredient_id": "ING838",
+                "grams": 7.0875
+            },
+            {
+                "quantity": 12,
+                "unit": "ounces",
+                "prepare_type": "oyster, and shiitake) (about 6 cups)",
+                "ingredient_id": "ING2012",
+                "grams": 84.0
+            },
+            {
+                "quantity": 2,
+                "unit": "medium",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": "ING1544",
+                "grams": 15.0
+            },
+            {
+                "quantity": 1,
+                "unit": "(10 ounce)",
+                "prepare_type": "cut into match-stick size pieces",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "prepare_type": "divided",
+                "ingredient_id": "ING462",
+                "grams": 12.5
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": "ING930",
+                "grams": 25.0
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "prepare_type": "cilantro, lime wedges, furikake seasoning",
+                "ingredient_id": null
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "stir-fry",
+        "tags": "",
+        "total_calo": 207.15,
+        "total_sugar": 4.97,
+        "total_fat": 10.12,
+        "total_fiber": 18.83,
+        "total_protein": 9.66,
+        "total_carbohydrat": 19.2,
+        "total_cholesterol": 0.01975996875,
+        "total_sodium": 0.43052432500000004,
+        "total_cost": 47737.65,
+        "total_error": 3,
+        "grams": 50
+    },
+    {
+        "_id": {
+            "$oid": "663c43204be674bfbd09f5f8"
+        },
+        "url": "https://www.allrecipes.com/recipe/61913/authentic-chinese-egg-rolls-from-a-chinese-person/",
+        "name": "Authentic Chinese Egg Rolls (from a Chinese person)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "These Chinese egg rolls come from my mom who is the best cook ever — and I am a picky eater. If I like this, then you will. This is very authentic because my family is Chinese and I am too. This recipe is at least 300 years old in the Ling family.",
+        "ingredients": [
+            {
+                "quantity": 4,
+                "unit": "teaspoons",
+                "prepare_type": "divided",
+                "ingredient_id": "ING1851",
+                "grams": 5.69
+            },
+            {
+                "quantity": 3,
+                "unit": "large",
+                "prepare_type": "beaten",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "medium",
+                "prepare_type": "finely shredded",
+                "ingredient_id": "ING230",
+                "grams": 7.5
+            },
+            {
+                "quantity": 0.5,
+                "unit": "",
+                "prepare_type": "julienned",
+                "ingredient_id": "ING1769",
+                "grams": 0.0
+            },
+            {
+                "quantity": 1,
+                "unit": "pound",
+                "prepare_type": "cut into matchsticks",
+                "ingredient_id": "ING1318",
+                "grams": 88.5
+            },
+            {
+                "quantity": 1,
+                "unit": "(8 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "cup",
+                "prepare_type": "shredded wood ear mushroom, rehydrated",
+                "ingredient_id": "ING858",
+                "grams": 25.0
+            },
+            {
+                "quantity": 2,
+                "unit": "",
+                "prepare_type": "thinly sliced",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 2.5,
+                "unit": "teaspoons",
+                "prepare_type": "",
+                "ingredient_id": "ING508",
+                "grams": 3.5562500000000004
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING2072",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 1,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1158",
+                "grams": 1.4225
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "prepare_type": "",
+                "ingredient_id": "ING1858",
+                "grams": 0.71125
+            },
+            {
+                "quantity": 1,
+                "unit": "(14 ounce)",
+                "prepare_type": "",
+                "ingredient_id": null
+            },
+            {
+                "quantity": 1,
+                "unit": "",
+                "prepare_type": "beaten",
+                "ingredient_id": "ING465",
+                "grams": 0.0
+            },
+            {
+                "quantity": 4,
+                "unit": "cups",
+                "prepare_type": "or as needed",
+                "ingredient_id": "ING1609",
+                "grams": 100.0
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Chinese",
+        "category": "appetizers",
+        "tags": "",
+        "total_calo": 203.7,
+        "total_sugar": 0.51,
+        "total_fat": 21.76,
+        "total_fiber": 0.54,
+        "total_protein": 1.41,
+        "total_carbohydrat": 1.14,
+        "total_cholesterol": 0.004116645,
+        "total_sodium": 0.1442039,
+        "total_cost": 9843.79,
+        "total_error": 6,
+        "grams": 20
+    }
+]
