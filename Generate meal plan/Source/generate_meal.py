@@ -145,8 +145,8 @@ class DailyMealPlan:
             meal['total_sodium']  *= gram_ratio
             meal['total_cholesterol']  *= gram_ratio
 
-        meals_plan.sort(key=lambda x: x['grams'], reverse=True)
-        # sắp xếp dữ liệu giảm dần theo grams
+        meals_plan.sort(key=lambda x: x['total_calo'], reverse=True)
+        # sắp xếp dữ liệu giảm dần theo total_calo
 
         meals_plan = [meal for meal in meals_plan if meal['grams'] >= 10]  
         # taking only recommendations over 10 grams
@@ -290,5 +290,7 @@ def get_total_nutrients(meal_plan):
         for nutrient in nutrients_sum:
             value = meal[nutrient]
             nutrients_sum[nutrient] += value
+    
+    nutrients_sum['total_count'] = len(meal_plan)
 
     return nutrients_sum
