@@ -35,6 +35,8 @@ export default {
         fat_kcal_limit,
         cost_limit,
         meal_count_str,
+        is_vegetarian,
+        cuisine,
       } = req.params;
       const params = {
         days,
@@ -47,6 +49,8 @@ export default {
         fat_kcal_limit,
         cost_limit,
         meal_count_str,
+        is_vegetarian,
+        cuisine,
       };
 
       const mealPlanData = await getMealPlanFromFastAPI(params);
