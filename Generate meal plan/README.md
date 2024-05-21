@@ -31,5 +31,10 @@ pip install -r requirements.txt
   Link kết quả: http://127.0.0.1:8000/calculate_meals_for_days?days=7&low_salt=false&low_cholesterol=false&meal_count_str=1%2C%200%2C%202%2C%202%2C%200
 
 ## 3. Dữ liệu có sẵn
+
 - Tui có chạy thử code và lưu dữ liệu chạy trong Data/daily_meal_plans/backup. Mọi người có thể lấy để code giao diện.
 - File về meal_plan là các công thức, file về nutrients là tổng các nguyên liệu, số tiền,...
+
+## 4. Thêm thông tin URI
+
+- Thêm vào file get_data.py và file sever.py

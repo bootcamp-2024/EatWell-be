@@ -7,7 +7,8 @@ from datetime import date, timedelta
 import copy 
 # import certifi
 
-uri = "mongodb+srv://ithao252:rHgYZhyO8fRrVQKx@eatwell.ywx6khc.mongodb.net/?retryWrites=true&w=majority"
+uri = ""
+# thêm uri vào đây
 client = MongoClient(uri)
 db = client['EatWell']
 collectionMeal = db.Meal_Plan
@@ -33,6 +34,7 @@ def calculate_meals_for_days(userId: str, days: int=7, low_salt: bool=False, low
         meal_count = [int(v) for v in meal_count_str.split(',')]
 
         used_meals = []
+        meal_results = []
 
         for day_count in range(days):
             day_name = ['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun'][day_count % 7]
@@ -66,9 +68,10 @@ def calculate_meals_for_days(userId: str, days: int=7, low_salt: bool=False, low
             meal_day = (today + timedelta(days=day_count)).strftime("%d-%m-%y")
             collectionMeal.delete_many({'meal_day': meal_day})
             meal_data = {'userId': ObjectId(userId), 'meal_day': meal_day,'meal_plan': meal_plan, 'total_nutritions': total_nutritions}
+            meal_results.append({'userId': {"$oid": (userId)}, 'meal_day': meal_day,'meal_plan': meal_plan, 'total_nutritions': total_nutritions})
             result = collectionMeal.insert_one(meal_data)
 
-        return {"message": "Gen meal successfully"}
+        return {"message": "Gen meal successfully", "meal_plan": meal_results}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
@@ -89,14 +92,15 @@ def regenerate_meal_day(userId: str, day: str, recipeId: str):
             return {"message": "Gen meal unsuccessfully!!!"}
 
         new_recipe = find_other_recipe(recipe, recipe_data)
+        new_total_nutrients = get_total_nutrients(meal['meal_plan'])
         meal['meal_plan'][indx] = new_recipe
-        meal['total_nutritions'] = get_total_nutrients(meal['meal_plan'])
+        meal['total_nutritions'] = new_total_nutrients
         
         myquery = {'meal_day': day, 'userId': ObjectId(userId)}
         newvalues = { "$set": { "meal_plan": meal['meal_plan'], "total_nutritions": meal['total_nutritions'] } }
         collectionMeal.update_one(myquery, newvalues)
 
-        return {"message": "Gen meal successfully"}
+        return {"message": "Gen meal successfully", "meal_plan": meal['meal_plan'], "total_nutritions": meal['total_nutritions']}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
