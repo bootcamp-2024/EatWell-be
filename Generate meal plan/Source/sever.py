@@ -5,8 +5,9 @@ from bson import ObjectId
 from pymongo import MongoClient
 from datetime import date, timedelta
 import copy 
+# import certifi
 
-uri = "mongodb+srv://ithao252:rHgYZhyO8fRrVQKx@eatwell.ywx6khc.mongodb.net/"
+uri = "mongodb+srv://ithao252:rHgYZhyO8fRrVQKx@eatwell.ywx6khc.mongodb.net/?retryWrites=true&w=majority"
 client = MongoClient(uri)
 db = client['EatWell']
 collectionMeal = db.Meal_Plan

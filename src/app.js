@@ -7,7 +7,10 @@ import anonymousEndpoint from "#src/middlewares/anonymousEndpoint.mdw";
 import { handleError } from "#src/middlewares/errorHandler.mdw";
 import routes from "#src/routes/index.routes";
 import config from "#src/config/config";
-
+import moment from "moment";
+// import schedule from "node-schedule";
+// import nodemailer from "nodemailer";
+// import { createTransport, getAlertEmail } from "#src/utils/mailer";
 //==================== Library =======================
 const app = express();
 
@@ -49,6 +52,43 @@ if (config.DATABASE.URI) {
   console.error("Database URI is undefined. Please check your configuration!");
   process.exit(1);
 }
+
+// // Kết nối MongoDB
+// mongoose.connect(config.DATABASE.URI);
+// const db = mongoose.connection;
+
+// const Meal_Plan = db.collection("Meal_Plan");
+
+// async function checkAndSendBreakfastNotification() {
+//   const today = moment().startOf("day").format("DD-MM-YY");
+//   // const tomorrow = moment(today).add(1, 'day');
+
+//   const data = await db
+//     .collection("Meal_Plan")
+//     .find({
+//       meal_day: today,
+//     })
+//     .toArray();
+
+//   try {
+//     const breakfast = await Meal_Plan.findOne({
+//       meal_day: today,
+//     });
+
+//     if (breakfast) {
+//       // Gửi email thông báo
+//       const mailOption = getAlertEmail("thanhthaothaothao2@gmail.com");
+//       await createTransport().sendMail(mailOption);
+//     }
+//   } catch (error) {
+//     console.error("Lỗi khi kiểm tra bữa sáng:", error);
+//   }
+// }
+
+// // Lập lịch cho việc kiểm tra và gửi email thông báo lúc 7 giờ sáng mỗi ngày
+// schedule.scheduleJob({ hour: 2, minute: 0 }, function () {
+//   checkAndSendBreakfastNotification();
+// });
 
 //Start listen app
 app.listen(config.PORT, (error) => {

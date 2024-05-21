@@ -86,4 +86,39 @@ const getOTPEmail = (toEmail, otp) => {
   };
 };
 
-export { createTransport, getVerifyEmail, getOTPEmail };
+const getAlertEmail = (toEmail) => {
+  return {
+    from: config.GMAIL_USERNAME,
+    to: toEmail,
+    subject: "[EatWell] Email Alert",
+    html: `
+        <div style="
+            text-align: center; 
+            height: 256px;
+            width: 512px;
+            background-color: hsl(125, 29%, 75%); 
+            padding: 2em; 
+            justify-content: center;"
+        >
+            <h1>EatWell - Your Health Assistant</h1>
+            <h3>Thank you for registering</h3>
+            <div>
+                <a >
+                    <button style="
+                        font-weight: bold; 
+                        padding: 2em; 
+                        background-color: #18aeac; 
+                        color: #fff; 
+                        width: 512px; 
+                        border: none;"
+                    >
+                        Click here to activate your account
+                    </button>
+                </a>
+            </div>
+            <div>Sent at ${new Date().toUTCString()}</div>
+        </div>`,
+  };
+};
+
+export { createTransport, getVerifyEmail, getOTPEmail, getAlertEmail };

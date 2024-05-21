@@ -2,6 +2,9 @@ import MealPlanModel from "#src/models/MealPlan.model";
 import moment from "moment";
 import { getMealPlanFromFastAPI } from "#src/services/meal.services";
 import IngredientModel from "#src/models/Ingredient.model";
+import UserInfoModel from "#src/models/UserInfo.model";
+import mongoose from "mongoose";
+import config from "#src/config/config";
 
 export default {
   async mealSavedController(req, res, next) {
@@ -64,13 +67,57 @@ export default {
 
   async getIngredientNames(req, res, next) {
     try {
-      const ingredients = await IngredientModel.find({}, "name");
+      mongoose.connect(config.DATABASE.URI);
+      const db = mongoose.connection;
+      // const data = await db
+      //   .collection("Meal_Plan")
+      //   .find({
+      //     meal_day: today,
+      //   })
+      //   .toArray();
+
+      const ingredients = await db
+        .collection("Ingredient")
+        .find({}, "name")
+        .toArray();
       const names = ingredients.map((ingredient) => ingredient.name);
       res.status(200).send({
         exitcode: 0,
         message: "Get Ingredients successfully!",
         names,
       });
+    } catch (error) {
+      next(error);
+    }
+  },
+
+  async getTodayMealPlan(req, res, next) {
+    try {
+      mongoose.connect(config.DATABASE.URI);
+      const db = mongoose.connection;
+
+      const today = moment().format("DD-MM-YY");
+
+      const data = await db
+        .collection("Meal_Plan")
+        .find({
+          meal_day: { $gte: today },
+        })
+        .toArray();
+
+      if (data.length > 0) {
+        res.status(200).send({
+          exitcode: 0,
+          message: "Get Today Meal Plan of user successfully!",
+          data,
+        });
+      } else {
+        res.status(200).send({
+          exitcode: 101,
+          message: "The user does not have a meal plan today!",
+          data,
+        });
+      }
     } catch (error) {
       next(error);
     }

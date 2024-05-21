@@ -10,7 +10,7 @@ const router = express.Router();
 
 router.use("/user", user);
 router.use("/account", verifyLogin, verifyEmailVerified, account);
-router.use("/meal", verifyLogin, verifyEmailVerified, meal);
+router.use("/meal", meal);
 router.use("/menus", menu);
 
 export default router;

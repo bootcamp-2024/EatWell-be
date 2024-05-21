@@ -7,5 +7,6 @@ const router = express.Router();
 router.route("/generate").get(mealPlan.mealGenController);
 router.route("/saved").post(mealPlan.mealSavedController);
 router.route("/getIngredients").get(mealPlan.getIngredientNames);
+router.route("/getUserTodayMealPlan").get(mealPlan.getTodayMealPlan);
 
 export default router;
