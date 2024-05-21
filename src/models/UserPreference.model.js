@@ -1,54 +1,34 @@
 import mongoose, { Schema } from "mongoose";
 
-const BMI = new Schema(
+const nutritionPerDaySchema = new Schema(
   {
-    value: { type: Number, default: null },
-  },
-  { _id: false }
-);
-
-const BMR = new Schema(
-  {
-    value: { type: Number, default: null },
-  },
-  { _id: false }
-);
-const height = new Schema(
-  {
-    value: { type: Number, default: null },
-  },
-  { _id: false }
-);
-
-const weight = new Schema(
-  {
-    value: { type: Number, default: null },
+    protein: { type: Number, default: null },
+    fat: { type: Number, default: null },
+    carbohydrat: { type: Number, default: null },
+    fiber: { type: Number, default: null },
   },
   { _id: false }
 );
 const UserPreferenceSchema = new mongoose.Schema(
   {
     userId: { type: mongoose.Types.ObjectId, required: true, ref: "UserInfo" },
-    // height: [height],
-    // weight: [weight],
+    tags: { type: String, default: null },
     cuisine: { type: String, default: null },
-    allergy: [{ type: String }],
-    minPrice: { type: Number, default: null },
-    maxPrice: { type: Number, default: null },
+    allergies: [{ type: String }],
     bodyGoal: { type: String, default: null },
     activityLevel: { type: String, default: null },
     suggestedCalories: { type: String, default: null },
-    // BMI: [BMI],
-    // BMR: [BMR],
     healthRecords: [
       {
         height: { type: Number, default: null },
         weight: { type: Number, default: null },
         BMI: { type: Number, default: null },
         BMR: { type: Number, default: null },
+        nutritionPerDay: nutritionPerDaySchema,
         updatedAt: { type: Date, default: Date.now },
       },
     ],
+    weightGoal: { type: Number, default: null },
     createdDate: { type: Date, default: new Date() },
   },
   { collection: "UserPreference", versionKey: false }

@@ -1,3 +1,5 @@
 scipy
 fastapi
 uvicorn
+bson
+pymongo

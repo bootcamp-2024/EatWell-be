@@ -1,20 +1,36 @@
 import mongoose from "mongoose";
-const MenuSchema = new mongoose.Schema(
+
+
+const mealSchema = new mongoose.Schema({
+  name: {
+    type: String,
+    required: true,
+  },
+  cuisine: {
+    type: String,
+    required: true,
+  },
+  total_calo: {
+    type: Number,
+    required: true,
+  },
+  meal_time: {
+    type: String,
+    required: true,
+  },
+});
+
+const mealPlanSchema = new mongoose.Schema(
   {
-    mealName: {
+    meal_day: {
       type: String,
       required: true,
     },
-    calories: {
-      type: Number,
-      required: true,
-    },
-    notes: String,
-    start: Date,
-    resource: Number,
+    meal_plan: [mealSchema],
   },
-  { collection: "Menu", versionKey: false }
+  { collection: "Meal_Plan", versionKey: false }
 );
-const MenuModel = mongoose.model("Menu", MenuSchema);
-// console.log("Model has worked okay!");
+
+const MenuModel = mongoose.model("Meal_Plan", mealPlanSchema);
+
 export default MenuModel;

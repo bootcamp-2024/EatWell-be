@@ -5,6 +5,7 @@ from bson import ObjectId
 from pymongo import MongoClient
 from datetime import date, timedelta
 import copy 
+# import certifi
 
 uri = ""
 # thêm uri vào đây

@@ -11,6 +11,7 @@ const avatarImageUploader = createUploader(config.CLOUDINARY_AVATAR_PATH, [
 ]);
 router.route("/").patch(account.updateInformation).get(account.getInformation);
 router.patch("/password", account.changePassword);
+router.route("/getPreferences").get(account.getPreferences);
 router.route("/update-preference").patch(account.updateUserPreferences);
 
 router.patch(

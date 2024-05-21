@@ -2,7 +2,7 @@ import json
 from bson import json_util
 from pymongo import MongoClient
 
-uri = ""
+uri = "mongodb+srv://ithao252:rHgYZhyO8fRrVQKx@eatwell.ywx6khc.mongodb.net/"
 # thêm uri vào đây
 client = MongoClient(uri)
 db = client['EatWell']

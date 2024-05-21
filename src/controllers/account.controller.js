@@ -11,11 +11,9 @@ export default {
       const userInfo = await UserInfoModel.findOne({
         email: reqEmail,
       }).lean();
-      const userPreferences = await UserPreferenceModel.findOne({
-        userId: userInfo._id,
-      }).lean();
 
       const {
+        _id,
         email,
         password,
         fullName,
@@ -26,23 +24,11 @@ export default {
         avatar_path,
         avatar_filename,
       } = userInfo;
-      const {
-        height,
-        weight,
-        cuisine,
-        allergy,
-        minPrice,
-        maxPrice,
-        bodyGoal,
-        activityLevel,
-        suggestedCalories,
-        BMI,
-        BMR,
-      } = userPreferences;
 
       res.status(200).send({
         exitcode: 0,
         account: {
+          _id,
           email,
           password,
           phone,
@@ -52,23 +38,47 @@ export default {
             : null,
           gender: gender,
           isVerified,
-          height,
-          weight,
           avatar_path,
           avatar_filename,
         },
+
+        message: "Get user information successfully",
+      });
+    } catch (err) {
+      next(err);
+    }
+  },
+
+  async getPreferences(req, res, next) {
+    try {
+      const reqEmail = req.payload.email;
+      const userInfo = await UserInfoModel.findOne({
+        email: reqEmail,
+      }).lean();
+      const userPreferences = await UserPreferenceModel.findOne({
+        userId: userInfo._id,
+      }).lean();
+
+      const {
+        tags,
+        cuisine,
+        allergies,
+        bodyGoal,
+        activityLevel,
+        suggestedCalories,
+        healthRecords,
+      } = userPreferences;
+
+      res.status(200).send({
+        exitcode: 0,
         preferences: {
-          height,
-          weight,
+          tags,
           cuisine,
-          allergy,
-          minPrice,
-          maxPrice,
+          allergies,
           bodyGoal,
           activityLevel,
           suggestedCalories,
-          BMI,
-          BMR,
+          healthRecords,
         },
         message: "Get user information successfully",
       });
@@ -159,14 +169,14 @@ export default {
         height,
         weight,
         cuisine,
-        allergy,
-        minPrice,
-        maxPrice,
+        allergies,
+        tags,
         bodyGoal,
         activityLevel,
+        nutritionPerDay,
+        suggestedCalories,
         BMI,
         BMR,
-        suggestedCalories,
       } = req.body;
       const { email } = req.payload;
 
@@ -182,9 +192,8 @@ export default {
         { userId: userInfo._id },
         {
           cuisine,
-          allergy,
-          minPrice,
-          maxPrice,
+          allergies,
+          tags,
           bodyGoal,
           activityLevel,
           $push: {
@@ -193,6 +202,12 @@ export default {
               BMR: BMR,
               height: height,
               weight: weight,
+              nutritionPerDay: {
+                protein: nutritionPerDay.protein,
+                fat: nutritionPerDay.fat,
+                carbohydrat: nutritionPerDay.carbohydrat,
+                fiber: nutritionPerDay.fiber,
+              },
               updatedAt: new Date(),
             },
           },
@@ -200,20 +215,6 @@ export default {
         },
         { upsert: true, new: true }
       );
-
-      // const healthRecords = await HealthRecordsModel.findOneAndUpdate(
-      //   { userId: userInfo._id },
-      //   {
-      //     $push: {
-      //       BMI: { value: BMI, updatedAt: new Date() },
-      //       BMR: { value: BMR, updatedAt: new Date() },
-      //       height: { value: height, updatedAt: new Date() },
-      //       weight: { value: weight, updatedAt: new Date() },
-      //     },
-      //     // suggestedCalories,
-      //   },
-      //   { upsert: true, new: true }
-      // );
 
       return res.status(200).json({
         exitcode: 0,
