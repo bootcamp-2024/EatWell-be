@@ -66,6 +66,8 @@ async function processUserPreferences(client) {
   if (users.length > 0) {
     const user_info = [];
     users.forEach((user) => {
+      // lưu giá trị đầu tiên trong healthRecords để tính toán tiến trình dinh dưỡng
+      const firstRecord = user.healthRecords[0];
       user.healthRecords.forEach((update) => {
         const data = {
           user_id: String(user._id),
@@ -76,6 +78,10 @@ async function processUserPreferences(client) {
           weight: update.weight,
           bmi: update.BMI,
           bmr: update.BMR,
+          weightGoal: update.weightGoal,
+          origin_weight: firstRecord.weight,
+          weight_target: Math.abs(update.weightGoal - firstRecord.weight),
+          weight_process: Math.abs(firstRecord.weight - update.weight)
         };
         user_info.push(data);
       });
