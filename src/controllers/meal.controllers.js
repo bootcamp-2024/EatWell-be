@@ -5,6 +5,8 @@ import IngredientModel from "#src/models/Ingredient.model";
 import UserInfoModel from "#src/models/UserInfo.model";
 import mongoose from "mongoose";
 import config from "#src/config/config";
+import { cloudinary } from "#src/utils/cloudinary";
+import ImageDetect from "#src/models/ImageDetect.model";
 
 export default {
   async mealSavedController(req, res, next) {
@@ -124,6 +126,40 @@ export default {
       }
     } catch (error) {
       next(error);
+    }
+  },
+
+  async uploadImageToDetect(req, res, next) {
+    try {
+      const { file } = req;
+
+      if (!file) {
+        return res.status(400).send({
+          exitcode: 1,
+          message: "No file was uploaded.",
+        });
+      }
+
+      const detectImage = file;
+
+      const currentPublicId = "Detect"; // Bạn cần có đúng public_id để xóa ảnh cũ
+
+      try {
+        await cloudinary.uploader.destroy(currentPublicId);
+      } catch (err) {
+        console.log("Cannot delete old image:", err);
+      }
+
+      const newImage = new ImageDetect({ url: detectImage.path });
+      await newImage.save();
+
+      res.status(200).send({
+        exitcode: 0,
+        message: "Upload image detect successfully",
+        data: newImage,
+      });
+    } catch (err) {
+      next(err);
     }
   },
 };

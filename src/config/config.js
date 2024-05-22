@@ -33,6 +33,7 @@ const config = {
 
   AVATAR_IMAGE_NUMBER_LIMIT: 1,
   CLOUDINARY_AVATAR_PATH: "eatwell/avatar/",
+  CLOUDINARY_DETECT_PATH: "eatwell/detect/",
 };
 
 export default config;

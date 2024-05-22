@@ -16,6 +16,7 @@ const createUploader = (path, allowedFormats) => {
 
   const uploader = multer({
     storage: storage,
+    limits: { fileSize: 10 * 1024 * 1024 },
   });
   return uploader;
 };
